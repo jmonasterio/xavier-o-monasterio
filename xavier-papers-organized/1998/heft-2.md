@@ -1,0 +1,54 @@
+---
+title: "heft-2"
+original_file: "xavier-papers-organized/undated/notes/heft-2"
+original_format: WordPerfect document, v2.3
+converted_date: 2026-01-18
+converted_with: wpd2html + pandoc
+topics: []  # To be added
+---
+
+Wp\heft January 20, 98
+
+The AAUP and academic freedom in denominational universities
+
+   - 1915: The AAUP acknowledged right of denominational colleges to be governed according to their religious tradition, but “had serious reservations about their academic integrity”.   Indeed, such institutions “do not, at least as regards one particular subject, accept the principles of freedom of inquiry, of opinion, and of teaching, and their purpose is not to advance knowledge..., but rather to subsidize the promotion of opinions held by persons usually not of a scholar’s calling, who provide the funds for their maintenance” (p.3).
+
+   - Still in 1940  the AAUP stated the limitations clause, to wit: that “limitations in academic freedom beckause sof religion and other aims of the institution should be clearly stated in writing at the time of appointment” (p. 3). .
+
+   - By 1970, the AAUP declared that most denominational colleges “no longer needed such a limitations clause.” This change, in Heft’s hypothesis,  may have been due to Vatican II and to the 1967 Land o Lakes Statement of Catholic colleges signed by leaders of a number of Catholic colleges. The statement read, in part, that: “the Catholic University must be a university in the full modern sense of the word , with a strong commitment and concern for academic excellence... [and] must have a true autonomy and academic freedom, in the face of authority of whatever kind, lay or clerical, external to the academic community itself” (p. 4). In Heft’s view, “The signers of the 1967 statement claimed academic freedom for all the university’s subject areas, including theology” (ibid.).
+
+- By 1970, too, according to Heft’s chronology, “major colleges and universities, no longer resembling denominational colleges, began instead to look more like mainstream universities. However, still in the 1970's, the AAUP  found it necessary to criticize their “unacceptably limited academic freedom” (p. 4)
+
+- And in1988: a subcommittee of AAUP argued in favor of the original position that a true university must be free from “any orthodoxy,” even in departments of theology (p. 5).
+
+Heft’s objections and reaction to the AAUP’s position
+
+“The third emphasis of the AAUP’s idea of academic freedom embodies a narrow epistemology . It came to be affirmed at a time when the scientific method determined almost exclusively in the academy the type of knowlege that was valued–new knowledge rather than the faithful retrieval of religious and humanistic traditions to be handed on to the next generation.  In other words, the authority of a certain type of tradition, a religious tradition, was displaced by another tradition, a certain academic tradition that recognized as valid only that knowledge that is arrived at through scientific methodology. It should be noted here, however, that since the beginning of this century, few philosophers would identify themselves simply as ‘verificationists,’ and many have broadened their view of what constitutes valid knowledge” (p. 5). “Nevertheless,” Heft continues, for many secular academics acceptance in faith of the truth of Christian revelation appears to be an indefensible sacrifice of intellectual freedom” (Ibid.).  And he returns to the AAUP narrow epistemology: “People who retain such a narrow understanding of knowledge... overlook the fact that in the humanities and indeed in theology as well, new insights are discovered, developed, and challenged within a religious community. They would be unlikely to know that such religious communities reject the tyranny of tradition , but not its authority .  They need to recognize that the scientific method can also exercise a tyranny, as when it relegates religious belief and tradition to the realm of inferior and less reliable knowledge. The problem is not with the scientific method properly and humbly employed–it gives us real and valuable knowledge of the world. The problem is with those scientists and others who believe that it produces the only knowledge worth having” (p. 5).
+
+Heft will proceed to grant that after all AAUP has had some positive effect on Catholic colleges. However, apart from its narrow epistemology, the AAUP’s  position has a fatal deficiency: it rightly stresses the rights of the  individual, promoted by the social contract tradition, but it ignores the corporate or community rights, that belong in the natural reason tradition.
+
+My reaction to Heft’s analysis
+
+By identifying the AAUP’s position on academic freedom in terms of the rights of individuals, Heft seems to me to misunderstand  and, as a consequence he fails to appreciate e the real strength of those who object to denominational universities.
+
+If the AAUP position rested on “physics envy,” Heft’s attack would be quite on target and  valid. In my opinion, however, the AAUP’s position rests on a view of the nature of academia, that is, of the university, that has normative consequences. The view is the following: The university is an institution devoted to the pursuit of knowledge. But knowledge by its very nature cannot rest on, or be limited by,  authority without losing its character of knowledge and becoming belief (see the 1915 declaration). Hence the university as such has no room for the authority of any belief.  
+
+The real issue, then, is not positivism or scientism or verificationism but the nature of knowledge and its compatibility with authority and obedience to authority. At a certain point, though rather incidentally, Aquinas expressed very concisely the view of knowledge on which the AAUP position rests, to wit: “SCITUM NON POTEST ESSE CREDITUM .”  Translation: “NOTHING CAN BE BELIEVED AND KNOWN AT THE SAME TIME.“ Aquinas himself espouses this view, since it creates a problem which he has to confront. Aquinas thinks that certain revealed truths–f.e., God’s existence–can also some to be known by reason.  This leads him to raise the question whether those Christian intellectuals who come to know by reason a revealed truth have a more restrained range of belief, and consequently less merit, than those who are not intellectuals and who along with all the other truths of faith accept God’s existence on God’s authority rather than on the basis of evidence.
+
+Why does Aquinas maintain that that nothing can be known and believed at the skame time? The reason for this is obvious, at least to Aquinas. What is believed is accepted on the basis of authority, and what is known is known on the basis of evidence. Therefore the assent of knowledge and the assent of faith are mutually exclusive. This is why Aquinas affirms that in heaven, where we will enjoy the vision of God in all his presential evidence, faith will be impossible, for even God cannot be object of faith and of vision at the same time.
+
+Well, what is obvious to Aquinas is obvious to the AAUP, too, and to all those who ask us Catholics who defend Catholic universities how we can put together the acceptance of certain truths on the basis of God’s authority and want those truths to be taken for, and treated as, knowledge in the institutions devoted to the acquisition and dissemination of knowledge. In short, the AAUP’s position is underpinned by the conviction that the business of the university is to lead to knowledge, and a knowledge that rests on belief is a contradiction in terms. Hence there should be no room in universities for departments of theology in which the authority of faith is accepted, as Aquinas contended it should, and in which religious authorities have the right to interfere when a revealed truth is denied or deformed, as claimed by Ex corde Ecclesiae .
+
+This, and not positivism or scientism or verificationism or “physics envy,” and not individual rights either, is the question raised by the AAUP that needs to be answered by us Catholics concerning Catholic universities. I don’t think that Heft’s paper meets this question squarely, much less that it answers it satisfactorily.
+
+  
+
+Do we Catholics really have an answer to this question? Or, rather, we have slogans
+
+such as “The truth is one,” and “God Himself is the truth,” and “There can be no contradiction between a truth of faith and a truth of reason”? And, concretely, which is the answer we Catholics actually give to the issue of Academic freedom in Catholic universities?. In fact, we seem to speak with  different and conflictive voices: There is the  Land O’Lake Statement--freedom from all authority--which seems to be the voice heard by what Heft designates as the “Catholic colleges who wanted to be like institutions that claim to be truly neutral (p. 9). There is Ex corde Ecclesiae, which reaffirms the primacy of faith over reason in revealed matters,  the authority of the Pastors of the Church (the Pope and the Bishops) in matters of faith, and their right to intervene in Catholic universities, as well as the obligation of Catholic theologians to obey. This seems to be the voice heard by, in Heft’s words,  “some smaller Catholic colleges who want there to be no doubt about their catholicity.” This is the model Heft calls “the closed circle,” which seems to be implied too by John Paul II’s encyclical Fides et Ratio. There is also, finally, among many others,  Heft’s voice in this paper, with his “open circle model,” and his views on “the importance of critical reflection in theology” and “the importance  of protecting the integrity of theological discourse” (p. 15).
+
+Given this cacophony of voices, there is no wonder that non-Catholics don’t trust our declarations concerning academic freedom in Catholic universities, since they cannot know with which voice we are speaking and for how long will that last. No wonder, either that the American Catholic bishops find themselves torn apart by the conflicting pulls of the Papal authority, the demands of their own pastoral obligations,  the calls of liberal, conservative, and middle-of-the-road theologians, and the cries of the Catholic intellectuals and the mass of American Catholics.
+
+     
+
+Let me finish with some of Heft’s own words: “I believe that the Church as a whole is also now in the process of trying to clarify how it can affirm on the one hand a genuine form of academic freedom for Catholic scholars, while at the same time affirming the obligation that believing Catholics have to develop and pass on to the next generation a vibrant religious tradition” (p. 7). I think the same. Indeed, the Church is in that painful process. But we had better realize that, as yet, we have no persuasive answer to those who, like the AAUP, question us about academic freedom.

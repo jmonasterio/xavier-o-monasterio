@@ -1,0 +1,44 @@
+---
+title: "99-Jan-1aquinas-3"
+original_file: "xavier-papers-organized/1999/99-Jan-1aquinas-3"
+original_format: WordPerfect document, v2.1
+converted_date: 2026-01-18
+converted_with: wpd2html + pandoc
+topics: []  # To be added
+---
+
+99-jan-2Fides FIDES ET RATIO Jan 27, 99
+
+“We define reason to be man’s natural faculty of reaching the truth... And we define faith, on the other hand, to be the assent of the mind to the truth, upon the testimony of God, conveying knowledge to us through supernatural channels” (Cf. Baillie).
+
+“Quid ergo Athenis et Hierosolimis? Quid Academiae et Ecclesiae?” (Tertullian, De praescriptione hereticorum , VII, 9;SC 46, -p0.98. Quoted in Fides et Ratio, # 41).
+
+# 76: “Christian philosophy... It in no way intends to suggest that there is an official philosophy of the church since faith as such is not a philosophy . The term seeks rather to indicate a Christian way of philosophizing, a philosophical speculation conceived in dynamic union with faith.”
+
+“The second aspect of Xtian phil is objective, in the sense that it concerns content. Revelation clearly supposes certain truths which might never been discovered by reason unaided, though they are not of themselves inaccessible to reason. Among these truths is the notion of a free and personal God who is the creator of the world...
+
+Aquinas’ epistemology of faith as a sort of superknowledge because of its certainty and as intellectual assent on the basis of divine authority is modeled on the Aristotelian notion of knowledge in the Posterior Analytics, which deals with speculative knowledge, not on the notion of practical knowledge with which Aris deals in his Ethics . Although the term knowledge is used in both cases, I contend that it is used equivocally, for it names two totally different things. THIS EQUIVOCATION IS THE FIRST THING I HAVE TO MAKE UNDERSTOOD.
+
+MY SECOND STEP IS THE FOLLOWING. suppose that faith happens to be knowledge in the sense in which practical knowledge is knowledge. In that case, Aquinas analysis of faith, which assumes that faith is knowledge in the skense in which Aristotelian speculative knowledge is knowledge, would be wrong. By the same token the whole idea of the relationhsip between faith and reason on which the encyclical rests, as well as the expectations on the achievements of philosophy, both of  which are borrowed from Aquinas, would be wrong too.  
+
+A note on “philosophy” in the encyclical “Faith and Reason”
+
+“Faith as such is not a philosophy” (Faith and Reason, # 76).
+
+# 75: “There is a philosophy completely independent of the Gospel’s revelation. This is the stance adopted by philosophy as it took shape in history before the birth of the Redeemer and later in regions as yet untouched by the Gospel. We see here philosophy’s valid aspiration to be an autonomous enterprise, obeying its own rules and employing the powers of reason alone. Although seriously handicapped by the inherent weakness of human reason, this aspiration should be supported and strengthened... Moreover, the demand for a valid autonomy of thought should be respected... Indeed to argue according to rigorous rational criteria is to guarantee that the results obtained are universally valid.”
+
+Why does philosophy has this aspiration –acknowledged as VALID by the Pope--to be an autonomous enterprise, obeying its own rules and employing the powers of reason ALONE? Because what counts as knowledge, for philosophers, given the very nature of their quest for truth, is not independent of the rigorous rational way in which knowledge is reached. Indeed, it is part and parcel of the philosophical quest for knowledge that what is to count as knowledge must be reached in a rigorous rational may alluded to by the Pope. Otherwise, it may perhaps be true, by chance, but cannot qualify as knowledge because it cannot be known as true. If someone had
+
+told Plato, who defended so strongly the distinction between knowledge and opinion or belief, that something was true because it was divinely revealed, Plato would have laughed–as most of my colleagues in my Department and in the philosophical profession do, because they don’t think, as the Pope assumes,  that philosophy’s “aspiration to be an autonomous enterprise, obeying its own rules and employing the powers of reason ALONE” is extrinsic to philosophy.
+
+When Aquinas declared that there are two sources of knowledge–reason and revelation–he was implicitly saying that knowledge can be obtained through the rigorous rational way and also in another way. By the same token, he was saying that something can be known as true if it is believed on the basis of divine authority. However, for philosophers, this is a contradiction in terms, as it would have been for Plato. Actually, Aquinas had a good opportunity to suspect the same, since he had to meet again and again (and rather unsuccessfuly,in my opinion) the objection that nothing can be object of knowledge and of belief at the same time, and since, for all his efforts to convert theology into a scientific discipline, could only go as far as declaring it to be a “quasi scientia,” that is, a quasi knowledge, since it was subordinated to faith and therefore rested on belief.
+
+Now, the Pope in his encyclical speaks extensively of philosophy and of “the relationship between faith and philosophy.” The question is: How does he understand the word “philosophy” (that is, the philosophical enterprise): as Plato and Aristotle did and contemporary philosophers usually do, in which case philosophy is totally autonomous and cannot be limited by faith in any way, or as an enterprise in which some of what counts as knowledge can be accepted in faith, and therefore the truths of faith and the truths of philosophy are, as truths, on the same plane and can complement each other?
+
+I think that the answer to this question is that the Pope uses indiscriminately the word philosophy in these two senses without realizing it at all. Consequently he doesn’t make sense to philosophers, who because of their rational tradition cannot count as knowledge what is object of belief–be it religious or otherwise--and who therefore  reject the very possibility of a synthesis of the truths of reason with the truths of faith, as well as the possibility of the limitation of their rational enterprise by faith. In their view, the enterprises of reason and of faith are totally different and disparate enterprises, and philosophers as such can have no regard for an enterprise that claims to attain knowledge by other than purely rational means. In short, philosophy is, and has always been, a purely rational enterprise–what the Pope would have to dismiss as a “rationalistic” enterprise.   
+
+A further question is whether the Pope can realistically expect from philosophy as understood by philosophers all the benefits he expects in the last sections of his encyclical in offering a sort of rational  foundation for certain of the truths of faith and in solving the problems the Pope enumerates in the last section of the encyclical. I think that the answer is negative. If the history of philosophy shows anything, it is not that philosophy as actually practiced by philosophers tends asymptotically to rejoin faith, but rather the contrary. Indeed, if philosophy had been doing the job that the Pope assigns it one can hardly see why there would be today “the crisis of truth” that worries the Pope so much.
+
+But of course, it is not of philosophy as a purely rational enterprise obeying its laws alone that the Pope expects the benefits he mentions, for, while affirming the autonomy of reason, he nonetheless affirms that “The truths of faith make certain demands which philosophy must respect...” (End of # 77).  The problem is that, at least according to philosophers, such a philosophy cannot exist without ceasing to be philosophy. At any rate, a philosophy that feels rationally compelled to respect the demands of the truths of faith is, most certainly, not the kind of philosophy philosophers teach at the University of Dayton or at any other university I know of.  How then can the Pope realistically expect from philosophy  the benefits he expects? Given that philosophy is not what the Pope understands by philosophy, I don’t see how he can expect from it the benefits he expects.
+
+Now,  certain theologians and believers are criticized by the Pope because they reject philosophy and don’t expect from philosophy the great benefits that haven’t accrued to faith after more than two millennia of philosophical practice. Since I am one of those believers, I would like to clarify that what I at least have in mind when I reject philosophy is the philosophical enterprise  as it has actually existed and exists, which on the basis of a certain epistemology shared by our culture necessarily excludes faith because it doesn’t fit within its notion of rationality.

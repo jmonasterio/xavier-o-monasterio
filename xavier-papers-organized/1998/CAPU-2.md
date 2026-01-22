@@ -1,0 +1,900 @@
+---
+title: "CAPU-2"
+original_file: "xavier-papers-organized/undated/notes/CAPU-2.doc"
+original_format: CDFV2 Microsoft Word
+converted_date: 2026-01-18
+converted_with: antiword
+topics: []  # To be added
+---
+
+
+\wp\monas\Capu-2                             September 5, 94
+
+                       CAPUTO, SEARLE, AND BEYOND
+
+
+      "Perspectivism... is a doctrine only possible  for  those  who  regard
+themselves as outsiders, as uncommitted  or  rather  as  committed  only  to
+acting a succession of  temporary  parts.  From  their  point  of  view  any
+conception of truth but the most minimal appears to have  been  discredited.
+... such persons are by their stance excluded from  the  possession  of  any
+concept of truth adequate for systematic rational enquiry. Hence  theirs  is
+not so much a conclusion about truth as an exclusion  from  it  and  thereby
+from rational debate.
+      "Nietzsche came to understand this very well. The  perspectivist  must
+not engage in dialectical argument with Socrates, for  that  way  would  lie
+what from our point of view would be involvement in a tradition of  rational
+enquiry, and from Nietzsche's point of view subjection  to  the  tyranny  of
+reason. Socrates is not to be argued with;  he  is  to  be  mocked  for  his
+ugliness and bad manners. Such mockery in response to dialectic is  enjoined
+in the aphoristic paragraphs of Göten-Dammerung. And the use of aphorism  is
+itself instructive. An aphorism is not an argument.  Gilles  Deleuze  called
+it 'a play of forces', something by means of  which  energy  is  transmitted
+rather than conclusions reached...
+      "... Anomie, as Durkheim characterized it, was a form of  deprivation,
+of loss of membership in  those  social  institutions  and  modes  in  which
+norms,  including  the  norms  of  tradition-constituted  rationality,   are
+embodied. What Durkheim did not forsee was a time when  the  same  condition
+of anomie would be assigned the status of an achievement  by  and  a  reward
+for a self, which had, by separating itself from  the  social  relationships
+of traditions, succeeded, so it believed, in emancipating itself. This self-
+defined success becomes in different versions the freedom from bad faith  of
+the  Sartrian  individual  who  rejects  determinate   social   roles,   the
+homelessness  of  Deleuze's  nomadic  thinker,  and  the  presupposition  of
+Derrida's choice between remaining 'within,' although  a  stranger  to,  the
+already constructed social and intellectual edifice, but only  in  order  to
+deconstruct it from  within,  or  brutally  placing  oneself  outside  in  a
+condition of  rupture  and  discontinuity.  What  Durkeheim  saw  as  social
+pathology is now presented wearing the masks of   philosophical  pretension"
+(MacIntyre, Whose Justice? Which Rationality?, pp. 368-369).
+       "...  our  education  in  and  about  philosophy  has  by  and  large
+presupposed  what  is  in  fact  not  true,  that  there  are  standards  of
+rationality,  adequate  for  the  evaluation  of  rival  answers   to   such
+questions, equally  available,  at  least  in  principle,  to  all  persons,
+whatever tradition they may happen to find themselves in and whether or  not
+they inhabit any tradition" (Ibid., p. 393).
+"Their [of relativism and  perspectivism]  apparent  power  derives...  from
+their inversion of certain central Enlightenment positions concerning  truth
+and rationality. While the thinkers of the  Enlightenment  insisted  upon  a
+particular type of view of truth and rationality...,  the  protagonists   of
+post-Enlightenment  relativism  and  perspectivism   claim   that   if   the
+Enlightenment conceptions of truth  and  rationality  cannot  be  sustained,
+theirs is the only possible alternative.
+"Post-Enlightenment relativism  and  perspectivism  are  thus  the  negative
+counterpart of the Enlightenment,  its  inverted  mirror  image.  Where  the
+Enlightenment  invoked  the  arguments  of  Kant  and  Bentham,  such  post-
+Enlightenment theorists invoke Nietzsche's attacks upon  Kant  and  Bentham.
+It is therefore not surprising that what was invisible to  the  thinkers  of
+the Enlightenment sholuld  be  equally  invisible  to  those  post-modernist
+relativists and perspectivists who take themselves to be the enemies of  the
+Enlightenment... What neither was or is able to recognize  is  the  kind  of
+rationality possessed by traditions." (Ibid., p. 353).
+"Where  the  standpoint  of  a  tradition  requires  a  recognition  of  the
+different  types  of  language-in-use  through  which  different  types   of
+argument will have to be carried on, the standpoint of the forums of  modern
+liberal culture presupposes the possibility of a  common  language  for  all
+speakers or at the very least of the translatability  of  any  one  language
+into  any  other.  Where  the  standpoint  of  a   tradition   involves   an
+acknowledgment that fundamental debate is between competing and  conflicting
+understandings of rationality,  the  standpoint  of  the  forums  of  modern
+liberal culture presupposes the fiction of  shared,  even  if  unformulable,
+universal standards  of  rationality.  Where  the  standpoint  of  tradition
+cannot be presented except in a way which takes account of the  history  and
+the historical situatedness, both of  traditions  themselves  and  of  those
+individuals who engage in dialogue with them, the standpoint of  the  forums
+of modern liberal culture presupposes the irrelevance of  one's  history  to
+one's status as a participant in a debate. We confront one another  in  such
+forums  abstracted  from  and  deprived  of  the  particularities   of   our
+histories" (Ibid., p. 400).
+"The  function  of  genealogy  as  emancipatory  from  deception  and  self-
+deception thus requires the identity and continuity of  the  self  that  was
+deceived and the self  that  is  and  is  to  be"  (MacIntyre,  Three  Rival
+Versions of Moral Enquiry, p. 214).
+"The genealogist has up till now  characteristically  been  one  who  writes
+against, who exposes, who subverts, who interrupts and  disrupts.  But  what
+has in consequence very rarely, if at all, attracted  explicit  genealogical
+scrutiny is the extent to which the genealogical  stance  is  dependent  for
+its concepts and its modes of argument, for its theses and its  style,  upon
+a set of contrasts between it and that which  it  aspires  to  overcome--the
+extent, that is,  to  which  it  is  inherently  derivative  from  and  even
+parasitic upon its antagonisms and those towards  whom  they  are  directed,
+drawing its necessary sustenance  from  that  which  it  professes  to  have
+discarded" (Ibid., p. 215).
+
+Caputo reads Levinas' text
+      which of course is  interpretive  and  which  explicitly  furnishes  a
+particular  interpretation  of   obligation   as   a   revelation   of   the
+Transcendent. But how does Caputo read that text? As a  typical  philosopher
+would  read  a  philosophical  text,  thinking  in  terms   of   assent   to
+propositions, or at least in terms of  a  more  direct,  originary,  contact
+with the Transcendent.   Since,  however,  assent  to  propositions  demands
+justifying evidence, and originary contact demands that the  contact  happen
+for the conviction to occur, and since both are lacking in  Caputo's  case--
+How  do  I  know,  I  was  not  there!--,  Caputo  will   dismiss   Levinas'
+interpretation because  it  goes  beyond  the  justifying  evidence  or  the
+irrecusable contact, and will stick by his  minimalist  interpretation.  But
+is not what Caputo does in this case exactly  what  philosophers  have  been
+doing since philosophy was born, that is,  demanding  foundational  grounds?
+And has not Caputo himself condemned the philosophical project, even in  its
+milder, Heideggerian form? This is why I, for one,  think  that  Caputo  has
+not gone far enough in his  abandonment  of  the  metaphysics  of  presence,
+since he dismisses the  interpretations  he  does  not  like  for  the  same
+reasons for which philosophers dismissed custom and ethos. In short, if  all
+there  is  is   interpretations,   there   is   no   more   possibility   of
+distinguishing  minimalist  from  non-minimalist  interpretations  than,  as
+Caputo claims, of establishing a  fundamental  difference  between  Hitler's
+order to exterminate the Jews and Yaweh's command to kill Isaac (p. 26).
+      He is still entangled in the philsophical tangle, for he  deconstructs
+from the standpoint of philosophical reason that aspires to  grounded  truth
+and fails to reach it. As long as he remains  there  any  interpretation  of
+Kierkegaard's  or  Levinas'  type  will  necessarily  appear   to   him   as
+maximalist.
+      See, for instance, how he  marks his difference with Levinas:
+      "Unlike Levinas,... I do not  think  that  anything  can  'deaden  the
+      heartrending bustling of il y a. I am more inclined to believe Levinas
+      when he says that obligation comes 'from I know not  where.'...  'God'
+      is not the 'apex of my vocabulary'... but another  word  that  puzzles
+      and disturbs my sleep.  I am pursued by a more  radical  anarchy  than
+      Levinas's, one without an  apex  or  a  deep,  founding,  preoriginary
+      ethics from which science and law and politics and institutional  life
+      can be derived and secured and can draw breath. I am haunted by a more
+      disturbing diachrony... To say that this diacrhrony leaves  its  trace
+      in obligation, and then to say that this trace is the trace of God, is
+      not that to track this trace down, to catch up with it, to catch one's
+      breath? That is too much for me... If  he--il,  E.L.--'does  not  know
+      from where" obligation comes, then why does he say a thing?  Why  does
+      he say that it (il) is the trace of God... My meditations on  il  y  a
+      leave me in a permanently anarchic state, tormented by  the  truth  of
+      scepticism" (pp. 225-6).
+      "The deconstruction of ethics is ethics' own doing, own undoing, right
+      before our eyes. It is something that happens to ethics and in ethics,
+      something going on in ethics, with or without Jacques Derrida. In  any
+      possible deconstruction of ethics, one would be  simply  passsing  the
+      word along that one is rather more on one's  own  than  one  likes  to
+      think, than ethics would have us think.
+      "Deconstruction shows how a film of undecidability creeps quietly over
+      the clarity of decisions, on cat-soft  paws,  clouding  judgment  just
+      ever so much, so that we cannot quite make out the figures all  around
+      us. But do not be mistaken. Deconstruction offers  no  excuse  not  to
+      act. Deconstruction does not put up a stop sign that brings action  to
+      a halt, to the full stop of indecision; rather, it installs a flashing
+      yellow light, warning drivers who must in any case get where they  are
+      going to proceed with caution, for the way is not safe. Undecidability
+      does not detract from the urgency of decision;  it  simply  underlines
+      its difficulty. Deconstruction takes as its subject matter the task of
+      making one's way along an aporia, along  an  almost  impassable  road,
+      where  the  ground  may  at  any  moment  shift  beneath   our   feet.
+      Deconstruction issues a warning that the road  ahead  is  still  under
+      construction, that there is blasting and the danger of  falling  rock.
+      Ethics, on the other hand, hands out maps which  lead  us  to  believe
+      that the road is finished and there are superhighways along  the  way"
+      (p. 4).
+            Here is Caputo's profession of minimalism:
+      "We cannot just avoid or simply step outside metaphysics, which  would
+      mean to step outside the logic and the ontologic of our grammar...  To
+      speak at all is to have recourse to a way of framing and phrasing,  to
+      fall back upon a way of dividing up and  parceling out,  to  mark  the
+      world up... and to stake it out in one ontocategorical way or another.
+      That is unavoidable...
+      "My minimalism is what is behind my affection for 'anarchy,'  for  the
+      arche is always a stroke of violence, a violent incision, a cutting up
+      and ordering about of events, of the singularity  of  events...  by  a
+      Meta-event that orders everything  around.  The  key  to  my  idea  of
+      anarchy is to see that it is always on the side of keeping violence to
+      a minimum...
+      "To affirm the anarchy of  events  is  to  embrace  a  polyarchy  that
+      concedes that  events  are  indefinitely  rediscribable,  indefinitely
+      reconfigurable, that we lack the perspective from which  to  pronounce
+      or pass the final judgment on the sense of events...
+      "Minimalism  is  a  metaphysics  without  a  Meta-event,  a  kind   of
+      decapitated metaphysics...
+      "Minimalism lets events happen, lets them be, lets them   go,  without
+                                  imposing grand  and  overarching  schemata
+                                  upon  them, without simplifying  them.  It
+                                  has decided to come  to        terms  with
+                                  intractable        plurivocity         and
+                                  heteromorphicproliferation, in the  spirit
+                                  of Abraham of Paris.
+      "You cannot avoid linking one event to another and that to another, ad
+      infinitum--again and again, and in different ways, over and over.  But
+      in this minimalist metaphysics or quasi-philosophy  of events you will
+      never come up with a Meta-event that organizes all other events,  that
+      puts them to rest, that arrests their play... I do  not  care  if  you
+      call such a
+      Meta-event ousia or eidos, Bewusstsein or Wille zur Macht,     God  or
+the gods, abba or Jahweh, the logos or the  primordial     Greek  Beginning,
+pace Father Abraham and the prophets, pace   Hegel and Heidegger and  Greco-
+German philosoophy... Every  time an  event  is  treated  as  a  Meta-event,
+there is power   play afoot and the police are not far behind (220-222)
+
+Has Caputo gone far enough?
+      But  Caputo  and  Derrida  and  philosophical  deconstructionists  are
+wrong. Their undecidability is the undecidability of written texts, a  post-
+factum undecidability. Spoken  language  does  not  produce  a  text  to  be
+decided about. That is a wrongheaded view of  language  grounded  in  saying
+and the said. Spoken language is not like that.  In  speaking,  the  speaker
+produces something already defined intentionally by decision,  whithout  the
+security of episteme but within the secure parameters  of  faith,  something
+already decided, an act that aims at certain effects, and by responding  the
+addressee produces something already defined by decision, someghing  already
+decided.
+
+      Let me start by summarizing  my  argument.  What  makes  the  founding
+project of the Greek philosophers conceivable is the conviction  that  truth
+is grounded truth. This in its turn rests on the assumption that truth is  a
+quality of judgments-statements whose function  is  to  picture  or  reflect
+what is the case. Deconstructionists may be said to  inherit  these  "Greek"
+assumptions in that they have no  substitute  for  them  and,  consequently,
+feel the impossibility of living up  to  these  assumptions  as  a  failure:
+hence, if not skepticism, at  least  constant  shifting  of  positions,  and
+practical undecidability . They disagree  with  the  Greek  philosophers  in
+that deconstructionists  are  convinced  that  no  truth  of  any  judgment-
+statement can be grounded, for language does not  deliver  in  presence  but
+refers. The  very  attempt  to  ground  presupposes  that  language  can  be
+escaped, which is impossible.
+      Caputo is no different. He has not substituted these assumptions  with
+better, more  perusasive,  ones.  As  a  result,  he  finds  groundless--and
+therefore suspicious--all texts, his own included. In other words, for  him,
+as for the hated Greeks, truth is grounded truth. If it  is  not  grounded--
+and it cannot be--then it is not certain truth, it should be doubted.  Which
+is what Caputo does concerning his own minimalistic  interpretations,  which
+are for him vulnerable to disaster.  It is in this  sense  that  I  question
+whether Caputo has gone far enough in his rejection of the  Greeks,  for  he
+remains subject to their presuppositions, he continues to work within  their
+paradigm.
+      Secondly, if he ever goes far  enough,  should  not  Caputo,  escaping
+Derrida's  orbit,  give  up  his  minimalism  and  embrace  something   like
+Kierkegaard's tradition of faith, though Kierkegaard  himself  thought  that
+his faith was a merely individual--though graced--commitment and  though  he
+saw it as "a leap," which shows that he was judging it by the  standards  of
+silly rationality? In other words, If Caputo is a man of faith, why does  he
+not practice Christian deconstruction,  that  is,  deconstruction  from  the
+standpoint of the Christian tradition rather than from the impossible  point
+of view of nowhere, of Derridean philosophical deconstruction? Or  would  he
+deny that Christian deconstruction is possible, or that it makes more  sense
+(at least because it is situated, than  the  supposedly  unsituated  one  he
+practices?
+A note on Derrida and deconstructionism
+       Derrida  is  Caputo's   master--not   Nietzsche,   not   Kierkegaard.
+Undecidability. But Derrida is a thorn in the  flesh  of  the  philosophical
+project, parasitic on the  discoursive  attempt  to  ground  the  truth  (of
+judgments-statements),  thus  making  decision  safe.  Derrida  thrives   on
+opposition to written texts, objectified practices, as groundedly  true,  as
+rationally or intuitively indisputable, as delivering reality, as  excluding
+the truth of all other truth-claiming texts. This is  Greek  discourse.  For
+Derrida, there is only discourse as  interpretation  which  aims  at  truth,
+replaceable by an indefinite number of interpretations which  aim  at  truth
+without ever delivering reality.
+       As  long  as  there  is  pretension  or  claim  to  grounded  truth--
+metaphysical  project,  episteme,   necessarily   true   statements,   Greek
+discourse (even revealed Greek written text?)--Derrida is possible, much  as
+deconstruction of communism is  possible  as  long  as  there  is  communist
+discourse, for deconstruction is parasitic  on  grounded  truth  of  written
+text, of evidentially or rationally supported thesis.
+      We should remember, however, that Greek  discourse  was  born  out  of
+suspicion and distrust  of  the  not-grounded,  by  contrast  to  an  ideal,
+dreamed  grounded  discourse  and  under  the  promise  of   the   grounding
+alternative which philosophy was to provide. [What the two share  in  common
+is the view that language (texts) means rather than people, and  that  truth
+is a quality of contemplative judgments]. Once this ideal  proves  not  only
+unattainable but  illusory,  the  philosophical  practice  disappears  as  a
+possibility for those  who  realize  its  illusoriness,  but  with  it  also
+disappears the reason to demand evidential-rational grounds and  to  suspect
+and  distrust  the  not  grounded,  unless  one  continues  to  conceive  of
+judgments as pictures of reality and identify truth with grounded truth,  as
+philosophers did . In other words, the deconstructive enterprise applies  to
+philosophical texts, to grounded-truth-claiming texts.  Grounded  texts  can
+only be the result of the grounding philosophical  enterprise.  These  texts
+as well as the grounding enterprise are out.  What  is  left  is  ungrounded
+texts and, what deconstructionists  do  not  realize,  ungrounded  practices
+which  are  not  reducible  to  texts.  But  can  one   who   condemns   the
+philosophical  enterprise  and  its  products  continue  to  look  down   on
+ungrounded texts as Socrates did? Does this not amount to keeping alive  the
+philosophical standard of truth, that is, grounded written texts?  [Yes,  it
+does: Not-grounded truth is not truth, or is truth by chance and  not  known
+as truth. BUT THIS IS  THE  MISTAKE.  For  it  presupposes  with  the  Greek
+philosophers that language is primarily for viewing,  and  that  (justified)
+viewing is the grounds for (justified) acting. BUT THIS IS WHAT CAPUTO  DOES
+WHEN HE REFUSES TO FOLLOW LEVINAS TO THE TRANSCENDENT. AND THIS IS WHAT  HIS
+MINIMALISM IS BASED ON. THIS IS WHAT I MEAN BY ASKING CAPUTO WHETHER HE  HAS
+GONE FAR ENOUGH IN HIS RENUNCIATION OF  THE  METAPHYSICS  OF  PRESENCE.  BUT
+MORE EXPLANATION IS NEEDED AND IS FORTHCOMING IN  THE  SECOND  PART.    When
+"There is no truth"  becomes  an  organizing  arché,  when  it  attempts  to
+function as philosophy, it can be  as  deadly  as  any  other  philosophical
+arché.
+      Socrates was the first deconstructor, but he  cleverly  forced  others
+to bring their position to textual discourse  (to  thesis  ------positional,
+affirmative--about the  world)  with  ungrounded  truth-claims  and  avoided
+textualizing  his  own  position.  However,  once  Greek  discourse   became
+textualized  with  Plato,  with  Aristotle,  with  the  whole  philosophical
+tradition, Socratic deconstruction could be applied  to  it,  too,  and  was
+actually applied--by  Aristotle  to  Plato,  by  Aristotle's  successors  to
+Aristotle. Thus,  Derrida's  deconstruction,  the  deconstruction  in  which
+Caputo believes, amounts to a dismissal of  the  philosophical  metaphysical
+project.
+      Paradoxically, though, it does not constitute a return to  the  status
+quo before  the  philosophical  project,  which  was  pre-philosophical  and
+innocent  of   its   groundlessness.   For   the   discovery   which   makes
+deconstruction possible is not about philosophical  discourse  alone,  which
+is only a more extreme case in that it attempted to escape the  situatedness
+and relativity of language, but about language itself and  its  situatedness
+and relativity, the deconstructive language's  situatedness  and  relativity
+included. However, as remarked above, deconstruction keeps  operational  the
+philosophical view that either truth is grounded truth or it is  not  truth,
+for it deconstructs by showing the groundlessness  of  texts,  not  only  of
+philosophical texts but of religious and all other texts.
+      Now, if deconstruction becomes text, it shows its  groundlessness.  So
+it attempts to remain genuinely parasitic, practice of  suspicion  of  texts
+(or of linguistic agents) rather than full-fledged, metaphysical  theory  of
+knowledge  of  reality  that  would  result  in  absolute   self-stultifying
+scepticism. And in this it  is  consistent  with  its  notion  of  reference
+(Caputo, p. 76 ff.). This constant shifting between  the  immanent  and  the
+transcendent aspect of language,  betwwen  the  self-containedness  and  the
+referentiality  of  text,  allows  deconstructionists  to  keep   themselves
+(almost) philosophically alive.
+      But then they are objectified by others or by themselves and  discover
+themselves, like Descartes, as having to live. How are they  going  to  live
+after deconstruction? THEORETICALLY, not in scepticism  but  in  suspicion--
+but a constantly shifting suspicion between Nietzsche and Jeshua,  that  is,
+in an uncommitted way. But above  all  in  philosophical  minimalism,  which
+excludes any arché, any system, any  firm  commitment,  except  the  Other's
+face--es  gibt   obligation--which   apparently   escapes   differance   and
+textuality.  But  if  something  escapes  differance  and   textuality,   if
+something has a groundless factuality, why  deny  groundless  factuality  to
+Kierkegaard's faith or to Levinas' Transcendent? Or  rather,  why  contiunue
+to demand grounds at all and to suspect what has no grounds? AFTER  ALL,  IS
+NOT MINIMALISM MOTIVATED BY, OR PREDICATED ON, THE  IMPOSSIBILITY  OF  TRUTH
+AS  GROUNDED  TRUTH,  WHICH  WOULD  AMOUNT  TO  ESCAPING  TEXTUALITY  TOWARD
+REALITY?  AND DOES NOT DECONSTRUCTIONISM SHARE WITH  THE  HATED  GREEKS  THE
+MISCONCEPTION OF LANGUAGE AS A THEORETICAL VIEW AS WELL AS  THE  PRIMACY  OF
+THE THEORETICAL VIEW OVER THE PRACTICE?
+
+
+\wp\chant\Searle                        October 1, 1994
+The alternative
+      "Aquinas's decision to write as a theologian when he wrote in his  own
+      name [unlike in the case of the Aristotelian commentaries] was chiefly
+      the result of his view that no Christian should be satisfied to  speak
+      only as a philosopher" (Mark D. Jordan, "Theology and Philosophy,"  in
+      The Cambridge Companion to Aquinas, p. 233).
+
+      "... le Dieu biblique est un Dieu relationnel. Or la premiere relation-
+      -celle du moins que le Canon biblique a mise en tête des  Ecritures--,
+      c'est la relation de Création: 'Au commencement  Dieu  crea...'  Cette
+      relation est la première, dans la  mesure  où  la  Bible  ignore  tout
+      d'avant la Création  et,  dans  cette  même  mesure,  toute  assertion
+      portant sur Dieu seul... La Bible ne connaît que Dieu rapporté  à  son
+      peuple, à l'homme,.  à  l'ensemble  de  la  Création"  (Paul  Ricoeur,
+      Lectures 3. Aux frontières de la philosophie, Seuil,  Paris  1994,  p.
+      347). (Cf. sur le meme point en rapport avec le  Dieu  Trinitaire,  de
+      Lubac, Christian Faith: The Structure of the Apostle's Creed, Geoffrey
+      Capman, London, 1986, ch. 3).
+
+WHAT HAPPENS IF ONE DOES AWAY WITH THE ABOVE PRESUPPOSITIONS?
+      That one starts from, because  one  finds  oneself  alredy  within,  a
+tradition of practice that is not a system, much  less  a  grounded  system,
+but a living culture. It is a  tradition  of  practice  in  which  truth  is
+dialectically subordinated to (past and future) practice, and one  functions
+(practically and intellectually) within that tradition until or  unless  one
+loses confidence in it and  its  practice  becomes  impossible  because  one
+finds a better, more satisfactory tradition.
+      Truth is dialectically subordinated to practice. What does this  mean?
+
+       W. James wrote:
+      "They [good consequences--that is,  consequences  congruent  with  the
+      practical belief, not necessarily pleasant or desirable] are  proposed
+      as the causa existendi of our beliefs, not as  their  logical  cue  or
+      premise, and still less as their  objective  deliverance  or  content.
+      They assign the only intelligible practical meaning to that difference
+      in our beliefs which our habit of calling them true or false comports"
+      (The Meaning of Truth, p.273).
+
+      "Concepts signify consequences" (Ibid., p. 275).
+
+      "When I call a belief true, and define its truth to mean its workings,
+      I certainly do not  mean  that  the  belief  is  a  belief  about  the
+      workings. It is a belief about the object, and I who  talk  about  the
+      workings  am  a  different  subject,  with  a  different  universe  of
+      discourse, from that of the believer  of  whose  concrete  thinking  I
+      propose to give an  account.  -  The  social  proposition  'other  men
+      exist,' and the pragmatist proposition 'it  is  expedient  to  believe
+      that other men exist' come from different universes of discourse.  One
+      can believe the second without being logically  compelled  to  believe
+      the first; one can believe the first without having ever heard of  the
+      second; or one can believe them both" (Ibid. pp. 279-280).
+      What a spoken statement among exposed agents says is not  its  content
+but what it means, and what it means is the way it is  meant  to  be  heard,
+and the way it is meant to be heard is by actually referring  the  addressee
+to a certain  object  for  response.  In  other  words,  statements  do  not
+function  among  agents  by  conveying  pictures   for   assent,   as   many
+philosophers think. Statements, as James indirectly suspects (because he  is
+not talking about the statements themselves  but  about  their  truth)  have
+"practical  meaning,"  they  are  speech  acts,  they  intend   to   produce
+linguistic effects either in the addressee and/or through the addressee.
+       Linguistic  effects  are  effects  produced  through   language   and
+distinctively characteristic of language. Now,  Searle's  theory  of  speech
+acts distinguishes illocutionary from perlocutionary effects, of which  only
+the  former  are  genuinely  linguistic  or  'essential'  in  the  sense  of
+obtaining whenever language is used and in the sense of being  distinctively
+characteristic of language.*
+* An instructive example cited by Searle: "Ich komme kvon dem  Land  wo  die
+Zitronen blühen." The American speaker's intention is to be treated  by  the
+German addressees as a German by suggesting that he  is  a  German  soldier.
+(This shows that we speak and hear applicatively, for the  American  soldier
+does not want his addressees to concentrate on  what  he  says--the  meaning
+that the words have in German--but through them on what he means, namely,  I
+am a German soldier). Being treated as a German is a perlocutionary  effect.
+Even if it obtains, though, it is not  a  linguistic  effect,  according  to
+Searle, for the speaker does not say that he is a German soldier,  and  what
+characterizes linguistic effects is that they obtain thanks to  their  being
+said. (And, remember, whatever can be meant can be said). But,  furthermore,
+it seems to me that, according to Searle,  the  perlocutionary  effects  are
+not essentially linguistic effects. Indeed, in the first  place,  there  are
+speech acts, like "Hello," which according to him involve no  perlocutionary
+effects, for "Hello" only says the knowledge that the speaker  intends  them
+to convey, namely, the speaker's  intention  to  greet  the  addressee,  and
+nothing else. Now, if perlocutionary effects were essential for language  to
+obtain, then greeting, which for Searle is a  fully  successful  speech  act
+when the speaker's intention of  greeting  is  known  by  the  addressee  by
+understanding "Hello," would not be a full speech act. In the second  place,
+a speech act does not need its  said  perlocutionary  effect  to  obtain  in
+order to be a  full-fledged,  successful  speech  act,  only  the  speaker's
+intention to be understood or "recognized." In other words, the  achievement
+of the perlocutionary effect is only accidentally linguistic].
+
+      The following quotations are from Searle's Speech Acts:
+
+      "We thus detach the notions of referring and predicating
+from  the  notions  of  such  complete  acts  as   asserting,   questioning,
+commanding, etc.... Austin baptized these  complete  speech  acts  with  the
+name  of  'illocutionary  acts,"  and  I  shall   henceforth   employ   this
+terminology" (p. 23).
+       "Stating,  questioning,  commanding,  promising,  etc.  =  performing
+illocutionary acts" (p. 24).
+      "To these three notions  I now wish to  add  Austin's  notion  of  the
+perlocutionary act. Correlated with the notion of illocutionary acts is  the
+notion of the consequences  or  effects  such  acts  have  on  the  actions,
+thoughts, or beliefs, etc.  of  hearers.  For  example,  by  arguing  I  may
+persuade or convince someone, by warning  him  I  may  scare  or  alarm,  by
+making a request I may get him to do  something,  by  informing  him  I  may
+convince him (enlighten, edify,  inspire  him,  get  him  to  realize).  The
+italicized expressions above denote perlocutionary acts" (p 25).
+      "Of course not all illocutionary acts have  a  propositional  content,
+for example, an utterance of 'Hurrah" does not, nor does 'Ouch'" (p. 30).
+      "The illocutionary force indicator shows how the proposition is to  be
+taken, or to put it in another way, what illocutionary force  the  utterance
+is to have; that is, what illocutionary act the  speaker  is  performing  in
+the utterance of the sentence. Illocutionary  force  indicating  devices  in
+English  include  at  least:  word  order,   stress,   intonation   contour,
+punctuation, the mood of the verb, and the so-called performative  verbs.  I
+may indicate the kind of illocutionary act I am performing by beginning  the
+sentence with 'I apologize', 'I warn", "I  state',  etc.  Often,  in  actual
+speech situations, the context will make it  clear  what  the  illocutionary
+force of the utterance  is,  without  its  being  necessary  to  invoke  the
+appropriate explicit illocutionary force indicator" (p. 30).
+      VERY SPECIALLY: PP. 42-50 ON "MEANING," of which the  following  is  a
+portion:
+      "... it [Grice's view] captures the  following  essential  feature  of
+linguistic communication. In  speaking  I  attempt  to  communicate  certain
+things to my hearer by getting him to recognize my intention to  communicate
+just those things. I achieve the intended effect on the  hearer  by  getting
+him to recognize my intention to achieve that effect, and  as  soon  as  the
+hearer recognizes what it is my intention  to  achieve,  it  is  in  general
+achieved. He understands what I am  saying  as  soon  as  he  recognizes  my
+intention in uttering what I utter as an intention to say that  thing.  -  I
+shall illustrate this with a simple example. When I say  'Hello',  I  intend
+to produce in a hearer the  knowledge  that  he  is  being  greeted.  If  he
+recognizes it as my intention to produce in  him  that  knowledge,  then  he
+therebyy acquires  that  knowledge.  -  However  valuable  this  account  of
+meaning is, it seems  to  me  to  be  defective  in  at  least  two  crucial
+respects. First, it fails to account for the extent to which meaning can  be
+a matter of rules or conventions. This account of meaning does not show  the
+connection between one's meaning something by what one says, and  what  that
+which one says  actually  means  in  the  language.  Secondly,  by  defining
+meaning  in  terms  of  intended  effects  it  confuses  illocutionary  with
+perlocutionary acts. Put crudely, Grice in effect defines meaning  in  terms
+of intending to perform a  perlocutionary  act,  but  saying  something  and
+meaning it is a  matter  of  intending  to  perform  an  illocutionary,  not
+necessarily a perlocutionary,  act.  I  shall  now  explain  both  of  these
+objections and attempt to amend Grice's account to deal with them"  (p.  43-
+44).
+      "I now turn to my second objection to Grice's account. In effect,  the
+account says that saying something and meaning it is a matter  of  intending
+to perform a perlocutionary act... I wish to  argue  that  saying  something
+and meaning it is a matter of intending to  perform  an  illocutionary  act.
+First,... many kinds of sentences used to perform  illocutionary  acts  have
+no perlocutionary  effect  associated  with  their  meaning...  When  I  say
+'Hello' and mean it, I do not necessarily intend to produce  or  elicit  any
+state or action in my hearer other than  the  knowledge  that  he  is  being
+greeted. But that knowledge is simply his understanding what  is  said,  not
+an additional response or effect. Furthermore, there  is  no  perlocutionary
+effect of, for example, promising which will distinguish promises from  firm
+statements of intention  and  emphatic  predictions.  All  three  intend  to
+create expectations in the hearer about the future,  but  'I  promise'  does
+not mean 'I predict' or "I intend.' Any account of meaning  must  show  that
+when I say 'I promise' or 'Hello' and mean it, I  mean  it  in  exactly  the
+same sense of 'mean' as when I say  'Get  out'  and  mean  it.  Yet  Grice's
+account seems to suit only the last of these three sentences,  since  it  is
+the only one whose meaning is such that in the ordinary  cases  the  speaker
+who utters and means it intends to produce an 'effect' on the hearer of  the
+kind Grice discusses. The meaning of the sentence 'Get out'  ties  it  to  a
+particular intended perlocutionary effect,  namely  getting  the  hearer  to
+leave. The meanings of 'Hello' and 'I promise' do not.
+- Secondly,  even  when  there  generally  is  a  correlated  perlocutionary
+effect, I may say something  and  mean  it  without  in  fact  intending  to
+produce that effect. Thus, f. e., I may  make  a  statement  without  caring
+whether my audience believes it or not but simply because I feel it my  duty
+to make it. - Third, it is not in geeneral the case that when one speaks  to
+someone with the intent of, e. g., telling him  some  item  of  information,
+that one intends that his reason, or even one of his reasons,  for  beliving
+what one tells him should be that one intends him to believe it" (p. 46).
+      "Well, then, how does it work? ... If I  am  trying  to  tell  someone
+something, then (assuming certain conditions are satisfied) as  soon  as  he
+recognizes that I am trying to tell him something and exactly what it  is  I
+am trying to tell him, I have succeeded in telling it to  him.  Furthermore,
+unless he recognizes that I am trying to tell him something and  what  I  am
+trying to tell him, I do not fully succeed in telling  it  to  him.  In  the
+case of illocutionary acts we succeed in doing what we are trying to  do  by
+getting our audience to  recognize  what  we  are  trying  to  do.  But  the
+'effect' on the hearer is not a belief or response, it  consists  simply  in
+the hearer understanding the utterance of the speaker.  It  is  this  effect
+that I have been calling the illocutionary effect.  The  way  the  reflexive
+intention works then, as  a  preliminary  formulation,  is:  the  speaker  S
+intends to produce an illocutionary effect IE in the hearer H  by  means  of
+getting H to recognize S's intention to produce IE" (p. 47).
+
+      According  to  Searle,  the  illocutionary  effect  obtains  when  the
+addressee (or hearer?)  recognizes  (understands,  comes  to  know,  becomes
+informed of) the intention the speaker  intends  to  communicate  by  saying
+what is said: my commanding something, my  affirming  something,  my  asking
+for something, my insulting somebody. (In  this  view,  then,  we  speak  to
+communicate--that is,  to  make  known--our  intentions,  not  to  have  our
+intentions realized or, in the case of statements, to  actually  obtain  the
+addressee's  assent,  which  on  pp.  47  just  quoted,  Searle   implicitly
+identifies as the perlocutionary effect of stating). When the  illocutionary
+effect obtains, the addressee (what about the hearer?)  gains  knowledge  of
+the speaker's intention, which is what the speaker  intended  as  a  speaker
+and all he/she can intend as a speaker,  and  the  actual  communication  of
+this knowledge is what makes successful a spech act as a  speech  (that  is,
+as a communicative, as a linguistic) act, different from  non  speech  acts.
+The perlocutionary effect, by contrast, does not  consist  in  knowledge  of
+the intentions of the  speaker  but  in  something  else  in  the  addressee
+(assenting, believing, being edified, etc.) or in a certain behavior on  the
+addressee's part corresponding to the behavioral  aspect  of  the  intention
+made known by the speaker.   I reject this distinction for two reasons.  (1)
+It reduces all speech acts to statements of  intentions  to  be  understood,
+which they are not, hence perpetuating the myths of  language  as  pictorial
+and  of  the  primacy  of  statements  as  pictures  of  the  world  to   be
+contemplated. (2)  It  separates  practice  (conduct)  from  language,  thus
+preserving the distinction between knowledge  and  action  as  well  as  the
+subordination of action to knowledge.
+      (I  do  not  deny  that  the  distinction  between  illocutionary  and
+perlocutionary can be made. But it can be  made  only  because  language  is
+theorized about from the point of view of an over-hearer  of  language,  not
+from the point of view of a participant--speaker-addressee-winess. Once  the
+theory is built, the distinction appears to be  confirmed  because  language
+sometimes misfunctions, that is, fails to produce the effects  it  means  to
+obtain while the intentions of the speaker are nonetheless  understood.  The
+distinction, however, not only ignores  that  the  failure  to  produce  its
+intended effects represents a misfunction of language, not the  paradigmatic
+case, but it also consecrates  the  misfunction  as  the  rule--language  is
+primarily to be understood--, so that that failure to produce  its  intended
+perlocutionary effects appears linguistically irrelevant.
+      What I propose instead  is  a  rather  perlocutionary  view  of  ORAL,
+LIVING language: there is no genuine  linguistic  communication  unless  the
+intended linguistic effect is produced, and the  linguistic  effect  is  not
+primarily mere  understanding.  [As  just  suggested,  I  do  not  deny  the
+parasitic meaning-understanding of language on which the  Platonic  view  of
+language is based. What I deny is that this  overheard  language  is  to  be
+conceived as living language, when in fact it is totally dead.  It  is  like
+WRITTEN Gospels which are understood but in  which  nobody  believes,  which
+cannot be reactivated in their original function,  and  which  are  READ  as
+simply to be understood, which automatically converts them into fairy  tales
+as far as agents are concerned. Much as we read the  stories  of  the  Greek
+gods, which were alive and meaningful at a certain point  but  are  nowadays
+sediemented  geological  layers].  [Once  this  parasitic,  dead   language,
+ossified out there, is  taken  as  the  norm--and  this  is  the  view  that
+deconstructionists share with  the  Greeks,  at  least  with  the  Platonic,
+theoretical Greeks--the notion of statements as true or false  pictures,  of
+statements as unique repositories of truth, of truth as  correspondence,  of
+the separation between knowledge and action, of the primacy  of  the  former
+over the latter  follow.  And  since  truth  of  this  kind  is  impossible,
+deconstructionism triumphs and leaves us in the lurch for lack of  a  viable
+alternative.]
+      Actually, rather than a more perlocutionary view  of  language,  which
+presupposes  the  distinction  between  illocutionary   and   perlocutionary
+meaning-effects, what I propose is a practical view of language, for  it  is
+the language of vulnerable agents-patients, not of contemplators. I  do  not
+want to deny that language is to be understood, but it is to  be  understood
+practically,  applicatively,  where  the  action  that  obtains  is   itself
+linguistic, not merely behavioral, and where if the practical  understanding
+that is identical with the action meant  does  not  obtain  the  speech  act
+cannot be deemed successful as such.  (Be careful, do not reduce  linguistic
+effect to action-behavior. Being saluted is a  perlocutionary  effect,  too,
+for words of saluting, loving, etc.  are  gestures,  incarnated  intentions.
+Being saluted is not understanding that one is  being  saluted  +  pleasure;
+rather,  the  pleasure  is   pleasure-of-being-saluted,   and   it   is   as
+constitutive of saluting and being saluted as the realization  that  one  is
+saluted. As one cannot  have  successful,  that  is,  actual  being  saluted
+without realizing that one is saluted,  so  one  cannot  have  actual  being
+saluted without the at least customary  pleasure  of  being  saluted,  which
+would be missed if one were not saluted, and which would  be  sorely  missed
+or were positively denied salutation. (Actually, denyinjg  salutation  is  a
+speech act, parasitic on the ordinary practice of language).And this is  the
+effect that the speaker intends to produce, which  is  neither  a  piece  of
+knowledge, nor a pleasure, but a totally original combination of both  which
+creates the unique practical relationship between saluter and  saluted  that
+we call 'salutation').
+      By contrast, Searle's understanding is purely  contemplative,  literal
+understanding of what is said.  This  shows  particularly  in  the  case  of
+statements, which according to him involve  no  perlocutionary  effects  and
+which he takes as the basic model for his  view  of  language.  Indeed,  for
+him, all speech acts are echanges of  pictures  that  convey  knowledge,  as
+statements are and do (though not all  speech  acts  involve  truth  claims,
+only--reflective?--statements do. In his view of language, as  the  function
+of all speech acts is reduced to  that  of  statements,  so  addressees  and
+witness  are  reduced  to  contemplative  over-hearers  who  have  only   to
+understand the  speaker's  intention  as  a  overhearers  do,  and  who  are
+expected to do nothing.
+      Let me now clarify and present more in depth  my  "practical  view  of
+language" by means of examples.
+      [Before the examples, I could be more effective if I argued
+concerning the say in which practically language is learned by children,
+and how and why I learned English through television, where one sees the
+perlocutionary effects, which are the primary and only non-parasitic,
+'essential' linguistic effects].
+      If I tell you "Your house is burning," I am referring you to object
+for response (because we both are agents-patients and automatically
+understand as such under natural conditions), not telegraphing you
+linguistically a picture to be reproduced in your mind. That such is the
+case is manifested by my implicit expectations which, if frustrated, will
+become explicit. (Nor are you, the speaker, totally unaware of my
+expectations, for you would be the first to be surprised if I were
+satsified if you told me that you got the picture). Now, this exactly is
+the case according to Searle: what I am doing in making the statement to
+you is to telegraph you linguistically the picture of your house burning,
+and if in your mind you reproduce correctly the picture I telegraphed you,
+the stating speech act as such has succeeded, which amounts to saying that
+what you do as a result is only accidentally linguistic.
+      Now, that this is not the way in which competent usersof language use
+language seems clear. As a speaker and as a witness, I would be baffled if,
+in response to my statement that your house is burning, you told me
+placidly that you got the picture of your house burning, and then you
+continued to do what you were doing, or proceeded to invite me to the
+movies. (In fact, such a behavior would not be a response to what I said,
+at all. I am sure that, as a competent user of language--instead of users
+we should say practitioners of language or linguistic agents--Searle would
+be baffled too. Yet this is what Searle's illocutionary meaning and
+illocutionary effect amount to in the case of statements! At most (but he
+dkenies even this), he might say that the illocutionary effect obtains if
+the addressee "recognizes" that the speaker wants him to believe (after
+all, there is a truth-claim in statements) that his/her house is burning,
+though the addressee does not have to assent to the statement for the
+speech act to be succesful.
+      Remember that we are talking of spoken, not written, language; of
+language among actually exposed agents. Now, according to me, the meaning
+of a speaker can be cashed, as such, only in actu exercitu, and is cashed
+through practical understanding, not through contemplative understanding.
+Practical understanding has two aspects: (1) The reference is to object for
+response, not to picture; (2) Because the understanding is practical,
+because the reference is practical, the understanding is applicative,
+incarnated in actual response to object for response. Thus practical
+understanding is understanding that by its very nature terminates in
+action, unless overriden by other factors. And the paradigmatic linguistic
+case is the successful case, not the case in which other overriding factors
+prevent success.
+      Normally--that is, as the normative case--a speech act succeeeds when
+the practical effect intended by the speaker and actually communicated
+through practical understanding actually obtains. Thus, a command succeeds
+when what is commanded to the addressee is done by the addressee, not--as
+Searle claims--when the addresse understands the command, much less if--as
+is the case in Searle's view--the addressee understands as a contemplator,
+without 'feeling' any more commanded than an overhearer or a hearer in a
+lesson of language. The latter is a parasitic understanding that
+necessarily presupposes the one I am defending, for we would never learn
+language if conduct did not accompany and was required to accompany or
+follow the heard--as addressee and witness-- and spoken speech acts. (Being
+commanded = obeying, which is not a mere behavior but a linguistically
+informed conduct in response to a command, and which establishes (begins or
+reaffirms) a relationship between commander and commanded, which may be
+master-slave, Creator-creature, parent-child..., which incarnates and
+consecrates a certain recognized superiority-inferiority between speaker
+and addressee).
+      This, I repeat, is the normal case, the normative one for grasping
+the function of language. All other cases are parasitic on this one. For
+there are, as I have said, other cases, when overriding factors intervene
+that prevent the normal termination, the successful achievement, of the
+speech act. Thus, a commandment is not always obeyed. Yet the addressee
+understood the commandment, that is, the commanding intention of the
+speaker, that is, the speaker's intention to be obeyed, not (as Searle
+would have to say in all consistency) the speaker's intention to inform of
+his command. For instance, when a father commands his child to plunge from
+the tremplin, the scared child refuses. The child understands the command,
+and understands practically that he is commanded to plunge, but fear
+prevents the child from obeying--a case of akrasia. Or the child, commanded
+by another child to plunge, refuses to obey because the other child has no
+authority to command him.  In these cases there is understanding, and
+understanding of a kind that is possible only to competent speakers of
+language. I do not deny this. What I affirm is that in order to get the
+correct idea of language we have to consider the  successful case of
+practical understanding terminating in action as the norm, and that the
+understanding of language of the just mentioned cases is parasitic,
+aberrant, not normal and not the correct basis for the rule, for it results
+in a badly distorted view of language. Much less should we take as the
+basis for our view of language written language, that is, ossified,
+objectified language out of concrete circumstances and without concrete
+speakers and addressees. (Written language has to be reactivated, and in
+most cases it cannot be fully reactivated because the relationship to be
+established between speaker and addressee is not possible between author
+and reader, given that the reader does not stand tothe author as an
+addressee nor was meant by the speaker to be the addressee). Or the
+apparently theoretical language of 'objective' science.
+      What Searle does, unwittingly following the Greek tradition, is to
+take this parasitic understanding of language as the rule. From this it
+follows the foundational character of statements, the understanding of
+statements as pictures, the understanding of truth as correspondence
+between picture and reality, and from the impossibility of knowing so
+conceived the emergence of skepticism or at least theoretical relativism.
+In addition, emotions become blind, unintelligible feelings, knowing and
+acting are divorced, intentional action loses its intelligibility, and the
+passage from is to ought becomes an unsolvable problem once the separation
+betwen knowing and acting and the subordination of the latter to the former
+becomes accepted. This comedy of errors is the field in which
+deconstructionism thrives, while carrying within itself the seeds of its
+own deconstruction. This is why I reject deconstructionism.
+      However, if I admit that there is an understanding of language that
+consists in grasping the speaker's intention, though I consider this
+understanding parasitic, am I not already conceding what will become the
+basis of the comedy of errors? I do not think so. In the first place,
+because, unlike Searle, I do not believe that linguistic meaning amounts to
+a mere piece of information about the speaker's intentions nor,
+consequently, that such information about his/her intentions is what the
+speaker means to convey at all and whose conveyance makes the speech act
+successful. Indeed, this is why I reject Searle's notion of illocutionary
+meaning and effect, as well as the identification he makes of the
+illocutionary with the essential effect by which language is defined,
+thereby making this meaning-effect into the norm. But if this understanding
+is not "knowledge," or "information," as Searle claims, what is it then?
+      Let us for a moment forget about the addressee to consider the
+speaker's case who says "Your house is burning." Before telling me this, he
+knows that. But he knows that as object for response, which is why he
+rushes to tell me that. So the agent's knowledge is itself applicative,
+practical, not a matter of pictures.* (*This, I think, is what Aristotle
+has in mind when he speaks of practical knowledege, though he does not
+quite realize that he is equivocating by calling it knowledge, as if it
+were a species of what he calls knowledge, which is speculative knowledge
+corresponding to the disinterested desire to know). And communicative
+language is language among people, each of whom is an agent-patient who is
+so situated in relation to the surrounding world and who therefore has
+his/her, personal, situated, practical understanding of it at any given
+moment. By personal I mean practico-emotional-dispositional.
+      To be concrete, how did the speaker get the knowledge that my house
+is burning, in the first place? He got it linguistically, as a member of an
+English speaking culture who was introduced practically--immdediately and
+through practical statements and STORIES--to objects for response. This is
+the speaker-agent who speaks to other hearer-agents in the presence of
+other witnesses-agents, all of whom have themselves their own past and
+present linguistic experience of the world. This accumulated, sedimented
+past experience of active exchanges as a vulnerable agent shaped by a
+culture with the surrounding world, combined with the present experience of
+the world at any moment, constitute the concrete, tacit dimension of the
+agent-interpeter who speaks, who is addressed, who functions as a witness,
+and who therefore, depending on his/her past and present experience, is
+referred practically or not by my statement that "your house is burning."
+      If not practically referred, one of his/her possible reactions is to
+contest the truth of my statement. Let us pause here, for this precisely is
+the case from which the view of language and of knowledge which I am
+critizing and dismissing seems to originate. Indeed, this opens the stage
+of reflective language, of language about language, the language that
+certain philosophers (Searle included) apparently consider primary and
+foundational. Here originates the view of knowledge as resemblant picture,
+and of language as communicating pictures, all of them to be understood,
+but only some of them being true or false and meant as true.
+      What happens here is the objectification of language. Language has
+ceased to be used as language and, therefore, to function as such, and has
+become an object, an object to be known. A comparison might help. When I
+wear my glasses they function as glasses, but I do not see my glasses, I
+see through them. When I take my glasses off, I may see them. But if my
+view of glasses is based on the glasses I see rather than on the glasses I
+wear, my view denatures glasses completely. Now, assume I am so close to
+blindness that I cannot see at all without my glasses, so that if I take my
+glasses off I cannot see my glasses. Such is language. Now, as long as we
+do not objectify it to theorize about it, to know it, we use it and it
+functions as language. For language, like glasses, only is language when it
+functions as such, and only functions as such in actu exercitu, and
+converting it into object seen denatures it completely. The Greeks taught
+us to objectify it and bequeathed us all the puzzles I have mentioned,
+which for reasons that do not belong here have affected religion, that is,
+religious language, the cultural practice called religion, in particular.
+The lesson we should learn from this long history of the objectification of
+language and its consequences is to give up the objectification of language
+and to assume the risks and limitations, but also the positive advantages,
+of using language.
+                             ..............
+by acting in accordance with his intentions (and this even in the case of
+statements among agents, for even statements involve expectations of
+conduct on the speaker's part and never demand assent as such, assent as
+terminal, but being referred practically, applicatively to object for
+response.
+      Statements among agents do not refer contemplatively to what is said
+but applicatively to object of exposure, much as spectacles do not present
+photos to be contemplated and, insofar as affirmed, to be assented to, but
+objects of exposure to be responded to by the hearer-agent. However,
+statements refer to objects for response by stating something about the
+objects.
+      As in the case of begging the point is not to understand but to be
+efficiently begged and, therefore, to grant what is begged, so in the case
+of stating the point is not to understand what is said, but to be referred
+to the object as object for response.
+The question of truth.
+                                  .......
+      Yet in the case of statements, unlike in other cases, the question of
+their truth arises, and one cannot be referred to object for response as
+referred unless one agrees with the stated. [Rather, one is referred not if
+one agrees with the statement but if one does not disagree with it.
+Agreement and disagreement do not emerge in direct (by contrast to
+reflective) language, that is, in the language among vulnerable, desirous,
+exposed agents]. This is commonly thought. But is it correct? For it seems
+that there are two kinds of assent: practical and theoretical. [Rather,
+practical assent is not assent but non-dissent. Assent and dissent belong
+in the sphere of reflective language, of statements as pictures of reality.
+The agent who is not referred practically by "Your house is burning" does
+not dissent as agent with the statement; he/she is simply not referred.
+Only when the agent ceases to act and considers the piece of language as a
+picture does the agent dissent or disagree in the sense of these words that
+is pertinent here]. Practical understaknding is identical with being
+referred practically, with bracing oneself for encounter with object as
+stated, with actual response to object for response. Whoever does this
+agrees applicatively, practically, not by seeing that what is said is the
+case but by bracing himself or herself toward it as object for response and
+actually responding to it, which is what being referred--that is, being
+sucessfully referred, for otherwise there is no reference--in the case of
+statements amounts to. This was the case with those who feared the Martians
+and began conceiving of projects to escape. Theoretical dissent and the
+search for theoretical assent, on the other hand, stop the practical flow--
+the practical reference--to the object as object for response, focus on
+what the statement says rather than on what it applicatively means. By the
+same token the statement ceases to function as a statement, to refer to
+object for response, and appears to  refer to what the object is not,
+namely, object for contemplation. Furthermore, since statements as what is
+said involve predication, they can therefore be true or false.
+      We may now return to the original point: Truth is dialectically
+subordinated to practice.
+      Like faith, the agent's knowledge-situated-perception is prospective,
+applicative, for action's sake, because the agent inserted in the midst of
+the world is desirous and vulnerable, actively and passively desirous,
+transformative of the world and adaptive to the world. Action is not true
+or false, it is appropriate or inappropriate. And the apropriateness or
+inappropriateness is revealed only post factum. Initially, without pas
+experience to guide us, the action is pure risk, and insofar as past
+experience never places us in full control of the future action remains
+risky. However, the agent is also reflective, that is, retrospective for
+the sake of being successfully prospective. Not only does the agent tend
+automatically to repeat the actions that succeeded, but objectifies the
+objects responded to and the actions in response, and explains--that is,
+makes intelligible, the past success.
+      Remeber de Lubac, on p. 3 of my notes on Faith in Aquinas:11
+310)."The movement of faith belongs to the order of foresight, whereas the
+objective recognition of its intellectual content belongs to retrospection.
+The former mode of knowing is direct and concrete, one's whole life is
+projected forward. Retrospection discovers and itemizes (incompletely)
+under an abstract form" [Blondel].
+
+
+
+
+
+.
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,558 @@
+---
+title: "Chapter 7"
+original_file: "/src/xavier/Files/More My Documents/wp/MONAS/CHAPSEVE"
+original_format: WordPerfect
+converted_date: 2026-01-20
+converted_with: wpd2html
+file_date: 2000-04-25
+---
+
+.para2 {
+ text-align:justify; margin: 0.0000in 0.0000in 0.0000in 0.0000in; text-indent:0.0000in; line-height:200.0000%;
+}
+.para3 {
+ text-align:justify; margin: 0.0000in 0.0000in 0.0000in 0.0000in; text-indent:0.5000in; line-height:200.0000%;
+}
+.para1 {
+ text-align:justify; margin: 0.0000in 0.0000in 0.0000in 0.0000in; text-indent:1.5000in; line-height:200.0000%;
+}
+.para0 {
+ text-align:justify; margin: 0.0000in 0.0000in 0.0000in 0.0000in; text-indent:2.5000in; line-height:200.0000%;
+}
+.para4 {
+ text-align:justify; margin: 0.0000in 0.5000in 0.0000in 0.5000in; text-indent:0.0000in; line-height:200.0000%;
+}
+.span1 {
+ color: #000000; font-size: 12.0000pt; font-family: 'Courier 10';
+}
+.span2 {
+ color: #000000; font-size: 12.0000pt; font-family: 'Courier 10'; text-decoration: underline;
+}
+.span0 {
+ color: #000000; font-size: 12.0000pt; font-weight: bold; font-family: 'Courier 10';
+}
+.span3 {
+ color: #000000; font-size: 12.0000pt; font-weight: bold; font-family: 'Courier 10'; text-decoration: underline;
+}
+
+Chapter Seven
+
+Revelation, Theology, and the Bible
+
+ 	Of all the people actively involved in the process of placing theology on the map of the sciences, only Bonaventure and Aquinas could positively entertain the idea that they had achieved the elusive synthesis between the demands of reason as conceived by Aristotle and the demands of their faith. To achieve that synthesis both of them had recourse to the Aristotelian theory of the subordination between sciences to insure the scientific autonomy of theology while preserving its ties to faith. Theology, they reasoned, is a science subordinated to faith much as medicine, according to Aristotle, is subordinated to mathematics without thereby losing either its autonomy or its scientific character. However, Bonaventure and Aquinas differed as to the character and the actual measure of the independence of theology from faith. 
+
+Bonaventure and Aquinas: Two syntheses
+
+For all practical purposes, if not clearly in theory, Bonaventure made theology into a science genuinely independent from faith, having with the latter only the extrinsic connection of partially sharing with it the same material object, but differing radically from it because of their 
+
+different
+
+ respective formal objects--the "
+
+credibile ut credibile
+
+," for faith, and the "
+
+credibile ut intelligible
+
+," for theology. 
+
+Aquinas tried a different route. Theology, according to him, is only a "
+
+quasi-scientia
+
+," for it not only takes its principles from faith to examine them by the light of reason and to draw conclusions from them by combining them with other truths of faith or of reason, but 
+
+accepts its principles by faith
+
+. In other words, theology is not genuinely independent as a scientific discipline, for the theologian not only works on and with principles that come from the domain of faith, but continues to assent to them by faith while working rationally on them and with them. There is, therefore, no bracketing of faith, either real or even purely methodical, in theology. Theology is not a special branch of philosophy, as it would have to be the case in Bonaventure&apos;s view; it is radically different from philosophy, in particular from the special branch of philosophy that deals with matters pertaining to God, for the basic principles of theology on which all its conclusions depend are revealed truths assented to as such by the theologian. On this point Aquinas is unequivocal:
+
+"Sciences are diversified according to the diverse nature of their knowable objects...
+
+ Hence there is no reason why those things which are treated by the philosophical disciplines, so far as they can be known by the light of natural reason, may not also be treated by another science so far as they are known by the light of the divine revelation. Hence the theology included in sacred doctrine differs in genus from that theology which is part of philosophy" (I, 1, 1, ad 2). 
+
+These are, of course, two very different conceptions of theology which correspond to very different syntheses--or very different attempts at a synthesis--between faith and reason. Bonaventure&apos;s, in fact, Aquinas would rightly claim, is not a synthesis at all, but a veiled sacrifice of faith to reason. For it actually establishes two realms--the realm of faith and the realm of reason, and simply transfers the intelligibility of the object of faith to the domain of reason. The dangers of the Averroistic view of the &apos;two truths,&apos; that is, two different and unrelated orders of truth--reason and faith--, of pure fideism and, as an unavoidable consequence in the long run, of the dismissal by reason of all those elements of the object of faith that do not live up to its standards loom very large. As for Aquinas, who without being more attached to his faith than Bonaventure was certainly more perceptive than him as to the conditions required for preserving its integrity, he constructed a very different and, in his eyes, successful synthesis by keeping theology strictly subordinated to faith. 
+
+Not that Aquinas&apos;s way is unproblematic, as we have seen in the last two chapters. Hard as he tries to keep in balance the demands of his Aristotelian epistemology applied to faith with the demands of his faith, not only is the conflictive tension between the two detectable in his works, but the Aristotelian gravitational pull seems to be the ultimately determinant one, with consequences for the integrity of the faith he so much loved that render his success doubtful.
+
+We move now to the exploration of the way in which Aquinas conceives the relationship between revelation, Scripture, and theology. Since all of the issues we have so far encountered have to converge at the point at which
+
+ Aristotelian reason, represented by theology 
+
+[OR, RATHER, BY PHILOSOPHY?]
+
+, and faith, represented by the Bible, concretely touch each other, we are not likely to find a more appropriate field to gauge the success of Aquinas&apos;s synthesis. 
+
+The issue of literary genres
+
+For Bonaventure, as we saw in chapter four, there is no problem in the shift in literary genres from the Bible to theology, for their respective objects are different.
+
+ The Bible deals with the revealed as object of faith (
+
+credibile ut credibile
+
+); theology deals with the revealed as object of reason (
+
+credibile ut intelligibile
+
+). Avowedly, there is in the passage from the one to the other a 
+
+determinatio distrahens
+
+, a shift of &apos;paradigms,&apos; a radical change of epistemological regimes that involves a genuine change of "objects," to which corresponds the clear difference between the literary genres of the Bible and of theological works. The Scripture&apos;s fundamental literary genre is "
+
+revelativus
+
+," whereas the literary genre of the work by a theologian, say, the Lombard&apos;s 
+
+Book of Sentences
+
+, is "
+
+inquisitivus
+
+" or "
+
+argumeativus
+
+," in a word, scientific.
+
+Things stand very differently for Aquinas. For he denies that a 
+
+determinatio distrahens
+
+ occurs at all in the passage from faith to theology, since the object of faith is the same as the object of theology. The revealed enters into theology as revealed, not merely as object of rational inquiry, as Bonaventure holds. Consequently, unlike Bonaventure, Aquinas is faced with the problem of explaining the rather striking difference between the literary genre or genres of the Holy Scripture and, say, his own 
+
+Summa Theologica
+
+. 
+
+Most unfortunately, Aquinas does not confront the problem squarely, as Bonaventure certainly does. As a consequence, his position lacks the sharpness of Bonaventure&apos;s. 
+
+From the way he treats the relationship between Scripture and theology one senses that he is obscurely dealing with the same issue as Bonaventure, but he never comes to formulate it as definitely as Bonaventure does nor, one gathers, to realize its urgency and importance
+
+. As a result, Aquinas&apos;s reader has to glean tentatively here and there and infer the solution that the data seem to imply and support.
+
+To avoid getting lost in this complex issue it might be useful 
+
+to formulate clearly Aquinas&apos;s options. It would seem that, since he holds that the object of theology is the same as the object of faith, the only solution open to him is to deny that there is a radical difference between the literary genre of the Bible and the literary genre of a theological work. In this case, however, he has either to assert that the fundamental literary genre of theology is "
+
+revelativus
+
+," as is the literary genre of the Bible, or that the literary genre of the Bible is "
+
+inquisitivus
+
+" or "
+
+argumentativus
+
+," as is the literary genre of a theological work. Now, it suffices to realize what is implied by either of these alternatives in order to understand how thorny, indeed, is the problem Aquinas has in his hands. For, in the first place, in both cases he has to go against the rather clear intuition that there is a profound difference between the literary genres of the Bible and of a theological work like the 
+
+Summa
+
+. What is more serious still, if he reduces the "
+
+modus inquisitivus
+
+" of theology to the "
+
+modus revelativus
+
+" of the Bible, this seems to imply that all theological conclusions are object of faith; and if he does the inverse, he seems to imply that the content of the Bible is only as good as the evidence by which it is or may be supported. Obviously, both implications are equally unacceptable, for in the first case reason is absorbed by faith, and in the second case faith is absorbed by reason.
+
+Now, as I just said, Aquinas did not see the problem in these sharp terms. 
+
+My opinion, however, based on the data we will presently examine, is that he maintains that there is no shift in literary genres between the Bible and theology because revelation itself is analogous to knowledge. This amounts to saying that the Bible is itself a scientific work
+
+.
+
+Aquinas&apos;s basic equation
+
+The material that concerns us now is to be found in the very first question of the 
+
+Summa
+
+, where, under the title of "The nature and domain of sacred doctrine," Aquinas attacks the closely related issues of the scientific character of theology and the relationship of theology to the Bible.
+
+Already in the preceding chapter we came across Aquinas&apos; idea of revelation, which appears in the first article of the 
+
+Summa
+
+. 
+
+What God shares with us through revelation is knowledge, His own knowledge, a knowledge that is for Him intuitive and is assented to by us not because of its evidence for us but because of God&apos;s authority. In this life, therefore, what is revealed by God is object of faith for us, but will in the future life  become object of vision.
+
+ Though not in all its details, this is the idea of revelation that emerges from Aquinas&apos;s
+
+ sketch, in the first article of this section, of the complementarity between the "doctrine revealed by God" and "the philosophical disciplines investigated by reason." There is reciprocal complementarity because in both cases it is a matter of 
+
+knowledge
+
+, though the knowledge gained through reason is based on compelling evidence, whereas the knowledge imparted by God and gained through faith rests, for the time being, on God&apos;s authority.
+
+How does the Bible relate to revelation, according to Aquinas? The Bible 
+
+is
+
+ revelation, concretely. In fact, the article on which I am commenting clearly refers to the Bible--"Scripture, inspired by God" (I, 1, sed contra). This is to say that Aquinas identifies materially the "doctrine revealed by God" with the text of the Scripture. That Aquinas makes and means to make such an identification of revelation with the text of the Scripture is indisputable, not only because of this article but because of the way in which he speaks about the Scripture throughout the 
+
+Summa
+
+. Indeed, this is why, as we saw in the preceding chapter, the Christian is--must be--"prepared to believe whatever is contained in the divine Scriptures" (II, IIae, 2, 5; 1081). 
+
+We have here in a nutshell the basis on which Aquinas will approach the issue of the possibility of theology as a science, on the one hand, and of the respective literary genres of the Bible and theology, on the other hand. This basis is constituted by the equation &apos;revelation = knowledge = Holy Scripture.&apos; Indeed, if what is revealed by God is a sort of knowledge, a knowable ("a doctrine revealed by God") in complementary continuity with the scientific knowledge of which Aristotle speaks ("the philosophical disciplines investigated by reason"), then there is no reason why theology couldn&apos;t be quasi-scientific, since the revealed is itself quasi-scientific. The revealed is quasi-scientific, not scientific, because if, on the one hand, it possesses an infallibility superior to all purely rational knowledge, on the other hand (from our side, not from God&apos;s side), it lacks the evidence that characterizes rational knowledge. Furthermore, since the revealed is itself quasi-scientific by its very nature, there is no 
+
+determinatio distrahens
+
+, that is, no change in the nature of the revealed in the passage from the realm of faith to the realm of theology.
+
+As to the issue concerning literary genres, the solution has to be parallel. Since the revealed is knowledge of a certain kind, and since the text of the Bible is identical with the revealed, the text of the Bible conveys knowledge. Consequently, the literary genre of the Holy Scripture is--indeed, it 
+
+has to
+
+ be--fundamentally the same as the genre of a theological work, namely, quasi-scientific. Therefore, whatever differences may be found between a theological work and the Bible are merely stylistic, superficial, and susceptible of being explained by reference to the different &apos;publics&apos; addressed by the Bible and by theological works.
+
+Such is, to the best of my understanding, Aquinas&apos;s position concerning the issue of literary genres of the Bible and of theological works. Let us now see whether the way in which  the rest of this question is developed by Aquinas confirms my interpretation.
+
+The literary genre of the Scripture
+
+One of the most vexing features of Aquinas&apos;s treatment of the issues related to the scientific status of theology is that, following the traces of all those who had participated in that controversy, he continues to use the same name--"sacred doctrine"--for both Scripture and theology. Needless to say, not only does this render difficult the reader&apos;s task, but it creates for Aquinas himself a constant danger of gliding unwittingly from one meaning of the expression to the other and predicating of the Bible what belongs to theology. This, I think, is what happens in the particular case of the literary genre of the Bible.
+
+After presenting his idea of revelation in the first article of the 
+
+Summa
+
+, Aquinas moves to the issues that regard the scientific status of theology. Since we are already familiar with them, a quick glance will suffice to bring us to the articles concerning the literary genre of the Bible. 
+
+His central points are the following. First, theology is a science because its fundamental principles are "revealed by God" (Art. 2). Second, the unity of theology derives from its object, "because Sacred Scripture... considers things under the formality of being divinely revealed" (art. 3). Third, theology is both a speculative and a practical science, though "it is more speculative than practical, because it is more concerned with divine things than with human acts" (art. 4). Fourth, theology is nobler than other sciences "by reason of its greater certitude," and "by reason of the higher dignity of its subject-matter." Also because, "the purpose of this science in so far as it is practical, is eternal beatitude, to which as to an ultimate end the ends of all the practical sciences are directed" (art. 5). Fifth, theology is "a wisdom," that is a supreme science comparable to Aristotle&apos;s metaphysics, because "sacred doctrine essentially treats of God viewed as the highest cause, for it treats of Him not only so far as He can be known through creatures just as philosophers knew Him... but also as far 
+
+as He is known to Himself alone and revealed to others
+
+" (art. 6). Finally, the subject-matter of theology is God, and that is why this discipline is called theology (art. 7).
+
+The vexing equivocation to which I referred above becomes positively harmful at the point where the relationship between theology and the Scripture comes to the fore and, therefore, when the issue of the respective literary genres of theology and the Scripture is to be decided. The question raised by Aquinas in article 8 is "whether sacred doctrine is argumentative?."
+
+Since under the name of "sacred doctrine" he has been speaking of theology one presumes him to be asking whether theology is argumentative, that is, whether theology is a discipline whose procedures are at least analogical to those of the disciplines that Aristotle would classify as scientific. Surprisingly, Aquinas&apos;s answer, which is affirmative, refers explicitly to the Bible too, not only to theology. Indeed, after establishing an analogy between theology and Aristotle&apos;s metaphysics as to their use of principles, he concludes:
+
+"Hence 
+
+Sacred Scripture
+
+, since it has no science above itself, disputes argumentatively with one who denies its principles only if the opponent admits some at least of 	the truths obtained through divine revelation. Thus, we can argue with heretics from texts in Holy 	Scripture, and against those who deny one article of faith we can argue from another. If our opponent believes nothing of divine revelation, there is no longer any means of proving the articles of faith by argument, but only of answering his objections--if he has any--against faith. Since faith rests upon infallible truth, and since the contrary of a truth can never be demonstrated, it is clear that the proofs brought against faith are not demonstrations, but arguments that can be answered" (I, 1, 8; 13-14. My emphasis).
+
+Obviously, whether or not he noticed it, Aquinas has here glided from theology to Sacred Scripture. For the matter he was dealing with was "sacred doctrine" as theology, not as Scripture. In the process, however, he has ended up attributing to Scripture what belongs to theology. For, obviously, it is theology, not  Scripture, that uses certain texts of Scripture as principles. It is theologians, not Scripture, who dispute argumentatively with someone who denies what functions as a principle in their discipline. In short, it is theology, not Scripture, that is "argumentative," and the fact that theology is argumentative does not imply that Scripture is arguymentative, too.
+
+Should we make of this a big point? I think so. For what is at stake is nothing else than the fundamental issue of the literary genre of Scripture. The issue is fundamental for what hinges on it is the very possibility of the quasi-scientific, Aristotelian theology Aquinas has in mind. indeed, if the literary genre of theological works, which is quasi-scientific, is different from the literary genre of the Bible, then there is a 
+
+determinatio distrahens
+
+--an epistemological rupture, a radical shift of paradigms--between the Bible and theology. In that case, Aquinas&apos;s quasi-scientific theology would not be theology at all, for it would not deal with the revealed as revealed, as he maintains it does and claims it has to. Now, the only argument given by Aquinas to support his view that the literary genre of the Bible is "argumentative," that is, quasi-scientific, is obviously defective. Favored by the equivocation between "Sacred doctrine" 
+
+as theology
+
+ and "Sacred doctrine" 
+
+as Scripture
+
+, Aquinas has illegitimately attributed to Scripture the characteristics of his brand of theology.
+
+Moreover, it should be remarked that so far Aquinas has not undertaken even the most cursory examination of the Scriptural text itself. Yet, he has already put the literary genre of Scripture in the same bag as that of theology, that is, he has classified the Scripture as "argumentative," as a scientific work. Is Aquinas disingenuous? I do not think so. What happens, in my opinion, is that 
+
+his Aristotelianism has made him the victim of badly distorted vision. From the very first page of the 
+
+Summa
+
+ he has already seen what God reveals as a kind of 
+
+knowledge
+
+ comparable in certain respects, and complementary to, Aristotle&apos;s scientific knowledge. It follows from this that, if the Bible&apos;s text is what God has revealed, it 
+
+has to
+
+ be a work whose purpose is to convey knowledge. Therefore, the literary genre of the Bible 
+
+has to
+
+ be scientific, that is, of the same kind as the genre of theological works, which are themselves analogous to the Aristotelian scientific works.
+
+The problem of metaphorical language
+
+In the remainig two articles of this section of the 
+
+Summa
+
+ Aquinas asks "whether Holy Scripture should use metaphors?" (art. 9), and "whether in Holy Scripture a word may have several senses?" (art. 10). 
+
+These questions might seem to appear out of the blue. Why should Aquinas bother to ask these particular questions, and to ask them precisely at this point of his inquiry? After all, why should--or, for that matter, should not--the Scripture use metaphors or charge words with several senses?  The answer is not difficult. These are very real problems for someone who, as is Aquinas&apos;s case, has predetermined that the Bible is a work of the scientific genre. Indeed, from a scientific work one does not expect metaphors and double or triple meanings; one expects unequivocal propositions combined into arguments, proceeding systematically to cover as exhaustively as possible the subject-matter at hand. In short, one expects something very much like a 
+
+Summa Theologica
+
+, especially if, like Aquinas, one is convinced that "the author of Holy Scripture is God" (I, 1, 10; 16). However, from his long and deep familiarity with the Scripture as a devout Christian, Aquinas knows that the Bible does not read at all like a 
+
+Summa Theologica
+
+. How come, then, that Holy Scripture, being a scientific work dictated by God, uses literary devices that do not correspond to the Aristotelian views on science? Should the Scripture use such proceedings at all? That is the context within which Aquinas&apos;s questions are truly pertinent. It is obvious, however, that, God being the author of Scripture, Scripture is written as it should be. Aquinas&apos;s problem, then, concerning the literary genre of the Scripture, is to explain why the Bible&apos;s text is what it in fact is, if it is meant to be a scientific work, and how in spite of the fact that the Bible uses literary devices that do not belong in a scientific work the Bible is, nonetheless, a scientific work. This is the rather difficult, not to say impossible, task Aquinas has created for himself by predetermining the literary genre of the Bible.
+
+Now, as we will later see in more detail, 
+
+the nature of the biblical text constituted one of the main obstacles that  prevented other people no less eager than Aquinas to adopt the Aristotelian framework from actually doing that. They found the biblical text, in which their faith was concretely reflected, so obviously and utterly alien by its very literary genre to the Aristotelian schemata, that they feared that any attempt to transfer it to forms that fitted the Aristotelian molds would necessarily involve a radical transformation of their faith. This is what Bonaventure called a 
+
+determinatio distrahens
+
+ and, without realizing the consequences involved, was willing to accept as the unavoidable fee to be paid for the transfer of the object of faith from the domain of faith to the domain of Aristotelian reason. As for Aquinas, he thinks that the problem is a pseudo-problem because what God has revealed is itself quasi-scientific, so that there is no substantive change in the passage of the revealed from the regime of revelation to the quasi-scientific regime of theology. This is why he has now to show that, contrary to all appearances, the Bible itself is "argumentative," that is, belongs within the quasi-scientific literary genre.
+
+Now, from the quick and, I must say, speaking at least for myself, rather shallow way in which Aquinas deals with this complex and truly fundamental issue in just two short articles, one gathers that either he presupposes what he has already said in other of his works concerning the issue, or that his Aristotelian spectacles prevent him from even suspecting the seriousness of the problem with which he is dealing. I think there is much of both involved here. To alleviate the former and be fair to Aquinas I will supplement these two articles of the 
+
+Summa
+
+ with related material from his previous works. Concerning the latter, all I will be able to do, once we have examined these two articles of the 
+
+Summa
+
+, is to make the reader aware of the seriousness of the problem by re-examining the reservations voiced by other people less sanguine than Aquinas as to the compatibility between their faith and Aristotelian reason. After all, a real test of the validity of Aquinas&apos;s position will be the extent to which it is capable of genuinely allaying those reservations. 	
+
+The question, then, to be answered in article nine is "whether Holy Scripture should use metaphors?." The very first objection alerts us as to the wave-length at which the question is raised:
+
+"It seems that Holy Scripture should not use metaphors. For that which is proper to the lowest science seems not to befit this science, which holds the highest place of all. 
+
+But to proceed by the aid of various similitudes and figures is proper to poetic, the least of all the sciences. Therefore it is not fitting that this science should make use of such similitudes
+
+" (I, 1, 9).
+
+Besides, as the second objection adds, "this doctrine [Holy Scripture] seems to be intended to manifest truth... But by such similitudes truth is hidden" (ibid.).	
+
+There is, therefore, no possible mistake: what the objections dispute is precisely the scientific genre Aquinas has attributed to Scripture, the reason being that the use of similitudes and figures can hardly be expected from a supposedly scientific work. Such things belong in poetic works, which in the Aristotelian taxonomy of the sciences figure in the lowest place and only by a highly tenuous extension of the meaning of the word "scientific." How, then, can Aquinas maintain that the Scripture is a scientific work?
+
+This is Aquinas&apos;s direct reply to the objection:
+
+"Poetry makes use of metaphors to produce a representation, for it is natural to man to be pleased with representations. But sacred doctrine makes use of metaphors as both necessary and useful" (Ibid.).
+
+The last part of the reply rests on the answer given in the corpus of the article, where Aquinas argues that the reason Holy Scripture uses comparisons with material things "to put forward divine and spiritual truths" is that "it is natural to man to attain to intellectual truths through sensible things, because all our knowledge originates from sense." And, in any case, as Aquinas points out in his reply to objection 2, "those things that are taught metaphorically in one part of the Scripture, in other parts are taught more openly" (ibid.).
+
+As is clear, 
+
+Aquinas sees the Scripture as a book that teaches, a doctrinal work whose purpose is to convey revealed knowledge
+
+. This defines the literary genre of Scripture, to which everything else--and in particular the use of metaphors, images, similitudes, and comparisons--is subordinated. 
+
+Unlike poetry, however, which uses such devices to give pleasure, Scripture uses them to convey divine truths. Consequently, the use of metaphorical language does not not detract from the scientific character of the Scripture.
+
+  From this basic view Aquinas does not budge. There are, however, in other of his works, certain additional details to be taken into account for the sake of completion and of fairness to Aquinas.
+
+In his commentary on the Lombard&apos;s 
+
+Book of Sentences
+
+ (1254) Aquinas also deals with the issue of the literary genre of Scripture. There again he meets the, for him, bothersome issue of the biblical use of the "method" that he identifies variously as "
+
+symbolica
+
+," "
+
+parabolica
+
+" and "
+
+metaphorica
+
+." The reason, however, on the basis of which he justifies the use of this "method" differs somewhat from the one given in the 
+
+Summa
+
+. In the latter, as we just saw, such use is justified in terms of God&apos;s accommodation to our human ways, for, as acknowledged by Aristotle, we cannot know the intelligible but through the sensible. The same reason is given in the commentary to the Lombard&apos;s work, but with one addition. Certain of the truths revealed are above the reach of reason and cannot be communicated directly, but only through the use of metaphors. And this distinguishes the metaphorical language of poetry from the metaphorical language of Scripture. Poetic works have no truth to communicate, for they are meant only to please, and images or metaphors are pleasant; the Bible, by contrast, has to communicate certain truths, some of which at least are in themselves beyond human understanding and can be communicated only through images: 
+
+"Poetica scientia est de his quae, propter defectum veritatis, non possunt a ratione capi; unde oportet quod quasi quibusdam similitudinibus ratio seducatur. Theologia autem est de his quae sunt supra rationem; et ideo modus symbolicus utrique communis est, cum neutra rationi proportionetur" (In Sent., prol., a. 5, ad 3; Chenu p. 44, not 3).
+
+At least this latter justification of metaphorical language has the advantage of some versisimilitude, which obviously is not the case with the only justification presented in the 
+
+Summa
+
+. Indeed, if the reason for the biblical use of metaphorical language were that we cannot understand the intelligible but through the sensible, we should find the same use of 
+
+poetic
+
+ metaphorical language in scientific works like Aristotle&apos;s 
+
+Metaphysics
+
+ or Aquinas&apos;s own 
+
+Summa Tehologica
+
+. But we do not. And the problem Aquinas is expected to solve is, precisely, why not, given that the Bible is supposed to be a scientific work like the ones just mentioned.
+
+The problem of the multiplicity of meanings
+
+In the next and last article of this section of the 
+
+Summa
+
+	Aquinas tackles the question "whether in Holy Scripture a word may have several senses." 
+
+We need not go into the issue of the senses of Scripture
+
+in any more depth than Aquinas himself goes here. It is sufficient to know that he is fully aware that Christians have traditionally detected in the Bible several layers of meaning, which in his reply to objection 2 Aquinas will reduce to two classes: "the literal sense," and the spiritual or allegorical senses--"allegory alone stands for the three spiritual senses." To give an illustration of both of these kinds of sense, in the sacrifice of Isaac by Abraham Christians have traditionally seen a symbolic prefiguration of the sacrifice of Christ. In this case, the narration concerning the sacrifice of Isaac constitutes the literal sense; the prefiguration of the sacrifice of Christ constitutes the spiritual sense.	
+
+The first objection presented in the article gives us a clear idea of the problem that concerns Aquinas:
+
+"It seems that in Holy Scripture a word cannot have several senses... For many different senses in one text produce confusion and deception and destroy all force of argument. Hence no argument, but only fallacies, can be deduced from a multiplicity of 
+
+propositions
+
+. But 
+
+Holy Scripture ought to be able to state the truth
+
+ without any fallacy" (I, 1, l0; p. 16).
+
+In order to grasp the full strength of the objection, we may reformulate its point as follows. The Bible, according to Aquinas, is a scientific work. What one expects from a work of such a kind is clear, unequivocal statements--"propositions" that "state the truth"--, for only such statements can convey knowledge, which is what scientific works are about. However, what we find in the Bible is "a multiplicity of propositions," that is, statements that belong in different and heterogeneous layers of meaning, and which are therefore inept to convey scientific knowledge. Thus, by virtue of its very literary genre, the Bible can in no way be considered as a scientific work.
+
+The gist of Aquinas&apos;s answer to the question is to grant the existence of different senses or layers of meaning in the Bible while maintaining that this does not  create a problem as to the quasi-scientific or "argumentative" character of the Bible, because
+
+"...in Holy Scripture no confusion results, for all the senses are founded on one--the literal--from which alone can any argument be drawn, and not from those intended allegorically, as Augustine says. Nevertheless, nothing of Holy Scripture perishes because of this, since nothing necessary to faith is contained under the spiritual sense which is not elsewhere put forward clearly by the Scripture in its literal sense" (I, 1, 10, ad 1; 17).
+
+The knowledge of which Aristotle spoke and which the Bible, as a work of the scientific genre, is supposed to convey can only be expressed propositionally, and only through propositions that mean literally rather than allegorically or spiritually. Now,  Aquinas&apos;s point is that such precisely is the case with the Bible, because its fundamental sense--the "literal" sense--is constituted by propositions of 
+
+that
+
+ kind
+
+. This sense is fundamental because the spiritual senses are based on the literal, that is, they are possible only on the basis of the literal sense and by reference to it. 
+
+And lest anyone argue that something of what is conveyed by the spiritual senses may be lost by attending exclusively to the only sense that would have interested Aristotle--"the sense from which alone any argument can be drawn"--, one has only to realize that whatever of real importance to faith is conveyed by the spiritual senses is elsewhere in the Scripture formulated in propositions that mean literally. Hence, in spite of all appearances, the Bible is itself a scientific work and, consequently, no denaturation of the revealed can occur in the transposition of the literal statements of the Bible to the homogeneous milieu of a scientific theology.
+
+Does Aquinas really mean to say that the literal sense of the Scripture is of the same kind as the sense of scientific statements? Yes, he does. To realize this one has only to read the corpus of the article, where, after stating that "The author of the Scripture is God," he explicitly compares the Bible--"this science"--to the "other sciences," in which only the literal sense is employed. 
+
+Before leaving this article, I want to mention a point whose importance will be appreciated only later, when we come to speak of narratives.
+
+ In this article, Aquinas explicitly identifies the literal sense of the Bible with the historical sense: "Therefore that first signification whereby words signify things belongs to the first sense, the historical or literal"
+
+ (p. 16). That he means to make such identification is beyond doubt, for in his reply to objection 2 
+
+he clarifies that the historical sense is just a particular variety of the literal sense: "For it is called history, whenever anything is simply related" (p. 17). Now, since Aquinas has identified the literal sense with the sense of propositions or statements which can constitute premises in an argument, it follows that Aquinas reduces the sense of biblical narratives to the sense of the kind statements that alone interested Aristotle.
+
+The problem of contingent, historical truths
+
+There is only one other important issue related to the literary genre of the Scripture as understood by Aquinas that we need still to consider in order to complete his views. The issue concerns the fact that Scripture, for the most part, speaks of particular characters and particular events. Now, this is something for which there should be absolutely no room in a work of the scientific genre. After all, is not a genuinely scientific work supposed to be constituted by universal and necessarily true propositions that refer to "natures" or "essences" and yield "knowledge 
+
+propter quod"
+
+? And did not Aristotle himself, for this very reason, expel history--that is, particular, contingent truths--from the scientific realm? Was this not, indeed, the reason why he placed history even below poetry, which at least has the merit of dealing with possible rather than with temporal, contingent beings?
+
+Aquinas does not confront this issue in either of the articles that have directly to do with the literary genre of the Bible because he has already dealt with it in a previous article of the same section. Considering "whether sacred doctrine is a science?," in article 2, he faced the following objection:
+
+"
+
+Further, science is not of individuals. But sacred doctrine treats of individual facts, such as the deeds of Abraham, Isaac and Jacob, and the like. Therefore sacred doctrine is not a science"
+
+ (I, 2, obj. 2; 7).
+
+To this Aquinas answers that
+
+"Individual facts are not treated in sacred doctrine because it is concerned with them principally; they are rather introduced as examples to be followed in our lives (as in the moral sciences), as well as to establish 
+
+the authority of those men through whom the divine revelation, on which this sacred scripture or doctrine is based, has come down to us
+
+" (Ibid.).
+
+This, unless I am very badly mistaken, amounts to saying that whatever in the Bible refers to particular characters and particular events is secondary. They appear merely as examples that illustrate a doctrine, or at best as historical points of reference that establish the actual authority which certain of the characters enjoy in regard to the reader of the Bible. Now, it is rather difficult, at least for me, to see in such a casual comment anything that even remotely resembles a satisfactory answer. 
+
+Can Aquinas possibly mean what he says? Does he see Jesus--the particular character involved in particular events, who constitutes the obvious core of the four Gospels--as not being the principal concern of the Gospels? Does he see Jesus as just an exemplification of certain doctrines? Does he think that Jesus appears in the Gospels just for the purpose of establishing the authority of his own sayings, which are themselves the important, revealed doctrine?
+
+ I honestly doubt that Aquinas would have answered these questions affirmatively. This leads me to think that, 
+
+unlike those of his prececessors and contemporaries whose views we studied above, 
+
+Aquinas has been so totally absorbed by the Aristotelian gravitational pull as to have lost all sense sense of a possible tension between his faith and his Aristotelianism.
+
+At any rate, such is, to the best of my understanding, the way in which Aquinas disposes of the problems that the character itself of the Bible seems to create to his attempt to understand it as a scientific work. 
+
+Rather than considering the variety of literary genres involved in the Bible, and certainly without preserving the autonomy of the narrative genre (which he reduces to literal statements), and without any sense of the temporality of history, Aquinas seems to read the Bible and every portion thereof as preceded by an implicit "God stated that..."
+
+The unheard voice of the opposition
+
+.
+
+Aquinas&apos;s position concerning the matters that interest us in this book is now known to us in its entirety. I would like to 
+
+finish this chapter with an at least general impression as to the ssolidity of Aquinas&apos;s position by considering it side by side with the reservations expressed by other Christians who found the marriage between their faith and Aristotelian reason impossible. After all, Aquinas synthesis, if successful, must be capable of allaying those reservations.
+
+A quick glance at the material presented in chapters three and four will do for our present purpose.	
+
+What were de Halès&apos;s reservations? That scientific works address the intellect exclusively, whereas the Bible talks to the heart and moves to love and fear God; that the Bible does not demonstrate anything, the Bible reveals; that because of this the literary genre of the Bible is radically different from the "
+
+modus scientialis
+
+" (4, 2-9).  What were Kilwardby&apos;s reservations? That "the truth of the Scripture is not the result of rational inquiry but of divine inspiration, exclusively" (4, 17); that the Bible--"
+
+dico de canone Bibliae
+
+"--does not and cannot proceed by way of universal truths, as scientific works must (4, 19-20). What were Stephen of Tournai&apos;s reservations? That the scientific reading of the Bible leads to a theology where one does not recognize the Bible, where God&apos;s mystery is voided and the Holy Trinity vivisected (4, 21-22). That, in Jean de Saint-Gilles&apos;s eyes, such a theology substitutes philosophical questions and private opinions for revelation (4, 22). That, in Roger Bacon&apos;s opinion, the scientific reading of the Bible ignores the narrative character of the Bible and the singularity of the stories--"
+
+sicut liber historiarum solebat legi
+
+"--and structures the biblical text after questions that are alien to its character--"
+
+nam quaestiones... sunt iam separatae a textu
+
+" (3, X, and 4, 23).
+
+These reservations, whose authors themselves found powerful enough as to be prevented by them from consummating the marriage between their faith and Aristotelian reason, emphasize closely inter-related characteristics of the Christian faith and of the Bible that contrast very sharply with fundamental traits of Aristotelian reason and the works inspired by it. 
+
+Certain of these reservations appeal to 
+
+the non-demonstrative character of the Bible
+
+. The Bible is not a scientific work because it does not support with evidence. It does not prove or argue; it reveals. Its genre is "
+
+revelativus
+
+," not "
+
+argumentativus
+
+" or "
+
+inquisitivus
+
+." Other reservations appeal to 
+
+the historical structure of the Bible
+
+. Insofar as the Bible can be deemed to make statements, its statements cannot be equated with those that fit within the scientific structure. For the Bible does not employ universal and necessary judgments of the kind that alone interested Aristotle. The Bible deals with contingent, particular people and particular events which cannot be subsumed under, or reduced to, or expressed by means of, scientific statements. It is not only that particular people and particular events are to be found almost everywhere in the Bible, but that 
+
+the fundamental structure of 
+
+the Bible is 
+
+constituted by
+
+, and inseparable from
+
+, the temporal sequence of particular events in which particular persons participate in particular and different roles, out of which a particular and unique sense emerges
+
+. This sense, as well as the Christian faith, would be totally different if the events or the participants had been different. And for this sense there is no room at all within the Aristotelian framework. Now, not only does this render highly problematic, not to say simply wrongheaded, the attempt to read the Bible as a scientific or even a quasi-scientific work, but it suggests that a deductive theology after the Aristotelian scientific model would be equally wrongheaded, for it would be radically at odds with the nature itself of revelation and of faith. Finally, other of the reservations of the Non-Aristotelians and Anti-Aristotelians, while reinforcing the preceding two, implicitly appeal to 
+
+the narrative form of the Bible
+
+. The Bible&apos;s fundamental literary genre is narrative, not doctrinal. Scientific works address the intellect exclusively, for they aim at eliciting assent, which is a purely intellectual operation. But the Bible, as is of the nature of narratives, moves the heart, provokes love and fear. And it is the purport of the objection that 
+
+this narrative form is not a dispensable characteristic of the Scripture, but a constitutive of its revealed message
+
+, which cannot be conveyed otherwise than through a fundamentally narrative work
+
+. Thus, the reading of the Bible as a scientific work denatures God&apos;s revelation, and the theology that results from 
+
+such a reading would actually involve the sort of 
+
+determinatio distrahens
+
+ that Bonaventure was willing to accept without weighing its consequences, and that Aquinas thought he had avoided by understanding the Bible as a quasi-scientific work.
+
+Such is the real and, at least in my opinion, all but trivial, purport of the objections raised by those who, willignly or regretfully, refused to let themselves be carried by the Aristotelian wave that would end up engulfing the Western world after Aquinas. Was their voice really heard? Did Aquinas himself hear it at all? Does his position constitute a genuine answer to their concerns? 
+
+I do not think so. Aquinas&apos;s treatment of the related biblical issues trivializes and counterfeits these objections rather than really responding to them. For what is at issue is not merely the use of imagery in certain passages of the Bible, but the whole narrative structure of the Bible, which Aquinas completely ignores. What is at issue is not whether the spiritual senses of the Bible are dependent on the literal sense, but the nature itself of its literal sense, which Aquinas identifies with the sense of the kind of predicative statements that alone interested Aristotle, and which at least some of the objectors identify as narrative. What is at issue, consequently, is the nature itself of revelation and of faith, which Aquinas identifies respectively with the transmission of divine knowledge and the assent to it, and which the objectors obscurely strive to identify with something very different and closely connected with the narrative character of the Bible and its historical sense.
+
+These are the problems with which we will have to struggle if we are to reach a satisfactory outcome in our inquiry.

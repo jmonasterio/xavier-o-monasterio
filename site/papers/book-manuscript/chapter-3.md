@@ -1,0 +1,390 @@
+---
+title: "Chapter 3"
+original_file: "/src/xavier/Files/More My Documents/wp/MONAS/CHAPTHRE"
+original_format: WordPerfect
+converted_date: 2026-01-20
+converted_with: wpd2html
+file_date: 1997-01-09
+---
+
+Chapter Three
+
+From Christian Meditation  to Summa Theologica
+
+In the course of the last quarter of the Twelfth century and the first half of the Thirteenth a profound change took place within theology. It is important for our purposes to grasp what that change involved.
+
+The Summae Theologicae and the Fathers&apos; Christian reflection
+
+A practical way of beginning to appreciate the reality of the change, if not immediately its depth and its importance, is to realize that it manifested itself concretely in the emergence and  multiplication of 
+
+Summae Theologicae
+
+, of which Saint Thomas&apos;s own is only one among many others. Nothing even remotely similar to them had previously appeared in the theological landscape. 
+
+ 	The 
+
+Summae Theologicae
+
+ were theological treatises that studied in a systematic way the whole of Christian revelation and Christian life, in which the positions taken on each particular issue by their respective authors were justified by means of argument, and the positions rejected were demonstrated as false or unacceptable also by means of rational argument.
+
+The novelty of this theological approach cannot be appreciated unless one contrasts it
+
+ with the theological reflection--or shoud we rather say Christian meditation--of  the Fathers of the Church. The Fathers seldom wrote theological treatises properly so called. For the most part, their reflection on Christian revelation and Christian life took the shape of writen commentaries on the text itself of the Bible, and still more often of face to face sermons to the assembled people in the course of which the Fathers explained one passage or another of the Bible. There was nothing particularly systematic to their theological reflection; they just followed the narrative order of the Bible, or took occasion for their public meditation from the particular biblical passage at hand. Much less was there an attempt on the Fathers&apos; part to furnish rational justifications of the views they held. They saw no need to demonstrate the validity of their views because, to start with, they were not aware of having any views of their own. What they were doing, or at least assumed they were doing, was to explain God&apos;s word, which they themselves accepted as such unquestioningly, to other Christians who themselves also accepted God&apos;s word unquestioningly, by virtue of their faith. Thus the Fathers had no need to prove or justify anything by means of argument, for both they and their audience shared the same faith. 	In some comparatively rare cases, though--Saint Augustine&apos;s 
+
+De Malo
+
+ is an example--they focussed on one or another issue in particular to refute doctrines that they considered dangerous or gravely erroneous; by the same token, they presented and defended what they took it to be the right view, the genuinely Christian view, the view of faith. This sort of writing might, in certain regards, be considered as a theological treatise. If so, however, we are dealing with a theological treatise of a very different kind from that of a 
+
+Summa Theologica
+
+. What is different?
+
+First of all, these Patristic &apos;treatises&apos; dealt only with one or a few issues, whereas the 
+
+Summae
+
+ aimed at a systematic study of the whole of the Christian faith and the Christian way of life. Secondly, these &apos;treatises&apos; do not attempt to demonstrate the validity of the particular views held by their authors, for they hold those views by virtue of their Christian faith, and they do not think that God&apos;s word needs justification in order to be accepted, or even that it can be justified by purely rational means. What the authors of these &apos;treatises&apos; do is to show that those who hold a different view have strayed from revealed truth and are, therefore, necessarily wrong. In other words, their authors do not aim at proving or demonstrating the validity of the views they hold; rather they argue on the basis of the views they hold in faith, whose validity is for them indisputable, since it is nothing else  or less than God&apos;s word. Insofar, therefore, as the authors of those &apos;treatises&apos; give arguments, the arguments are not meant to prove the views they hold. They are meant to disqualify the views they reject and 
+
+others
+
+ hold, either as being different from the views of faith (in case the people who hold those views claim to be Christians), or (in case the people who hold those views are not Christians, and therefore would not care if their views differ from Christian revelation) as being false. For instance, Augustine argues  that evil cannot be of attributed to God as its author, and that a God to whom evil could be rightly attributed would not be God, certainly not the God of the Christian faith. There is, then, in these &apos;treatises,&apos; some use of purely rational argument, but it is addressed exclusively to those who do not share the Christian faith.
+
+Saint Anselm: Toward a new theological approach
+
+With 
+
+Saint Anselm
+
+, in the eleventh century, a transition in the direction of the 
+
+Summae
+
+ starts taking place. For the first time ever, at least in a deliberate and systematic way, a Christian thinker opens the way to a distinction between the realm of faith and the realm of reason, and attempts to demonstrate by purely rational argument a truth he holds in faith. 
+
+As a Christian, Anselm believes that God exists. However, he does not believe that on the basis of any argument, but as part and parcel of his Christian faith. He believes in God&apos;s existence without having any merely rational proof for it, and he would continue to believe it even if it happened to be undemonstrable, for his faith does not rest on demonstration but on revelation. However, he inquires whether God&apos;s existence can be rationally demonstrated, not in order to believe it, but because he believes it and wants to explore the intelligibility of his faith: "Non enim intelligo ut credam, sed credo ut intelligam." The conclusion of his inquiry is that God&apos;s existence can be rationally demonstrated, in such a way that any intelligent pagan, confronted with Anselm&apos;s demonstration, should be rationally constrained to assent to God&apos;s existence.
+
+Whether or not Saint Anselm is right concerning the validity of his rational demonstration of God&apos;s existence, there is a striking novelty to his approach. What is new in this momentous step is that, for the first time, a Christian transforms what he believes by faith into object of study, that is, of merely rational consideration, and submits it deliberately to the standards of reason. 
+
+A fissure has appeared that was not clearly visible before, at least not in the awareness of Christian thinkers. A Christian has faith and has reason
+
+. As a faithful, the Christian 
+
+believes
+
+. But as a rational creature, he can also apply to the objects of his belief the intelligence received from God and come to 
+
+know
+
+. Correlatively, what is divinely revealed can be considered as object of faith and as object of study, that is, of merely rational inquiry that leads to knowledge.
+
+Of course, when the Christian seeks knowledge and takes what he believes as a faithful as object of study, he places himself--at least methodically--in respect of the object of his inquiry (which he otherwise accepts in faith) exactly as someone who does not have faith, for the fact that he has faith cannot count in the process of attaining knowledge. Correlatively--at least methodically--he submits what he believes by faith to exactly the same rational demands that any other possible object of knowledge. In other words, the Christian has entered the field of reason which he shares with those who do not believe--a field in which the arguments given by the Christian will be judged and carry weight according to the standards of reason exclusively, and in which the divinely revealed which the Christian ccepts in faith will be submitted to and judged by the same standards as any other object of inquiry.
+
+It bears remarking that, on the part of the Christian thinker who so exposes himself and what he believes, this bold move implies a supreme confidence in the harmony between the realm of faith and the realm of reason. By this I mean, not that 
+
+the Christian thinker necessarily expects that all he accepts in faith is rationally demonstrable, but that nothing of what can be rationally demonstrated can contradict what he holds in faith
+
+, for if that happened to be the case the Christian would find himself in the impossible quandary of having to accept in faith what he rationally knows to be false. At any rate, unless the harmony between the realm of reason and the realm of faith be perfect, Anselm&apos;s bold move implies a possible tension in the Christian between what his faith and his reason demand of him.
+
+Both, this confidence in the harmony between the data of faith and the data of reason on the part of those who engage in the direction followed by Anselm, as well as the possibility of conflict between the data of faith and the data of reason are important, as it will appear later. They should, therefore, be kept in mind. 
+
+Saint Anselm, however, did not stop at this bold step. He also introduced another change. Having induced--whether consciously or unconsciously--the transformation of what he accepted in faith, that is, God&apos;s revelation, into object of study, he could submit it to the demands of reason, not only or even necessarily to demonstrate its truth, as was the case with God&apos;s existence, but also to explore its rational implications beyond the limits of faith.
+
+ Thus, as a concrete instance, in his 
+
+Cur Deus Homo?
+
+, Anselm explores such questions as the reasons God could have had to become man, and even whether God would have taken our flesh if Adam had not sinned. 
+
+Obviously, this goes beyond the actually revealed, that is, beyond the realm of faith.
+
+ Of course, these are questions that can be raised only by believers, but they are nonetheless questions whose answer is to be reached by purely rational means applied to the data of faith, and whose answer, if properly supported by reason,  will constitute knowledge rather than faith.
+
+It may be said that Saint Anselm inaugurated the movement toward theology as an independent discipline whose field is constitued by the data of revelation, but which considers the data not as embraced in faith, but rather as object of study to be known insofar as it can be known both in itself and in its rational implications. In this discipline, what is accepted in faith becomes object of study. I may well be, however, and there are good reasons to think that such was indeed the case, that Anselm himself had no clear idea of the distinction his practice implied between what is embraced by faith and what is considered as object of study, or even that he had effected a transformation of divine revelation into object of rational inquiry. A performance or practice often precedes the realization of its novelty and of its implications.
+
+We will be in a position to appreciate the novelty of Saint Anselm&apos;s theological practice by contrasting it with that of the Fathers. For the Fathers of the Church did not treat what they held in faith as object of study,
+
+ if by this we understand object of merely rational inquiry, but as what it was for them--that is, as object of faith. 
+
+The Fathers reflected on their faith 
+
+as it was for them as faithful
+
+, whereas Anselm reflected on his faith (which he believed as one of the faithful), not as his faith was for him as one of the faithful, but 
+
+as object of study, as object of rational inquiry for any rational person.
+
+. Another way of putting the same: the Fathers&apos; theology was 
+
+Christian
+
+ reflection on revelation as revelation; the theology Saint Anselm inaugurates is rational reflection on the data of revelation as object of rational inquiry.
+
+ Of course, 
+
+the theologian gets t
+
+he data of revelation from his faith, and without faith he would have no motivation whatsoever to work on those particular data; the fact, nevertheless, remains that the theologian works on them as he would work on any other data subject to rational inquiry.
+
+ Now, not only was this an extraordinary novelty, but one that was bound to have extraordinary effects when Anselm&apos;s practice would be generally adopted, institutionalized in theology, and carried much farther under Aristotle&apos;s influence. However, we still have some way to go before we reach the age of the 
+
+Summae Theologicae
+
+. For if the 
+
+Summae Theologicae
+
+ belong within the theological tradition whose beginnings are theoretically traceable to Saint Anselm, in addition they incorporate other changes that took place between approximately the third quarter of the twelfth century and the middle of the thirteenth century. These changes are closely related to the progressive assimilation of Aristotle&apos;s philosophical works, rediscovered and introduced into Western Europe during that period. To those changes we turn now. 
+
+Theology comes of age
+
+For all practical purposes, Saint Anselm&apos;s bold steps exerted little impact on the theological practice. The case would have been different if Aristotle&apos;s philosophical works--as distinguished from his logical works, from which Saint Anselm undoubtedly benefited--had already prepared the soil. But that was not the case. Thus, till the middle of the twelfth century, theology remained centered on Scripture and for the most part continued to proceed after the Fahters&apos; example. 	
+
+A first modification of importance took place then. Though relatively unimportant in itself, this modification undoubtedly contributed to start a process that would accelerate in time. It was introduced in a most innocent way by 
+
+Peter the Lombard
+
+, who collected in a more or less systematic way organized by subjects what the Fathers had said about each of the subjects he included in his work. His work was the famous 
+
+Liber Sententiarum
+
+, which became very quickly, and remained for a long time, 
+
+the
+
+ theological textbook. Of course, this innovation involved a certain systematic order in the theological studies which was not to be found in the writings of the Fathers themselves and much less in the Bible. But, in addition, a far more sweeping change took place shortly thereafter with the division of each subject into a number of questions. For 
+
+the approach by questions--by 
+
+quaestiones
+
+, as they were called--consecrated and made it a matter of course the shift from the Christian reflection on revelation as revelation to the rational reflection on revelation as object of rational inquiry.
+
+ And what characterizes the 
+
+Summae Theologicae
+
+ that started appearing at the beginning of the thirteenth century was, not only that they incorporated the treatment of the material by subjects, and that they attempted to cover systematically the whole field of theology, as indicated by the very name 
+
+Summa Theologica
+
+, but, above all, that each of the subjects was explored through the method of &apos;quaestiones." The latter point is so important that it deserves careful scrutiny.
+
+What is what the medievals understood by a "quaestio
+
+"? A question, of course.  But the word, in our context, has a technical meaning. It is the quaestion 
+
+of a theologian
+
+, where the word "theologian" is to be understood in the sense inaugurated by the practice of Saint Anselm. This is to say that 
+
+it is a question raised by someone who has faith, but who is inquiring about his subject-matter not as object of faith but as object of rational interest, and who is therefore seeking an answer that satisfies the demands of reason and constitutes a piece of knowledge, not an item of faith.
+
+ In other words, it is a matter of reaching answers supported by evidence, which when expressed in words will take the shape of &apos;reasons,&apos; which when logically combined will take the shape of &apos;arguments&apos; that ideally will terminate in a rational conclusion to which assent cannot be denied. In other words, it is a matter of strict demonstration, if possible, or at least of persuasive evidence.
+
+True, given the particular subject matter of theology, the argument of authority will continue to have in this discipline a place that it cannot have in any other discipline. After all, theology is primarily an inquiry on what has been actually revealed, and only secondarily on what can be deduced or hypothesized from what has been revealed. The fact remains, however, that 
+
+the argument of authority 
+
+is
+
+ genuinely an argument, 
+
+that is, a rational procedure in the pursuit of knowledge. For, in theology conceived in this way, the result that the argument of authority is meant to produce is intellectual assent--nothing else and nothing less--, and intellectual assent is precisely what any rational argument is meant to produce in any field of knowledge. As Aquinas himself will explain later, authority in theology plays the role played by evidence in other sciences. For what prompts the assent of the practitioners of other sciences is the evidence that supports that to which they assent, and what prompts the same intellectual response on the theologian&apos;s part is the authority that supports that to which the theologian assents. Suppose, for example, that a theologian is working on the subject of the sacraments, and in particular on the sacrament of matrimony as indissoluble. The "question" this theologian will raise is whether the sacrament of matrimony is indissoluble. How will the theologian reach the answer to his question? By an appeal to Scripture; in this particular case, to Christ&apos;s authority who stated that, in the New Covenant, matrimony is indissoluble. Grasping the authority of Christ that supports the fact that the sacrament of matrimony is indissoluble is what prompts the theologian&apos;s intellectual assent to that fact, much as grasping the fact that a certain gas he is analyzing produces the effects that characterize, say, oxygen, is what prompts on a chemist&apos;s part the assent to the fact that the gas he is inquiring about is oxygen. What the chemist gains thanks to the evidence is knowledge, and what the theologian gains thanks to Christ&apos;s authority is knowledge, which is precisely what the intellectual act of assent yields in both cases, though evidence and authority are very different in nature.
+
+Why go into such elaborate explanation of a rather simple point? Because the point is important. Indeed, 
+
+the introduction of the "question" into the theological method, together with the process of rational discourse of which the question is only the first step, manifests the progressive institutionalization of the practice of theology as decidedly a form of rational inquiry and, consequently, of the treatment of revelation not as it stands for the faithful but as it stands for the faithful 
+
+as
+
+ a rational inquirer
+
+. 
+
+Actually, already at the beginning of the thirteenth century, 
+
+the distance and the radical difference between these two modes of dealing with revelation is reflected clearly in the curriculum of the great Universities. Indeed, there are now two totally independent chairs instead of one. In one of them, the Holy Scripture serves as textbook and its text is read and commentated by the master in a manner reminiscent of the days of the Fathers. In the other,
+
+ by contrast, taught by the "
+
+lector Sententiarum
+
+," the textbook is  the Lombard&apos;s 
+
+Liber Sententiarum
+
+, but frankly treated in the scientific spirit of the 
+
+quaestio.
+
+ It is, then, a course in which revelation is dealt with as object of rational inquiry, where the master raises his own questions, takes his own stands, furnishes his own reasons for the stands he takes, and debates the positions of those who disagree with him, much as Saint Thomas will do in his own 
+
+Summa
+
+. 
+
+Another academic exercise periodically held, called "
+
+Quaestiones Disputatae
+
+," reflects the popularity of the new theological approach. It is a public debate in which the "lector sententiarum" chooses an issue he wants to settle, discusses it with colleagues and with students of theology from what in modern parlance we would call &apos;a scientific point of view,&apos; and puts an end to the debate by giving his own "
+
+determinatio,
+
+" that is, his personal solution. The way Chenu expresses the character of the master&apos;s 
+
+determinatio
+
+ makes the point well: "We might say that it is a sort of scientific conclusion grounded on &apos;reasons&apos; and carrying [scientific] authority" (p. 25). The importance taken by this public exercise since the early thirteenth century is also suggested by Chenu: "Albert the Great, Bonaventure, Thomas Aquinas, and already before them William of Auxerre (+ 1231) and Philip the Chancelier (+ 1236) entertained disputed questions" (p. 26). As to the extraordinary popularity gained by the new theological approach, it can be gathered by the following plaintive comment of Roger Bacon&apos;s in 1267: 
+
+"... bacularius, qui legit textum, succumbit lectori sententiarum, Parisiis et ubincunque, et in omnibus honoratur et praefertur. Nam Parisiis ille qui legit sententias habet principalem horam legendi secundum suam voluntatem, habet et socium et cameram apud religiosos. Sed qui legit bibliam caret his et mendicat horam legendi secundum quod placet lectori sententiarum. Alibi qui legit sententias disputat et pro magistro habetur. Reliquus qui textum legit, nec potest disputare; sicut fuit hoc anno Bononiae, et in multis aliis locis, quod est absurdum. Manifestum est igitur quod textus illius facultatis subiicitur uni summe magistrali. Sed primo hoc est statutum cuiuslibet facultatis.
+
+Nam omnis alia facultas utitur textu suo solum et legitur textus in scholis, quia scito textu sciuntur omnia quae pertient and facultatem. Quia propter hoc sunt textus facti, hic longe magis, quia textus hi de ore Dei et sanctorum allatus mundo, et est ita magnus quod vix sufficeret aliquis lector ad perlegendum eum in tota vita sua, secundum quod magis legunt. Deinde sancti doctores non usi sunt nisi hoc textu; neque sapientes antiqui, quorum alios vidimus, ut fuit dominus Robertus episcopus Lincolniensis et frater Adam de Marisco et alii maximi viri...; et tunc legebatur aliquando, sicut liber Historiarum solebat legi, et adhuc legitur rarissime. Et mirum est quod sic est exaltatus liber sententiarum, quoniam liber Historiarum est magis proprius theologiae" (Chenu 27, note 1).
+
+The analysis of the consequences entailed by these changes will  have to be left for a later chapter. For the moment, our purpose is to follow the evolution we have been studying through its culmination, which was reached with the 
+
+Summae Theologicae
+
+.
+
+The Aristotelian revolution
+
+  
+
+By the early years of the thirteenth century the teaching of theology by "
+
+quaestiones
+
+" was already the well-established method practiced in the leading centers of learning, particularly in the most distinguished Universities--Paris, Oxford, and Bolonia. One may wonder why the field of theology changed so little immediately after Saint Anselm, and started changing so much and so rapidly by the second half of the twelfth century. The answer seems to be: because the change was not prompted by Saint Anselm&apos;s works but by the philosophical works of Aristotle.
+
+Through Boetius (         ) Aritotle&apos;s 
+
+Categories
+
+ had gained currency in Western Europe since the
+
+century. I have already indicated that Saint Anselm undoubtedly benefitted from the integration of that aspect of the Aristotelian corpus into the theological culture of his time.  A long time would elapse, however, till the bulk of Aristotle&apos;s works would enter Western Europe and begin exerting their influence. Starting late into the twelfth century, first the second part of the 
+
+Organon
+
+ (Analytica, Topica, Elenchi) and then the rest of the Aristotelian corpus reached Europe&apos;s consciousness. It may be said without exaggeration that they created a tidal intellectual wave and produced what cannot be characterized but as a genuine cultural revolution. For our limited purposes and oversimplifying a highly complex matter, it will suffice to consider a few of its effects that are of special interest.
+
+One of them, undoubtedly, was the clear consciousness acquired by the people who became familiar with the Aristotelian works of what the use of reason left to its own strength, that is, unaided by any revelation, was capable of accomplishing. Another no less important effect is that it brought to the full consciousness of intellectuals, and certainly of theologians, the distinction between revelation and reason. Thirdly, given the impressive results achieved by Aristotle, theologians, no less than those who worked in other fields of knoweldge, could not help but being overwhelmed by the desire to incorporate into their respective fields the use of the reason whose power Aristotle&apos;s works had revealed to them. This explains much of the rapid evolution that took place in theology in the two centuries we have been studying. Not all of it, however, and not fully. For the assimilation by the medievals of the Aristotelian corpus was not limited to the rational structure of the Aristotelian approach; they also assimilated, and no less eagerly, much of the substance of the Aristotelian system and, particularly, of his epistemology. And for our purpose it is necessary to get at least a general idea of those  components of the Aristotelian system whose assimilation into theology had significant effects.
+
+ One of the components is the Aristotelian notion of science. Another is the Aristotelian taxonomy of the sciences. Finally, the Aristotelian notion of the human being.
+
+The Aristotelian notion of science
+
+Scientia
+
+, in one of the main acceptions in which Aristotle uses the word, is synonymous with knowledge. But what Aristotle calls knowledge is much more restrained than what we call knowledge in our everyday parlance. Actually, it is rather close to what today we would call &apos;scientific knowledge,&apos; for two reasons. First, it is the kind of knowledge that results from the grasping of compelling evidence that the case is so as it is stated to be. In other words, Aristotelian "knowledge" results from a rational process that involves understanding and discursive thinking; not from guessing, wishing, or believing. Either it is reached rationally, or it is not the knowledge that Aristotle equates with science. Secondly, what Aristotle means by "knowledge" is explanatory knowledge. A mere collection of facts is not "knowledge" in the Aristotelian sense, for facts explain nothing; on the contrary, they are in need of explanation. Aristotelian "knowledge" is, as the medievals translated it, "
+
+knowledge per causas
+
+," that is, knowledge that explains what needs explaining because it involves genuine understanding of its object. 
+
+An already constituted science is a corpus of knowledge about the object of the science. The knowledge embraced by a science is expressed in true statements, which in their turn are expressions of judgements. What characterizes these statements, 
+
+in the ideal case
+
+, and, therefore, what characterizes the judgements of which the judgments are the expression, is, in the first place, not only that they are true, but that they are necessarily true, for they are not true by chance but because they express the judgment of a person who has rationally compelling evidence to judge that the case is as judged and stated. Secondly, the statements that constitute a science are universal statements. They are universal because what the statement states as true applies to all the possible particular cases. A statement that expresses knowledge of a particular case or of a few particular cases as such is not a scientific statement, is not part of a science, in Aristotle&apos;s sense, even if it is true, for it lacks the universality that characterizes scientific statements. Thirdly, the statements that constitute a science are statements about what is 
+
+necessarily
+
+ the case, for they express the grasp by the judging person of the essential traits of the object of the science, which will therefore necessarily be the same in all particular cases, in all particular places, and at all particular times. In fact, it is this grasp of the 
+
+essential
+
+ traits that Aristotle means by knowing "
+
+per causas
+
+."
+
+A further important point. As already remarked, a constituted science consists of statements and only of statements. Why so? Because only statements express judgments, and judgments are the only human acts of which truth and falsity can be predicated, the only human acts which involve a truth-claim. Fears, desires, etc. are neither true nor false, nor do they involve any truth-claim whatsoever. Only judgments are and do.
+
+I have been referring to 
+
+the ideal case
+
+ of science.
+
+ This implies that all the judgments that constitute that corpus of knowledge have been grasped as being necessarily true by virtue of their rationally compelling evidence. But this grasp may obtain in two ways: either by immediate intellectual vision, as is the case with the "principles" of the science, or by means of a discursive process which leads as a to a necessary conclusion to the necessary truth of a statement which is not self-evident or evident in itself. Thus, to give a 
+
+merely suggestive
+
+ example, the basic axioms of Euclidean geometry are self-evident and neither need nor can be proven otherwise than by grasping their necessary truth in their very self-evidence, whereas each of the statements that express theorems is the result of a discursive process that leads to the grasp of its being necessarily true. In the ideal case of science, then, all the judgments that compose the science have been grasped as being necessarily true, either through their immediate self-evidence or through discursive reasoning. But it is important to realize that not all aspects of reality lend themselves equally to their scientific apprehension and, consequently, that not all sciences can realize or even approximate the ideal in the same degree. This point will be more clearly seen when we come to the Aristotelian taxonomy of the sciences and will be of interest when we discuss Aquinas&apos;s idea of theology as a science.
+
+A last characteristic of the Aristotelian notion of science that needs to be alluded to here is that a science is constituted by an orderly and systematic constellation of statements. In other words, there is, so to say, an internal logic to a science, by virtue of which all the statements which constitute it are interconnected and hierarchically ordered, for they express a synthetic understanding of the different aspects of the object of the science. To give an example, Euclidean geometry starts with axioms, which play in it the role of principles, and proceeds from the simpler to the more complex in its presentation of the theorems, so that the whole constitutes the unified, interconnected, synthetic system we identify as "Euclidean geometry."
+
+The Aristotelian taxonomy of sciences
+
+I now come to the Aristotelian map of the sciences. In fact, Aristotle traces--or, rather, gives rough indications of--several different maps in different places of his writings, depending on the matter he is considering and the particular standard he is using at the time. In a first map, the supreme place is occupied exclusively by "metaphysics" or what Aristotle himself calls "first philosophy." It occupies the top because, its object being Being as such, metaphysical knowledge is the most universal of the sciences. Indeed, because metaphysical knowledge is explanatory knowledge of all actual or possible reality as such,  it pervades all the other sciences insofar as their respective objects are real. All the other sciences, compared to metaphysics, are particular, in that their respective objects of study are restrained. In addition, by virtue of the very degree of abstraction at which the metaphysician works, which is the highest degree of abstraction, the universality and the necessity of his judgments--which is, as we know, what constitutes knowledge as knowledge--, as well as their explanatory power, are the highest, in Aristotle&apos;s view. In this map, therefore, metaphysics occupies alone the supreme place, and all the other sciences are inferior and subordinated to it. 		
+
+There is, therefore, one Aristotelian hierarchical map of the sciences from the point of view of their universality, certitude and explanatory powers. 	However, Aristotle traces, or at least suggests, two other maps that interest us. 
+
+Aristotle classifies or hierarchisizes the different sciences by the standard of the dignity of their respective particular objects
+
+. In this hierarchy, at least implicitly, the science of God, that is, of the Causa Prima, occupies the top and a level all of its own. But there is also a hierarchy among the other particular sciences, and in this sub-hierarchy the science of the human being as human occupies the place of choice, then the sciences that deal with other animates, and finally the physical sciences. 
+
+The third map establishes a hierarchy among the sciences according to the degree to which they can approximate the ideal of science with which we began. The determinant division here is between the theoretical and the practical sciences.
+
+ Theoretical sciences, 
+
+grosso modo
+
+, are those that aim at the pure intellectual satisfaction that the possession of knowledge produces and which, if and when fully successful, terminate in full and perfect knowledge of their respective objects, the contemplation of which is the highest human aspiration. Needless to say, in this map, again, metaphysics comes at the top. Mathematics would most probably qualify as second, given its peculiar degree of abstraction and its epistemic advantages, and the other particular theoretical sciences--the science of the human being as human, the sciences of the other animates, and the sciences of the inanimates--would occupy a third level. But there would be in this map a fourth and lowest level occupied by the "practical sciences." The reason for this comparative inferiority is, in Aristotle&apos;s eyes, double. On the one hand, the purpose of the practical sciences, as indicated by its name, is practical. In other words, unlike the theoretical sciences, their aim is not contemplative fruition of knowledge, but action. And since, in Aristotle&apos;s eyes, the ideal science is the one that aims at pure knowledge whose contemplation is the ultimate aspiration or goal of the human being, it is only natural for Aristotle to place the practical sciences that lead to action rather than to contemplative knowledge at the lowest echelon in the hierarchical map of the sciences. In addition, the practical sciences barely deserve the name of science, since the knowledge obtained by its practitioners is only true "for the most part." The most important practical sciences are ethics, which deals with   individuals, and politics, which deals with societies. And it is clear to Aristotle that, because such sciences necessarily have to deal with the particular and take place and time into account, the conclusions reached in those disciplines cannot compete with the theoretical sciences in terms of certainty, universality, necessity, and explanatory power. The &apos;knowledge&apos; obtained in the practical sciences is knowledge only in a feeble analogical sense and barely deserves the name of knowledge, for in those fields different people will make different and even conflicting judgments about the same object, and also will make different judgements in different societies, or even within the same society at different times.
+
+Some aspects of Aristotle&apos;s view of the human being
+
+The last aspect of the Aristotelian system we need to consider, however briefly, concerns his idea of the human being. From the logical point of view, Aristotle sees the human being as falling with animals under the same logical genus, but constituting a different and unique species because of its rationality. From the ontological point of view, he sees the human being as composed of two substances--the body and the soul or 
+
+anima
+
+. The two together, however, constitute only one being--a human being--because the soul is the sole substantial form or principle of operation of the whole, from which all the activities of the human being either proceed directly or to whose direction they are subordinated. It is, therefore, on the study of this principle of operation that Aristotle concentrates in his 
+
+De Anima
+
+, the name under which the medievals translated Aristotle&apos;s treatise on the human being as human.
+
+Oversimplifying very heavily again, the Aristotelian soul has two characteristic activities which manifest two distinct faculties: the intellect and the will. The intellect&apos;s function is intellective or cognitive. Its role is to know whatever can be known--that is, what is actual or possible, "being"and "beings"--through true judgments (of which we already spoke above). In other words, the intellect is naturally orientated toward being as knowable. The will, by contrast, is an appetitive rather than cognitive faculty, for it desires or tends toward the being apprehended by the intellect, not under the aspect of its being knowable but under the aspect of its being good or rationally desirable. Between these two faculties there is a hierarchy, for the will is subordinated to the intellect in two ways. First, since the will is not by itself a cognitive faculty, it can only desire what is known through a cognitive faculty, and it can only desire rationally what is known through a rational faculty, namely, the intellect. Second, the supreme or ultimate goal of the human being is to attain the highest good, which is the contemplative fruition of the knowledge of what is knowable; in this way, too, the will is subordinated to the intellect, in that 
+
+the highest good it can desire and pursue is knowledge, to which the desire and pursual of all other goods ought to be subordinated. 
+
+Not without reason, therefore, has Aristotle&apos;s view of the human being been characterized as intellectualistic.
+
+ Indeed, other views of the human being are possible, and have actually been proposed by other philosophers (starting with Plato), in which neither is the intellect distinguished from the will in the Aristotelian manner, nor is the supreme goal of the human being to attain knowledge. The fact is, however, that the views assimilated by the medieval theologians with whom we are here concerned were Aristotle&apos;s views. And this brings us to the conclusion of this chapter.
+
+Aristotel and the Summae Theologicae
+
+ For our quarry throughout it has been the novelty of the phenomenon of the emergence and multiplication of the 
+
+Summae Theologicae
+
+ in the thirteenth century. And now we can understand it fully. The 
+
+Summae
+
+ both incarnate  a new way of practicing theology, and, at the same time, present the results achieved through the new method. And because both the way of practicing theology as well as the theological knowledge achieved in that way are very deeply marked by Aristotle&apos;s influence, they could only emerge at the time that Aristotle&apos;s works became known and started creating a colossal cultural wave.
+
+The 
+
+Summae
+
+, then, are concrete attempts at practicing theology 
+
+scientifically
+
+, understanding this term in its Aristotelian sense. Because of this, they differ at least in tone, in structure, and in scope from the Fathers&apos; Christian meditation. Had the Fathers, even the most philosophically alert of them, had the opportunity to become acquainted with Saint Thomas&apos;s 
+
+Summa Theologica
+
+, the least one can say is that they would have had a very hard time understanding it. Assuming, however, that they had reached that point, the interesting question for our purposes is whether or not they would have found Aquinas&apos;s undertaking in harmonious continuity with what they themselves had done, and would have recognized their Christian faith in the faith presented by Aquinas in his 
+
+Summa
+
+, as Aquinas certainly assumed they would. Of course, the answer to these questions is closely related to the answer to be given to the fundamental question I raised previously: 
+
+Did Aquinas baptize Aristotle, to the extent that Aristotle&apos;s views can be baptized, or did he rather--not only unintentionally but unwittingly-- distort the Christian faith to accommodate it to the  heterogeneous demands of the Aristotelian system?
+
+ A rapid examination of the controversy that raged on the thirteenth century concerning the possibility of assimilating the Aristotelian views into theology will contribute to prepare us to tackle these problems.

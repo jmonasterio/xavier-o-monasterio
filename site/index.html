@@ -1,0 +1,1121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dr. Xavier Ortiz Monasterio Writings | University of Dayton</title>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <style>
+        :root {
+            --bg-primary: #faf8f5;
+            --bg-secondary: #f0ebe3;
+            --bg-notes: #e8e4dc;
+            --text-primary: #2c2c2c;
+            --text-secondary: #5a5a5a;
+            --text-muted: #888;
+            --accent: #8b4513;
+            --border: #d0c8bc;
+            --font-mono: 'Courier New', Courier, monospace;
+        }
+
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+
+        body {
+            font-family: var(--font-mono);
+            font-size: 14px;
+            line-height: 1.7;
+            color: var(--text-primary);
+            background: var(--bg-primary);
+        }
+
+        /* Top Navigation */
+        .top-nav {
+            background: var(--bg-secondary);
+            border-bottom: 1px solid var(--border);
+            padding: 0 2rem;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            height: 48px;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        .site-title {
+            font-size: 12px;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            color: var(--text-secondary);
+        }
+
+        .nav-links { display: flex; gap: 0.25rem; }
+
+        .nav-link {
+            padding: 0.5rem 1rem;
+            font-size: 12px;
+            color: var(--text-secondary);
+            text-decoration: none;
+            border: 1px solid transparent;
+            cursor: pointer;
+        }
+
+        .nav-link:hover { color: var(--accent); }
+
+        .nav-link.active {
+            background: var(--bg-primary);
+            border: 1px solid var(--border);
+            border-bottom-color: var(--bg-primary);
+            margin-bottom: -1px;
+            color: var(--accent);
+        }
+
+        /* Layout */
+        .container {
+            display: grid;
+            grid-template-columns: 300px 1fr;
+            min-height: calc(100vh - 48px);
+        }
+
+        .container.no-sidebar { grid-template-columns: 1fr; }
+
+        /* Sidebar */
+        .sidebar {
+            background: var(--bg-secondary);
+            border-right: 1px solid var(--border);
+            padding: 1.5rem 1rem;
+            overflow-y: auto;
+            position: sticky;
+            top: 48px;
+            height: calc(100vh - 48px);
+            display: flex;
+            flex-direction: column;
+        }
+
+        .sidebar-header {
+            font-size: 11px;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            color: var(--text-muted);
+            margin-bottom: 1rem;
+            padding-bottom: 0.5rem;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .search-box {
+            width: 100%;
+            padding: 0.5rem;
+            font-family: var(--font-mono);
+            font-size: 12px;
+            border: 1px solid var(--border);
+            background: var(--bg-primary);
+            margin-bottom: 1rem;
+        }
+
+        .search-box:focus { outline: none; border-color: var(--accent); }
+
+        .tree { font-size: 12px; flex: 1; overflow-y: auto; }
+
+        .tree-section { margin-bottom: 1.5rem; }
+
+        .tree-section-title {
+            font-size: 10px;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            color: var(--text-muted);
+            margin-bottom: 0.5rem;
+            padding-bottom: 0.25rem;
+            border-bottom: 1px dotted var(--border);
+        }
+
+        .tree-folder { margin-bottom: 0.25rem; }
+
+        .tree-folder > summary {
+            cursor: pointer;
+            padding: 0.25rem 0;
+            color: var(--text-secondary);
+            list-style: none;
+        }
+
+        .tree-folder > summary::before { content: '+ '; color: var(--text-muted); }
+        .tree-folder[open] > summary::before { content: '- '; }
+        .tree-folder > summary:hover { color: var(--accent); }
+
+        .tree-files {
+            margin-left: 1rem;
+            border-left: 1px solid var(--border);
+            padding-left: 0.75rem;
+        }
+
+        .tree-file {
+            padding: 0.2rem 0;
+            color: var(--text-secondary);
+            cursor: pointer;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        .tree-file:hover { color: var(--accent); }
+        .tree-file.active { color: var(--accent); font-weight: bold; }
+
+        /* Main Content */
+        .main {
+            padding: 3rem 4rem;
+            max-width: 900px;
+        }
+
+        .main.centered { margin: 0 auto; }
+
+        /* Document Header */
+        .doc-header {
+            margin-bottom: 2rem;
+            padding-bottom: 1.5rem;
+            border-bottom: 2px solid var(--border);
+        }
+
+        .doc-title {
+            font-size: 20px;
+            font-weight: normal;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            margin-bottom: 0.5rem;
+        }
+
+        .doc-subtitle {
+            font-size: 14px;
+            color: var(--text-secondary);
+            margin-bottom: 0.5rem;
+        }
+
+        .doc-meta {
+            font-size: 12px;
+            color: var(--text-muted);
+        }
+
+        .doc-meta span { margin-right: 2rem; }
+
+        /* Notes Box */
+        .notes-box {
+            background: var(--bg-notes);
+            border: 1px solid var(--border);
+            margin-bottom: 2rem;
+            font-size: 12px;
+        }
+
+        .notes-box summary {
+            padding: 0.75rem 1rem;
+            cursor: pointer;
+            color: var(--text-secondary);
+            border-bottom: 1px solid transparent;
+            list-style: none;
+        }
+
+        .notes-box summary::before { content: '[+] '; color: var(--text-muted); }
+        .notes-box[open] summary::before { content: '[-] '; }
+        .notes-box[open] summary { border-bottom: 1px solid var(--border); }
+        .notes-box summary:hover { color: var(--accent); }
+
+        .notes-content {
+            padding: 1rem;
+            color: var(--text-secondary);
+            white-space: pre-wrap;
+            font-size: 11px;
+        }
+
+        /* Document Content */
+        .doc-content { text-align: justify; hyphens: auto; }
+        .doc-content p { margin-bottom: 1.5em; }
+
+        .doc-content h1 {
+            font-size: 18px;
+            font-weight: normal;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            margin: 2em 0 1em 0;
+            padding-bottom: 0.5em;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .doc-content h2 {
+            font-size: 14px;
+            font-weight: bold;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            margin: 2em 0 1em 0;
+        }
+
+        .doc-content h3 { font-size: 14px; font-weight: bold; margin: 1.5em 0 0.75em 0; }
+        .doc-content h4 { font-size: 13px; font-weight: bold; margin: 1.5em 0 0.5em 0; }
+        .doc-content ul, .doc-content ol { margin: 1em 0 1em 2em; }
+        .doc-content li { margin-bottom: 0.5em; }
+
+        .doc-content blockquote {
+            margin: 1.5em 0;
+            padding: 1em;
+            background: var(--bg-secondary);
+            border-left: 3px solid var(--accent);
+            font-style: italic;
+        }
+
+        .doc-content blockquote p { margin-bottom: 0.5em; }
+        .doc-content blockquote p:last-child { margin-bottom: 0; }
+        .doc-content em { font-style: italic; }
+        .doc-content strong { font-weight: bold; }
+        .doc-content hr { border: none; border-top: 1px solid var(--border); margin: 2em 0; }
+        .doc-content a { color: var(--accent); }
+
+        .doc-content table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1.5em 0;
+            font-size: 13px;
+        }
+
+        .doc-content th, .doc-content td {
+            border: 1px solid var(--border);
+            padding: 0.5em 0.75em;
+            text-align: left;
+            vertical-align: top;
+        }
+
+        .doc-content th {
+            background: var(--bg-secondary);
+            font-weight: bold;
+        }
+
+        .doc-content tr:nth-child(even) {
+            background: var(--bg-secondary);
+        }
+
+        /* Footer */
+        .doc-footer {
+            margin-top: 3rem;
+            padding-top: 1.5rem;
+            border-top: 1px solid var(--border);
+            font-size: 11px;
+            color: var(--text-muted);
+            text-align: center;
+        }
+
+        .copyright { display: block; margin-top: 0.5em; }
+
+        /* Loading */
+        .loading { color: var(--text-muted); font-style: italic; }
+
+        /* Hidden */
+        .hidden { display: none !important; }
+
+        /* Full-text search */
+        .search-tabs {
+            display: flex;
+            margin-bottom: 0.5rem;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .search-tab {
+            padding: 0.25rem 0.5rem;
+            font-size: 10px;
+            cursor: pointer;
+            color: var(--text-muted);
+            border: 1px solid transparent;
+            border-bottom: none;
+            margin-bottom: -1px;
+            background: none;
+            font-family: var(--font-mono);
+        }
+
+        .search-tab:hover { color: var(--accent); }
+
+        .search-tab.active {
+            background: var(--bg-primary);
+            border-color: var(--border);
+            color: var(--accent);
+        }
+
+        .search-results {
+            flex: 1;
+            overflow-y: auto;
+            border: 1px solid var(--border);
+            background: var(--bg-primary);
+        }
+
+        .search-result {
+            padding: 0.5rem;
+            border-bottom: 1px solid var(--border);
+            cursor: pointer;
+        }
+
+        .search-result:last-child { border-bottom: none; }
+        .search-result:hover { background: var(--bg-secondary); }
+
+        .search-result-title {
+            font-size: 12px;
+            color: var(--text-primary);
+            margin-bottom: 0.25rem;
+        }
+
+        .search-result-category {
+            font-size: 10px;
+            color: var(--text-muted);
+        }
+
+        .search-result-snippet {
+            font-size: 11px;
+            color: var(--text-secondary);
+            margin-top: 0.25rem;
+            line-height: 1.4;
+        }
+
+        .search-result-snippet mark {
+            background: #fff3cd;
+            padding: 0 2px;
+        }
+
+        .search-status {
+            font-size: 10px;
+            color: var(--text-muted);
+            padding: 0.5rem;
+            text-align: center;
+        }
+
+        /* Gallery */
+        .gallery-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 2rem;
+            margin-top: 2rem;
+        }
+
+        .gallery-item {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border);
+            cursor: pointer;
+            transition: transform 0.2s;
+        }
+
+        .gallery-item:hover {
+            transform: translateY(-2px);
+        }
+
+        .gallery-item img {
+            width: 100%;
+            height: auto;
+            display: block;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .gallery-caption {
+            padding: 1rem;
+            font-size: 12px;
+            color: var(--text-secondary);
+            line-height: 1.5;
+        }
+
+        .gallery-caption strong {
+            display: block;
+            color: var(--text-primary);
+            margin-bottom: 0.5rem;
+        }
+
+        /* Lightbox */
+        .lightbox {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(0, 0, 0, 0.9);
+            z-index: 1000;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 2rem;
+        }
+
+        .lightbox-content {
+            max-width: 900px;
+            max-height: 90vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .lightbox img {
+            max-width: 100%;
+            max-height: 70vh;
+            object-fit: contain;
+        }
+
+        .lightbox-caption {
+            color: #fff;
+            text-align: center;
+            margin-top: 1rem;
+            font-size: 14px;
+            line-height: 1.6;
+            max-width: 600px;
+        }
+
+        .lightbox-caption strong {
+            display: block;
+            margin-bottom: 0.5rem;
+        }
+
+        .lightbox-close {
+            position: absolute;
+            top: 1rem;
+            right: 1rem;
+            color: #fff;
+            font-size: 24px;
+            cursor: pointer;
+            background: none;
+            border: none;
+            padding: 0.5rem;
+        }
+
+        .lightbox-close:hover {
+            color: var(--accent);
+        }
+
+        .lightbox-nav {
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            color: #fff;
+            font-size: 32px;
+            cursor: pointer;
+            background: none;
+            border: none;
+            padding: 1rem;
+        }
+
+        .lightbox-nav:hover {
+            color: var(--accent);
+        }
+
+        .lightbox-prev { left: 1rem; }
+        .lightbox-next { right: 1rem; }
+
+        /* Responsive */
+        @media (max-width: 900px) {
+            .container { grid-template-columns: 1fr; }
+            .sidebar {
+                position: relative;
+                height: auto;
+                border-right: none;
+                border-bottom: 1px solid var(--border);
+            }
+            .main { padding: 2rem; }
+        }
+    </style>
+</head>
+<body>
+    <nav class="top-nav">
+        <div class="site-title">Dr. Xavier Ortiz Monasterio Writings | University of Dayton (1989–2008)</div>
+        <div class="nav-links">
+            <a class="nav-link active" data-page="writings">Writings</a>
+            <a class="nav-link" data-page="overview">Overview</a>
+            <a class="nav-link" data-page="biography">Biography</a>
+            <a class="nav-link" data-page="gallery">Gallery</a>
+            <a class="nav-link" data-page="curators-note">Curator's Note</a>
+        </div>
+    </nav>
+
+    <!-- Papers Browser -->
+    <div id="page-writings" class="container">
+        <aside class="sidebar">
+            <div class="sidebar-header">Browse Writings</div>
+            <div class="search-tabs">
+                <button class="search-tab active" data-search="files">Files</button>
+                <button class="search-tab" data-search="fulltext">Full Text</button>
+            </div>
+            <input type="text" class="search-box" placeholder="Search filenames..." id="search">
+            <div id="fulltext-results" class="search-results hidden"><div class="search-status">Loading search index...</div></div>
+            <nav class="tree" id="tree">
+                <p class="loading">Loading...</p>
+            </nav>
+        </aside>
+        <main class="main">
+            <header class="doc-header">
+                <h1 class="doc-title" id="paper-title">Select a document</h1>
+                <div class="doc-meta">
+                    <span id="paper-path"></span>
+                </div>
+            </header>
+            <details class="notes-box hidden" id="notes-box">
+                <summary>Archival Notes & Metadata</summary>
+                <div class="notes-content" id="notes-content"></div>
+            </details>
+            <article class="doc-content" id="paper-content">
+                <p class="loading">Select a document from the tree on the left.</p>
+            </article>
+            <footer class="doc-footer">
+                Dr. Xavier Ortiz Monasterio Writings<br>
+                University of Dayton, Philosophy Department<br>
+                <span class="copyright">Documents © 1989–2008 Xavier Ortiz Monasterio | Website © 2026 Jorge Monasterio</span>
+            </footer>
+        </main>
+    </div>
+
+    <!-- Gallery Page -->
+    <div id="page-gallery" class="container no-sidebar hidden">
+        <main class="main centered">
+            <header class="doc-header">
+                <h1 class="doc-title">Photo Gallery</h1>
+                <div class="doc-subtitle">Images from the archives</div>
+                <div class="doc-meta">Most photographs were found on Xavier's personal computer drives</div>
+            </header>
+            <div class="gallery-grid" id="gallery-grid">
+                <p class="loading">Loading gallery...</p>
+            </div>
+            <footer class="doc-footer">
+                Dr. Xavier Ortiz Monasterio Writings<br>
+                University of Dayton, Philosophy Department<br>
+                <span class="copyright">Documents © 1989–2008 Xavier Ortiz Monasterio | Website © 2026 Jorge Monasterio</span>
+            </footer>
+        </main>
+    </div>
+
+    <!-- Lightbox -->
+    <div id="lightbox" class="lightbox hidden">
+        <button class="lightbox-close" onclick="closeLightbox()">&times;</button>
+        <button class="lightbox-nav lightbox-prev" onclick="navigateLightbox(-1)">&larr;</button>
+        <div class="lightbox-content">
+            <img id="lightbox-img" src="" alt="">
+            <div class="lightbox-caption" id="lightbox-caption"></div>
+        </div>
+        <button class="lightbox-nav lightbox-next" onclick="navigateLightbox(1)">&rarr;</button>
+    </div>
+
+    <!-- Overview Page -->
+    <div id="page-overview" class="container no-sidebar hidden">
+        <main class="main centered">
+            <header class="doc-header">
+                <h1 class="doc-title">Collection Overview</h1>
+                <div class="doc-subtitle">An Overview for Colleagues</div>
+            </header>
+            <article class="doc-content" id="overview-content"><p class="loading">Loading...</p></article>
+            <footer class="doc-footer">
+                Dr. Xavier Ortiz Monasterio Writings<br>
+                University of Dayton, Philosophy Department<br>
+                <span class="copyright">Documents © 1989–2008 Xavier Ortiz Monasterio | Website © 2026 Jorge Monasterio</span>
+            </footer>
+        </main>
+    </div>
+
+    <!-- Biography Page -->
+    <div id="page-biography" class="container no-sidebar hidden">
+        <main class="main centered">
+            <header class="doc-header">
+                <h1 class="doc-title">Dr. Xavier Ortiz Monasterio</h1>
+                <div class="doc-subtitle">Professor of Philosophy, University of Dayton</div>
+                <div class="doc-meta">1926–2011</div>
+            </header>
+            <article class="doc-content" id="biography-content"><p class="loading">Loading...</p></article>
+            <footer class="doc-footer">
+                Dr. Xavier Ortiz Monasterio Writings<br>
+                University of Dayton, Philosophy Department<br>
+                <span class="copyright">Documents © 1989–2008 Xavier Ortiz Monasterio | Website © 2026 Jorge Monasterio</span>
+            </footer>
+        </main>
+    </div>
+
+    <!-- Curator's Note Page -->
+    <div id="page-curators-note" class="container no-sidebar hidden">
+        <main class="main centered">
+            <header class="doc-header">
+                <h1 class="doc-title">Curator's Note</h1>
+                <div class="doc-subtitle">Jorge Monasterio</div>
+                <div class="doc-meta">January 2026</div>
+            </header>
+            <article class="doc-content" id="curators-note-content"><p class="loading">Loading...</p></article>
+            <footer class="doc-footer">
+                Dr. Xavier Ortiz Monasterio Writings<br>
+                University of Dayton, Philosophy Department<br>
+                <span class="copyright">Documents © 1989–2008 Xavier Ortiz Monasterio | Website © 2026 Jorge Monasterio</span>
+            </footer>
+        </main>
+    </div>
+
+    <script>
+        // Configure marked for GFM tables
+        marked.setOptions({
+            gfm: true,
+            breaks: false
+        });
+
+        // State
+        let treeData = null;
+        let currentFile = null;
+        let searchWorker = null;
+        let searchReady = false;
+        let searchMode = 'files'; // 'files' or 'fulltext'
+
+        // Strip YAML frontmatter from markdown
+        function stripFrontmatter(content) {
+            if (content.startsWith('---')) {
+                const end = content.indexOf('---', 3);
+                if (end !== -1) {
+                    content = content.slice(end + 3).trim();
+                }
+            }
+            // Also strip first heading (will be shown in header)
+            const lines = content.split('\n');
+            if (lines[0].startsWith('# ')) {
+                lines.shift();
+                content = lines.join('\n').trim();
+            }
+            return content;
+        }
+
+        // Load and render a markdown file
+        async function loadMarkdown(url, targetId) {
+            try {
+                const response = await fetch(url);
+                if (!response.ok) throw new Error('Not found');
+                let content = await response.text();
+                content = stripFrontmatter(content);
+                document.getElementById(targetId).innerHTML = marked.parse(content);
+            } catch (e) {
+                document.getElementById(targetId).innerHTML = '<p class="loading">Failed to load content.</p>';
+            }
+        }
+
+        // Load a paper and its notes
+        async function loadPaper(path, title, updateHash = true) {
+            currentFile = path;
+
+            // Update URL
+            if (updateHash) {
+                window.location.hash = `/writings/${path}`;
+            }
+
+            // Update header
+            document.getElementById('paper-title').textContent = title || path.split('/').pop().replace('.md', '');
+            document.getElementById('paper-path').textContent = path;
+
+            // Update tree selection
+            document.querySelectorAll('.tree-file').forEach(f => f.classList.remove('active'));
+            const activeFile = document.querySelector(`.tree-file[data-path="${path}"]`);
+            if (activeFile) activeFile.classList.add('active');
+
+            // Load content
+            document.getElementById('paper-content').innerHTML = '<p class="loading">Loading...</p>';
+            await loadMarkdown('papers/' + path, 'paper-content');
+
+            // Load notes
+            const notesBox = document.getElementById('notes-box');
+            const notesPath = path.replace('.md', '.notes');
+            try {
+                const response = await fetch('papers/' + notesPath);
+                if (response.ok) {
+                    const notes = await response.text();
+                    document.getElementById('notes-content').textContent = notes;
+                    notesBox.classList.remove('hidden');
+                } else {
+                    notesBox.classList.add('hidden');
+                }
+            } catch (e) {
+                notesBox.classList.add('hidden');
+            }
+        }
+
+        // Format folder name for display
+        function formatFolderName(name) {
+            return name
+                .replace(/-/g, ' ')
+                .replace(/\b\w/g, c => c.toUpperCase());
+        }
+
+        // Build tree HTML from data
+        function buildTreeHTML(data) {
+            let html = '';
+
+            // Book manuscript first (featured)
+            if (data.special['book-manuscript']) {
+                const files = data.special['book-manuscript'];
+                html += '<div class="tree-section"><div class="tree-section-title">Book Manuscript</div>';
+                html += `<details class="tree-folder" open><summary>Chapters (${files.length})</summary><div class="tree-files">`;
+                for (const file of files) {
+                    const displayName = file.title || file.name;
+                    html += `<div class="tree-file" data-path="${file.path}" title="${file.name}">${displayName}</div>`;
+                }
+                html += '</div></details></div>';
+            }
+
+            // Years (sorted descending - newest first)
+            const years = Object.keys(data.years).sort((a, b) => b - a);
+            if (years.length > 0) {
+                html += '<div class="tree-section"><div class="tree-section-title">By Year</div>';
+                for (const year of years) {
+                    const files = data.years[year];
+                    html += `<details class="tree-folder"><summary>${year} (${files.length})</summary><div class="tree-files">`;
+                    for (const file of files) {
+                        const displayName = file.title || file.name;
+                        html += `<div class="tree-file" data-path="${file.path}" title="${file.name}">${displayName}</div>`;
+                    }
+                    html += '</div></details>';
+                }
+                html += '</div>';
+            }
+
+            // Other special folders (excluding book-manuscript)
+            const special = Object.keys(data.special).filter(k => k !== 'book-manuscript').sort();
+            if (special.length > 0) {
+                html += '<div class="tree-section"><div class="tree-section-title">Other</div>';
+                for (const folder of special) {
+                    const files = data.special[folder];
+                    html += `<details class="tree-folder"><summary>${formatFolderName(folder)} (${files.length})</summary><div class="tree-files">`;
+                    for (const file of files) {
+                        const displayName = file.title || file.name;
+                        html += `<div class="tree-file" data-path="${file.path}" title="${file.name}">${displayName}</div>`;
+                    }
+                    html += '</div></details>';
+                }
+                html += '</div>';
+            }
+
+            // Appendix (course materials, exams, etc.)
+            if (data.appendix && Object.keys(data.appendix).length > 0) {
+                html += '<div class="tree-section"><div class="tree-section-title">Appendix</div>';
+                const appendixFolders = Object.keys(data.appendix).sort();
+                for (const folder of appendixFolders) {
+                    const files = data.appendix[folder];
+                    html += `<details class="tree-folder"><summary>${formatFolderName(folder)} (${files.length})</summary><div class="tree-files">`;
+                    for (const file of files) {
+                        const displayName = file.title || file.name;
+                        html += `<div class="tree-file" data-path="${file.path}" title="${file.name}">${displayName}</div>`;
+                    }
+                    html += '</div></details>';
+                }
+                html += '</div>';
+            }
+
+            return html;
+        }
+
+        // Initialize Lunr full-text search (using Web Worker)
+        async function initSearch() {
+            try {
+                const response = await fetch('search-index.json');
+                if (!response.ok) {
+                    console.log('Search index not found. Run build-search-index.py to enable full-text search.');
+                    return;
+                }
+                const docs = await response.json();
+
+                // Create Web Worker for background index building
+                searchWorker = new Worker('search-worker.js');
+
+                searchWorker.onmessage = function(e) {
+                    if (e.data.type === 'ready') {
+                        searchReady = true;
+                        console.log(`Search index ready: ${e.data.count} documents (built in background)`);
+                        // Check if there's already text in search box
+                        const searchBox = document.getElementById('search');
+                        if (searchMode === 'fulltext' && searchBox.value.trim()) {
+                            performFulltextSearch(searchBox.value);
+                        } else {
+                            document.getElementById('fulltext-results').innerHTML =
+                                '<div class="search-status">Enter a search term...</div>';
+                        }
+                    }
+                    if (e.data.type === 'results') {
+                        displaySearchResults(e.data.results, e.data.query, e.data.error);
+                    }
+                };
+
+                // Send docs to worker to build index in background
+                searchWorker.postMessage({ type: 'build', docs: docs });
+                console.log('Building search index in background...');
+            } catch (e) {
+                console.log('Full-text search unavailable:', e.message);
+            }
+        }
+
+        // Perform full-text search (via Web Worker)
+        function performFulltextSearch(query) {
+            const resultsEl = document.getElementById('fulltext-results');
+
+            if (!searchWorker || !query.trim()) {
+                resultsEl.innerHTML = '<div class="search-status">Enter a search term...</div>';
+                return;
+            }
+
+            if (!searchReady) {
+                resultsEl.innerHTML = '<div class="search-status">Building search index...</div>';
+                return;
+            }
+
+            resultsEl.innerHTML = '<div class="search-status">Searching...</div>';
+            searchWorker.postMessage({ type: 'search', query: query });
+        }
+
+        // Display search results from worker
+        function displaySearchResults(results, query, error) {
+            const resultsEl = document.getElementById('fulltext-results');
+
+            if (error) {
+                resultsEl.innerHTML = `<div class="search-status">Search error: ${error}</div>`;
+                return;
+            }
+
+            if (results.length === 0) {
+                resultsEl.innerHTML = '<div class="search-status">No results found</div>';
+                return;
+            }
+
+            const html = results.map(doc => {
+                const snippet = getSnippet(doc.body, query);
+                return `
+                    <div class="search-result" data-path="${doc.path}">
+                        <div class="search-result-title">${doc.title}</div>
+                        <div class="search-result-category">${doc.category}</div>
+                        <div class="search-result-snippet">${snippet}</div>
+                    </div>
+                `;
+            }).join('');
+
+            resultsEl.innerHTML = html;
+
+            // Add click handlers
+            resultsEl.querySelectorAll('.search-result').forEach(el => {
+                el.addEventListener('click', () => {
+                    const path = el.dataset.path;
+                    const paperPath = path.replace('writings/', '');
+                    loadPaper(paperPath, el.querySelector('.search-result-title').textContent);
+                });
+            });
+        }
+
+        // Get snippet with highlighted search terms
+        function getSnippet(text, query) {
+            const words = query.toLowerCase().split(/\s+/).filter(w => w.length > 2);
+            const textLower = text.toLowerCase();
+
+            // Find first occurrence of any search word
+            let bestPos = -1;
+            for (const word of words) {
+                const pos = textLower.indexOf(word);
+                if (pos !== -1 && (bestPos === -1 || pos < bestPos)) {
+                    bestPos = pos;
+                }
+            }
+
+            if (bestPos === -1) bestPos = 0;
+
+            // Get surrounding context
+            const start = Math.max(0, bestPos - 50);
+            const end = Math.min(text.length, bestPos + 150);
+            let snippet = text.slice(start, end);
+
+            if (start > 0) snippet = '...' + snippet;
+            if (end < text.length) snippet = snippet + '...';
+
+            // Highlight search terms
+            for (const word of words) {
+                const regex = new RegExp(`(${word})`, 'gi');
+                snippet = snippet.replace(regex, '<mark>$1</mark>');
+            }
+
+            return snippet;
+        }
+
+        // Initialize tree
+        async function initTree() {
+            try {
+                const response = await fetch('tree.json');
+                treeData = await response.json();
+
+                const treeEl = document.getElementById('tree');
+                treeEl.innerHTML = buildTreeHTML(treeData);
+
+                // Add click handlers
+                treeEl.querySelectorAll('.tree-file').forEach(file => {
+                    file.addEventListener('click', () => {
+                        loadPaper(file.dataset.path, file.textContent);
+                    });
+                });
+
+                // Open first folder and load first file
+                const firstFolder = treeEl.querySelector('.tree-folder');
+                if (firstFolder) {
+                    firstFolder.open = true;
+                    const firstFile = firstFolder.querySelector('.tree-file');
+                    if (firstFile) {
+                        loadPaper(firstFile.dataset.path, firstFile.textContent);
+                    }
+                }
+            } catch (e) {
+                document.getElementById('tree').innerHTML = '<p class="loading">Failed to load tree. Run build.py first.</p>';
+            }
+        }
+
+        // Gallery
+        let galleryData = [];
+        let currentLightboxIndex = 0;
+
+        async function initGallery() {
+            try {
+                const response = await fetch('gallery.json');
+                if (!response.ok) {
+                    document.getElementById('gallery-grid').innerHTML = '<p class="loading">No photos yet. Add gallery.json to enable.</p>';
+                    return;
+                }
+                galleryData = await response.json();
+
+                const grid = document.getElementById('gallery-grid');
+                grid.innerHTML = galleryData.map((photo, index) => `
+                    <div class="gallery-item" onclick="openLightbox(${index})">
+                        <img src="photos/${photo.filename}" alt="${photo.title || ''}" loading="lazy">
+                        <div class="gallery-caption">
+                            ${photo.title ? `<strong>${photo.title}</strong>` : ''}
+                            ${photo.caption || ''}
+                        </div>
+                    </div>
+                `).join('');
+            } catch (e) {
+                document.getElementById('gallery-grid').innerHTML = '<p class="loading">Gallery unavailable.</p>';
+            }
+        }
+
+        function openLightbox(index) {
+            currentLightboxIndex = index;
+            const photo = galleryData[index];
+            document.getElementById('lightbox-img').src = 'photos/' + photo.filename;
+            document.getElementById('lightbox-caption').innerHTML =
+                (photo.title ? `<strong>${photo.title}</strong>` : '') +
+                (photo.caption || '');
+            document.getElementById('lightbox').classList.remove('hidden');
+            document.body.style.overflow = 'hidden';
+        }
+
+        function closeLightbox() {
+            document.getElementById('lightbox').classList.add('hidden');
+            document.body.style.overflow = '';
+        }
+
+        function navigateLightbox(direction) {
+            currentLightboxIndex += direction;
+            if (currentLightboxIndex < 0) currentLightboxIndex = galleryData.length - 1;
+            if (currentLightboxIndex >= galleryData.length) currentLightboxIndex = 0;
+            openLightbox(currentLightboxIndex);
+        }
+
+        // Keyboard navigation for lightbox
+        document.addEventListener('keydown', function(e) {
+            if (document.getElementById('lightbox').classList.contains('hidden')) return;
+            if (e.key === 'Escape') closeLightbox();
+            if (e.key === 'ArrowLeft') navigateLightbox(-1);
+            if (e.key === 'ArrowRight') navigateLightbox(1);
+        });
+
+        // Search tabs
+        document.querySelectorAll('.search-tab').forEach(tab => {
+            tab.addEventListener('click', function() {
+                searchMode = this.dataset.search;
+                document.querySelectorAll('.search-tab').forEach(t => t.classList.remove('active'));
+                this.classList.add('active');
+
+                const searchBox = document.getElementById('search');
+                const resultsEl = document.getElementById('fulltext-results');
+                const treeEl = document.getElementById('tree');
+
+                if (searchMode === 'fulltext') {
+                    searchBox.placeholder = 'Search content...';
+                    resultsEl.classList.remove('hidden');
+                    treeEl.classList.add('hidden');
+                    if (searchBox.value) performFulltextSearch(searchBox.value);
+                } else {
+                    searchBox.placeholder = 'Search filenames...';
+                    resultsEl.classList.add('hidden');
+                    treeEl.classList.remove('hidden');
+                }
+            });
+        });
+
+        // Search input
+        document.getElementById('search').addEventListener('input', function(e) {
+            const query = e.target.value;
+
+            if (searchMode === 'fulltext') {
+                performFulltextSearch(query);
+            } else {
+                // File filter
+                const queryLower = query.toLowerCase();
+                document.querySelectorAll('.tree-file').forEach(file => {
+                    const match = file.textContent.toLowerCase().includes(queryLower) ||
+                                  file.dataset.path.toLowerCase().includes(queryLower);
+                    file.style.display = match || !query ? 'block' : 'none';
+                });
+                document.querySelectorAll('.tree-folder').forEach(folder => {
+                    const hasVisible = Array.from(folder.querySelectorAll('.tree-file'))
+                        .some(f => f.style.display !== 'none');
+                    folder.style.display = hasVisible || !query ? 'block' : 'none';
+                    if (query && hasVisible) folder.open = true;
+                });
+            }
+        });
+
+        // Navigation
+        document.querySelectorAll('.nav-link').forEach(link => {
+            link.addEventListener('click', function() {
+                const page = this.dataset.page;
+                updateURL(page);
+            });
+        });
+
+        // Load static pages
+        async function initPages() {
+            await loadMarkdown('OVERVIEW-FOR-COLLEAGUES.md', 'overview-content');
+            await loadMarkdown('biography.md', 'biography-content');
+            await loadMarkdown('CURATORS-NOTE.md', 'curators-note-content');
+        }
+
+        // URL routing
+        function updateURL(page, path = null) {
+            if (page === 'papers' && path) {
+                window.location.hash = `/writings/${path}`;
+            } else {
+                window.location.hash = `/${page}`;
+            }
+        }
+
+        function handleRoute() {
+            const hash = window.location.hash.slice(1) || '/writings';
+
+            if (hash.startsWith('/writings/')) {
+                // Paper route: /writings/1999/CHANTILL-1.md
+                const path = hash.slice(10); // remove '/writings/'
+                document.querySelectorAll('.nav-link').forEach(l => l.classList.remove('active'));
+                document.querySelector('[data-page="writings"]').classList.add('active');
+                document.querySelectorAll('[id^="page-"]').forEach(p => p.classList.add('hidden'));
+                document.getElementById('page-writings').classList.remove('hidden');
+
+                if (path && treeData) {
+                    loadPaper(path, null, false);
+                }
+            } else {
+                // Static page route: /overview, /biography, /curators-note
+                const page = hash.slice(1) || 'papers';
+                document.querySelectorAll('.nav-link').forEach(l => l.classList.remove('active'));
+                const navLink = document.querySelector(`[data-page="${page}"]`);
+                if (navLink) navLink.classList.add('active');
+                document.querySelectorAll('[id^="page-"]').forEach(p => p.classList.add('hidden'));
+                const pageEl = document.getElementById('page-' + page);
+                if (pageEl) pageEl.classList.remove('hidden');
+            }
+        }
+
+        window.addEventListener('hashchange', handleRoute);
+
+        // Initialize
+        initTree().then(() => {
+            handleRoute();
+        });
+        initPages();
+        initSearch();
+        initGallery();
+    </script>
+</body>
+</html>

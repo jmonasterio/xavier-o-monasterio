@@ -88,33 +88,33 @@ His full name in Spanish follows the Mexican naming convention (Ortiz Monasterio
 ### Books
 
 Monasterio, Xavier O. *To Be Human: An Introductory Experiment in Philosophy.*
-&nbsp;&nbsp;&nbsp;&nbsp;New York: Paulist Press, 1985.
-&nbsp;&nbsp;&nbsp;&nbsp;ISBN 0-8091-2704-0.
+    New York: Paulist Press, 1985.
+    ISBN 0-8091-2704-0.
 
 Monasterio, Xavier O. *To Be Human: An Introductory Experiment in Philosophy.*
-&nbsp;&nbsp;&nbsp;&nbsp;Lanham, MD: University Press of America, later reprints (1990s).
+    Lanham, MD: University Press of America, later reprints (1990s).
 
 Ortiz Monasterio, Xavier. *Para ser humano: Introducción experimental a la filosofía.*
-&nbsp;&nbsp;&nbsp;&nbsp;Mexico City: Universidad Iberoamericana, 1987.
-&nbsp;&nbsp;&nbsp;&nbsp;Spanish-language edition catalogued under the author name "Xavier Ortiz Monasterio."
+    Mexico City: Universidad Iberoamericana, 1987.
+    Spanish-language edition catalogued under the author name "Xavier Ortiz Monasterio."
 
 ### Journal Articles
 
 Monasterio, Xavier O. "Camus' Meditation on the Christian Faith."
-&nbsp;&nbsp;&nbsp;&nbsp;*Horizons* 26, no. 2 (Fall 1999): 280–295.
-&nbsp;&nbsp;&nbsp;&nbsp;Affiliation listed as University of Dayton.
+    *Horizons* 26, no. 2 (Fall 1999): 280–295.
+    Affiliation listed as University of Dayton.
 
 ### Conference / Institutional Publications
 
 Monasterio, Xavier. "Ought Cats Be Tuesday? Reflections on the Neutrality of Philosophers."
-&nbsp;&nbsp;&nbsp;&nbsp;In *University of Dayton Review*, vol. 11, no. 1 (1974),
-&nbsp;&nbsp;&nbsp;&nbsp;Proceedings of the Fourth Annual Philosophy Colloquium.
-&nbsp;&nbsp;&nbsp;&nbsp;University of Dayton.
+    In *University of Dayton Review*, vol. 11, no. 1 (1974),
+    Proceedings of the Fourth Annual Philosophy Colloquium.
+    University of Dayton.
 
 ### Library and Authority Records
 
 WorldCat. Author entry for Monasterio, Xavier O. and Ortiz Monasterio, Xavier.
-&nbsp;&nbsp;&nbsp;&nbsp;Records consolidating English and Spanish editions of *To Be Human / Para ser humano*.
+    Records consolidating English and Spanish editions of *To Be Human / Para ser humano*.
 
 ---
 

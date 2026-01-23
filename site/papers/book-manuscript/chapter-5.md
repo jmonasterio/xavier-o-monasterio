@@ -7,670 +7,186 @@ converted_with: wpd2html
 file_date: 1997-01-07
 ---
 
-Chapter Five
+# Chapter 5: The Notion of Faith
 
-  The Notion of Faith 
+Long before Aquinas and his immediate predecessors and contemporaries, the Fathers of the Church had reflected on their faith, too. The frequency and reverence with which Aquinas cites the Fathers, especially Saint Augustine, shows that he conceives of his own work as a continuation of that reflection. The reflection of the Fathers, however, had no scientific pretensions. It was *Christian* reflection through and through, that is, reflection by committed Christians on the very faith which they lived and of which they had experience as Christians. The reflection conducted by Aquinas in his *Summa Theologica* is, by contrast, avowedly and willingly, a scientific undertaking.
 
-Long before Aquinas and his immediate predecessors and contemporaries, the Fathers of the Church had reflected on their faith, too. The frequency and reverence with which Aquinas cites the Fathers, especially Saint Augustine, shows that he conceives of his own work as a continuation of that reflection. The reflection of the Fathers, however, had no scientific pretensions. It was 
+Does this difference affect the continuity between Aquinas's reflection and that of the Fathers? That there is a difference at least in tone and structure between the works of the Fathers and Aquinas's *Summa* is beyond doubt. Already in a previous chapter we considered the distance that separates the two. The question we have to tackle now is whether this difference is merely superficial--simply a question of tone, structure, and scope, just a difference in 'literary genres' or modes of expression--or whether, on the contrary, Aquinas's theological undertaking constitutes such a different kind of reflection that it results in a different notion of faith. The answer to this question involves a number of closely interrelated matters. To proceed in an orderly fashion I will take each of them successively. In the present chapter I will concentrate on the notion of faith exclusively, and, when dealing with Aquinas's views, will focus for the most part on the subject who believes, leaving the term of the faith-relationship--the God believed in--for a further chapter.
 
-Christian
-
- reflection through and through, that is, reflection by committed Christians on the very faith which they lived and of which they had experience as Christians. The reflection conducted by Aquinas in his 
-
-Summa Theologica
-
- is, by contrast, avowedly and willingly, a scientific undertaking. 
-
-Does this difference affect the continuity between Aquinas&apos;s reflection and that of the Fathers? That there is a difference at least in tone and structure between the works of the Fathers and Aquinas&apos;s 
-
-Summa
-
- is beyond doubt. Already in a previous chapter we considered the distance that separates the two. The question we have to tackle now is whether this difference is merely superficial--simply a question of tone, structure, and scope, just a difference in &apos;literary genres&apos; or modes of expression--or whether, on the contrary, Aquinas&apos;s theological undertaking constitutes such a different kind of reflection that it results in a different notion of faith. The answer to this question involves a number of closely interrelated matters. To proceed in an orderly fashion I will take each of them successively. In the present chapter I will concentrate on the notion of faith exclusively, and, when dealing with Aquinas&apos;s views, will focus for the most part on the subject who believes, leaving the term of the faith-relationship--the God believed in--for a further chapter. 
-
-The Patristic notion of faith
+## The Patristic Notion of Faith
 
 Many of the Fathers had much to say about faith, that is, the characteristically Christian response to God. What emerges from their works and sermons is that what they understand by "faith" is a relationship that possesses a double characteristic. It is primarily a relationship to and with the tri-personal God of Christianity, and it is a dynamic relationship that involves the whole person of the believer.
 
-The first aspect or characteristic of the faith-relationship is meant to indicate, not only that 
+The first aspect or characteristic of the faith-relationship is meant to indicate, not only that *what the Fathers call faith (fides, in Latin, or pístis, in Greek) refers to the tri-Personal God of Christianity to the exclusion of any other God*, but--what is equally important--that *generally the Fathers use the word "faith" in connection with God Himself rather than in connection with propositions about God, the Church, the sacraments, the devil, etc.*
 
-what the Fathers call faith (fides, in Latin, or pístis, in Greek) refers to the tri-Personal God of Christianity to the exclusion of any other God
+This latter trait deserves particular attention. We are so used to translate "fides" (or pístis) as "belief", and "credere" (or pistéuein) as "believing," and we so naturally nowadays attach to the English verb a propositional content as its direct object, that we may have trouble grasping fully what the Fathers mean by the substantive "fides" and the corresponding verb "*credere*." [ON THE EVOLUTION OF THE MEANING OF THESE WORDS SEE CANTWELL SMITH'S EXTREMELY INSIGHTFUL STUDY]. Actually, the verb "credere" as used most generally by the Fathers to express what Christians primarily do in "believing" has no direct object, much less a propositional direct object. Translating their language in a barbarous way, they do not say, when speaking of what the Christian does in believing, that the Christian "believes *God*," much less that the Christian "believes *that*...". The word that in their language typically follows the verb "credere" is indeed God, or the Father, or the Son, or Jesus-Christ, or the Holy Spirit, that is, the tri-Personal God or one of the divine Persons, as already remarked. But these names do not follow the verb as their direct object. The Christian believes *in* God, *in* the Father, *in* the Holy Spirit, etc.
 
- , but--what is equally important--that 
+Now, I do not want to suggest that, in the Fathers' use, the verb "*credere*" is always and only followed by the preposition *in* and the divine name or the name of one of the divine Persons in the accusative. That would be patently false. In fact, they also employ two other constructions: *credere* followed by a personal name or a personal pronoun (as in credere *Deo*, credere *Christo*, credere *ei*), and *credere* followed by a direct object which may be a proposition. The former construction refers to the religious confidence of the Christian in God as Revealer, and the latter to the religious acceptance by the Christian of what God reveals. Most certainly, the Fathers' notion of faith includes these two elements as part and parcel of what they mean by "believing *in* God." Yet, these are neither the only nor even the principal elements of what they have in mind when they speak of "faith," of what the Christian primarily does in "believing."
 
-generally the Fathers use the word "faith" in connection with God Himself rather than in connection with propositions about God, the Church, the sacraments, the devil, etc.
+This is stressed in several of his sermons by Saint Augustine who, while distinguishing certain common uses of the verb "credere" in the Christian tradition (a distinction which Aquinas will adopt in the *Summa Theologica*), identifies "faith" with only *one* of them. Thus, for instance, commenting on Joannes 6:29:
 
-This latter trait deserves particular attention. We are so used to translate "fides" (or pístis) as "belief", and "credere" (or pistéuein) as "believing," and we so naturally nowadays attach to the English verb a propositional content as its direct object, that we may have trouble grasping fully what the Fathers mean by the substantive "fides" and the corresponding verb
+"... that you should believe in Him (*in eum*); not that you should believe Him or what He says (*ei*). But if you believe in Him, you believe Him and what He says; whereas whoever believes things that He says does not by that fact believe in Him; for the demons too believe what He says but still do not believe in Him" (p. 141, and note 26).
 
-"credere."
+And again: "Hoc est etiam credere *in Deum*, quod utique plus est quam credere *Deo*" (This, too, is to believe in God, which is much more than to believe God) (In Ps. 77, no. 8; see p. 142, note 27. My emphasis).
 
- [ON THE EVOLUTION OF THE MEANING OF THESE WORDS SEE CANTWELL SMITH&apos;S EXTREMELY INSIGHTFUL STUDY]. Actually, the verb "credere" as used most generally by the Fathers to express what Christians primarily do in "believing" has no direct object, much less a propositional direct object. Translating their language in a barbarous way, they do not say, when speaking of what the Christian does in believing, that the Christian "believes 
-
-God,
-
-"  much less that the Christian "believes 
-
-that
-
-...". The word that in their language typically follows the verb "credere" is indeed God, or the Father, or the Son, or Jesus-Christ, or the Holy Spirit, that is, the tri-Personal God or one of the divine Persons, as already remarked. But these names do not follow the verb as their direct object. The Christian believes 
-
-in
-
- God, 
-
-in
-
- the Father, 
-
-in
-
- the Holy Spirit, etc.  
-
-Now, I do not want to suggest that, in the Fathers&apos; use, the verb "
-
-credere
-
-" is always and only followed by the preposition 
-
-in
-
- and the divine name or the name of one of the divine Persons in the accusative. That would be patently false. In fact, they also employ two other constructions: 
-
-credere
-
- followed by a personal name or a personal pronoun (as in credere 
-
-Deo
-
-, credere 
-
-Christo
-
-, credere 
-
-ei
-
-), and 
-
-credere
-
- followed by a direct object which may be a proposition. The former construction refers to the religious confidence of the Christian in God as Revealer, and the latter to the religious acceptance by the Christian of what God reveals.
-
- Most certainly, the Fathers&apos; notion of faith includes these two elements as part and parcel of what they mean by "believing 
-
-in
-
- God." Yet, these are neither the only nor even the principal elements of what they have in mind when they speak of "faith," of what the Christian primarily does in "believing."
-
-  	This is stressed in several of his sermons by Saint Augustine who, while distinguishing certain common uses of the verb "credere" in the Christian tradition (a distinction which Aquinas will adopt in the 
-
-Summa Theologica
-
-), identifies "faith" with only 
-
-one
-
- of them. Thus, for instance, commenting on Joannes 6:29:
-
-"... that you should believe in Him (
-
-in eum
-
-); not that you should believe Him or what He says (
-
-ei
-
-). But if you believe in Him, you believe Him and what He says; whereas whoever believes things that He says does not by that fact believe in Him; for the demons too believe what He says but still do not believe in Him" (p. 141, and note 26). 
-
-And again: "Hoc est etiam credere 
-
-in Deum
-
-, quod utique plus est quam credere 
-
-Deo"
-
- (This, too, is to believe in God, which is much more than to believe God) (In Ps. 77, no. 8; see p. 142, note 27. My emphasis).	
-
-The Fathers&apos; use of the preposition "in" following the substantive 
-
-fides
-
- or the verb 
-
-credere
-
- and accompanied by a divine name in the accusative, which they directly borrow from Saint John and Saint Paul, is highly idiosyncratic. Both in 
-
-classical
-
- Latin and in 
-
-classical
-
- Greek the normal complement of the verbs "credere" or "pistéuein," when the point is to express confidence 
-
-in a person
-
-, is a dative case (credo 
-
-tibi
-
-, pistéuo 
-
-soi
-
-), not the preposition "in" followed by the name of the person or by a personal pronoun. Indeed, the early Christians were the ones who, in order to express the unique relationship in which they stood to God in believing, invented and introduced the 
-
-barbarous
-
---and to well trained ears, 
-
-abhorrent
-
---construction of the verbs 
-
-pistéuein
-
- or 
-
-credere
-
- followed respectively by the preposition "eis" in Greek or "in" in Latin, accompanied by an accusative referring, not to just any person, but 
-
-either to the tri-Personal God, or to one of the divine Persons in particular.
+The Fathers' use of the preposition "in" following the substantive *fides* or the verb *credere* and accompanied by a divine name in the accusative, which they directly borrow from Saint John and Saint Paul, is highly idiosyncratic. Both in *classical* Latin and in *classical* Greek the normal complement of the verbs "credere" or "pistéuein," when the point is to express confidence *in a person*, is a dative case (credo *tibi*, pistéuo *soi*), not the preposition "in" followed by the name of the person or by a personal pronoun. Indeed, the early Christians were the ones who, in order to express the unique relationship in which they stood to God in believing, invented and introduced the *barbarous*--and to well trained ears, *abhorrent*--construction of the verbs *pistéuein* or *credere* followed respectively by the preposition "eis" in Greek or "in" in Latin, accompanied by an accusative referring, not to just any person, but *either to the tri-Personal God, or to one of the divine Persons in particular*.
 
 Commenting on this solecistic Christian transformation of the Greek and Latin languages to force them to express the totally new and unique relationship constituted by faith, de Lubac writes:
 
-"The proclamation of the gospel... brought about a spiritual revolution which created a new mental structure deep within man, and, by an imperative logic, this latter, despite some hesitations, had to clear a way to express itself. Erasmus recognized this when he commented on and adopted as his own the traditional explanations: when used in this way, not indiscriminately but as a result of a particular, unique choice, this preposition 
+"The proclamation of the gospel... brought about a spiritual revolution which created a new mental structure deep within man, and, by an imperative logic, this latter, despite some hesitations, had to clear a way to express itself. Erasmus recognized this when he commented on and adopted as his own the traditional explanations: when used in this way, not indiscriminately but as a result of a particular, unique choice, this preposition *in* 'adds a certain force to what is said.' It specifies a privileged use of the verb 'believe.' That is why, Erasmus continued, giving the demands of Christian faith precedence over his literary tastes, '*credo in Deum*' is a well-chosen expression even though those who speak polished Latin can hardly bear it.
 
-in
+"The fact is that neither the Greek words *pistéuo* and *pístis* nor the corresponding Latin words *credere* and *fides* were particularly significant in themselves.... It was Christianity that reintroduced them into the vocabulary of religion, where they played a central role. However, even if they could serve to express a religious belief..., these words did not suffice in themselves to render... faith itself in the Christian sense of the word..., the notion of which is not merely a generic concept, prior to the specific differences that might produce varying types of belief, but which constitutes an original, irreducible notion [spelled out as follows by Romano Guardini]:
 
- &apos;adds a certain force to what is said.&apos; It specifies a privileged use of the verb &apos;believe.&apos; That is why, Erasmus continued, giving the demands of Christian faith precedence over his literary tastes, &apos;
+"'What the New Testament calls 'faith' does not take on a religious attitude that might apply to various contents--something like an abstract category, like knowledge capable of apprehending a multitude of disparate objects while still remaining 'knowledge.' Faith, in the Christian sense, has a unique and exclusive character. It is not an all-embracing notion which might be adapted to numerous modalities: Christian faith, Moslem faith, paganism of the ancient Greeks or Buddhism... The word designates a unique thing: the response given by man to God, who has come to him in Christ'" (*The Christian Faith*, pp. 277-279).
 
-credo in Deum&apos;
+Let me summarize what I have said concerning the first characteristic of the Patristic notion of faith. The point of it is that the substantives *fides* and *pístis*, that is, "faith" in the Christian sense, and the verbs *credere* and *pistéuein*, that is, "believing," again in the Christian sense, designate a *unique* relationship. It is unique in two ways. First, it is a relationship to and with the God of Christianity, exclusively. Otherwise said, the only possible term of the faith relationship is the tri-Personal God. Either one believes in *that* God, or one is not doing what the Fathers mean by "believing." One cannot "believe" *in* the devil, or *in* hell, not even *in* the Church, much less can one "believe" *in* a proposition. Second, the relationship is unique in that only Christians can stand in *that* relationship to God. In other words, *"believing" or "having faith" are convertible with "being a Christian."*
 
- is a well-chosen expression even though those who speak polished Latin can hardly bear it.
+He or she who genuinely "believes in God" is a Christian, and he or she who genuinely is a Christian "believes in God." Christians are "those who believe"; this, in fact, is the way they are identified in the Acts of the Apostles--*oi pistéusantes*, *oi pistoí*.
 
-"The fact is that neither the Greek words 
+[ON THIS POINT, SEE THE VERY ENLIGHTENING CHAPTER BY DE LUBAC, SINIFICANTLY ENTITLED "CHRISTIAN SOLECISMS, IN HIS THE CHRISTIAN FAITH, PP. 261-289].
 
-pistéuo
-
- and 
-
-pístis
-
- nor the corresponding Latin words 
-
-credere
-
- and 
-
-fides
-
- were particularly significant in themselves.... It was Christianity that reintroduced them into the vocabulary of religion, where they played a central role. However, even if they could serve to express a religious belief..., these words did not suffice in themselves to render... faith itself in the Christian sense of the word..., the notion of which is not merely a generic concept, prior to the specific differences that might produce varying types of belief, but which constitutes an original, irreducible notion [spelled out as follows by Romano Guardini]:
-
-"&apos;What the New Testament calls &apos;faith&apos; does not take on a religious attitude that might apply to various contents--something like an abstract category, like knowledge capable of apprehending a multitude of disparate objects while still remaining &apos;knowledge.&apos; Faith, in the Christian sense, has a unique and exclusive character. It is not an all-embracing notion which might be adapted to numerous modalities: Christian faith, Moslem faith, paganism of the ancient Greeks or Buddhism... The word designates a unique thing: the response given by man to God, who has come to him in Christ&apos;"
-
- (
-
-The Christian Faith
-
-, pp. 277-279).
-
-Let me summarize what I have said concerning the first characteristic of the Patristic notion of faith. The point of it  is that the substantives 
-
-fides
-
- and 
-
-pístis
-
-, that is, "faith" in the Christian sense, and the verbs 
-
-credere
-
- and 
-
-pistéuein
-
-, that is, "believing," again in the Christian sense, designate a 
-
-unique
-
- relationship. It is unique in two ways. First, it is a relationship to and with the God of Christianity, exclusively. Otherwise said, the only possible term of the faith relationship is the tri-Personal God. Either one believes in 
-
-that
-
- God, or one is not doing what the Fathers mean by "believing." One cannot "believe" 
-
-in
-
- the devil, or 
-
-in
-
- hell, not even 
-
-in
-
- the Church, much less can one "believe" 
-
-in
-
- a proposition. Second, the relationship is unique in that only Christians can stand in 
-
-that
-
- relationship to God. In other words, 
-
-"believing" or "having faith" are convertible with "being a Christian."
-
-He or she who genuinely "believes in God" is a Christian, and he or she who genuinely is a Christian "believes in God." Christians are "those who believe"; this, in fact, is the way they are identified in the Acts of the Apostle
-
-s-- 
-
-oi
-
-pistéusantes
-
-, 
-
-oi
-
-pistoí
-
-.
-
-[ON THIS POINT, SEE THE VERY ENLIGHTENING CHAPTER BY DE LUBAC, SINIFICANTLY ENTITLED "CHRISTIAN SOLECISMS, IN HIS THE CHRISTIAN FAITH, PP. 261-289].   
-
-The second characteristic of the Patristic notion of faith is, as I put it above, that it is a dynamic relationship that involves the whole person of the believer.
-
- We have to guard, here again, against the danger of understanding the words "faith" and "believing" in the very different meanings they have come to acquire. What the Fathers mean by "faith" is not a collection of "beliefs" in the contemporary sense of this word. The Christian the Fathers have in mind may and does have "beliefs," but that is not what the Fathers mean primarily by "faith." Faith is not primarily a matter of believing propositions, much less if by "believing" we mean an arbitrary and unwarranted acceptance, which is what the word tends to connote nowadays. 
+*The second characteristic of the Patristic notion of faith is, as I put it above, that it is a dynamic relationship that involves the whole person of the believer.* We have to guard, here again, against the danger of understanding the words "faith" and "believing" in the very different meanings they have come to acquire. What the Fathers mean by "faith" is not a collection of "beliefs" in the contemporary sense of this word. The Christian the Fathers have in mind may and does have "beliefs," but that is not what the Fathers mean primarily by "faith." Faith is not primarily a matter of believing propositions, much less if by "believing" we mean an arbitrary and unwarranted acceptance, which is what the word tends to connote nowadays.
 
 The word "belief" (much more than the word "faith," which keeps still some of its early Christian connotation) has come to signify, for us, something akin to what Plato meant by dóxa, a sort of unsupported opinion, by contrast to "knowledge." Now, the very fact that we implicitly contrast "belief" with "knowledge" indicates that we are talking of notions of the epistemic order. The Fathers of the Church, however, did not think in our Greek categories.
 
-For us today--and we will have something to say about this latter in connection with Aquinas&apos;s notion of faith--"faith" tends to evoke something that belongs within the epistemic order, almost irremediably. Not so for the Fathers. Faith is not, for them, an intellectual relationship, nor something that excludes the intellect, either. It is a personal relationship to and with the tri-Personal God of Christianity.
+*For us today--and we will have something to say about this latter in connection with Aquinas's notion of faith--"faith" tends to evoke something that belongs within the epistemic order, almost irremediably. Not so for the Fathers. Faith is not, for them, an intellectual relationship, nor something that excludes the intellect, either. It is a personal relationship to and with the tri-Personal God of Christianity.* And by personal relationship I mean a relationship in which the faithful stand to and with God with their *whole* personality, not only or even primarily with one portion of their being, such as their intellect, or their will. The Fathers do not see "faith" as an act of the intellect or of the will, but rather as a total orientation of the Christian toward God, as a total response to His loving self-revelation. One cannot dissociate in this relationship any of its aspects from the other.
 
- And by personal relationship I mean a relationship in which the faithful stand to and with God with their 
+In his INSTITUTION CHRETIENNE Calvin expressed well this characteristic of the traditional notion of faith by contrasting it to the purely intellectuallistic notion with which we might be tempted to confuse it and which Calvin personally abominated:
 
-whole
+"The first consists merely in holding as true what is affirmed about God and Jesus Christ: 'Si quis credat Deum esse, historiam quae de Christo narratur veram esse arbitretur.' In his [AUGUSTINE'S] eyes this faith 'indigna est fidei appellatione,' for it does not involve any personal commitment, insofar as it can exist in the most impious of the impious: 'Eam se habere cum diabolis communem.' True faith is something quite different. It is a movement of one's whole being toward God and a trusting and personal abandonment to the One who alone can save: 'Altera est, quae non modo Deum et Christum esse credimus, sed etiam in Deum credimus et Christum'" (quoted by de Lubac, p. 308).
 
- personality, not only or even primarily with one portion of their being, such as their intellect, or their will. The Fathers do not see "faith" as an act of the intellect or of the will, but rather as a total orientation of the Christian toward God, as a total response to His loving self-revelation. One cannot dissociate in this relationship any of its aspects from the other.
+(For the Augustinian text on which Calvin is probably commenting here, see p. 141).
 
-In his INSTITUTION CHRETIENNE Calvin expressed well this characteristic of the traditional notion of faith by contrasting it to the purely intellectuallistic notion with which we might be tempted to confuse it and which Calvin personally abominated:  
+The tight distinctions among faith, hope, and charity, which are a legacy of Scholasticism and are connected with the Aristotelian view of the soul's faculties, might tend to obscure rather than illuminate the Fathers' notion of faith.
 
-"The first consists merely in holding as true what is affirmed about God and Jesus Christ: &apos;Si quis credat Deum esse, historiam quae de Christo narratur veram esse arbitretur.&apos; In his [AUGUSTINE&apos;S] eyes this faith &apos;indigna est fidei appellatione,&apos; for it does not involve any personal commitment, insofar as it can exist in the most impious of the impious: &apos;Eam se habere cum diabolis communem.&apos; True faith is something quite different. It is a movement of one&apos;s whole being toward God and a trusting and personal abandonment to the One who alone can save: &apos;Altera est, quae non modo Deum et Christum esse credimus, sed etiam in Deum credimus et Christum&apos;" 
+*For the Fathers, there is no primacy of faith--logical or otherwise--over hope and charity, for the simple reason that the three of them are inseparable aspects of what they mean by "faith."* Saint Augustine, probably more than any other of the Fathers, insists on this point: "Ille enim credit in Christum qui sperat in Christum et diligit Christum"; "Hoc est enim credere in Christum, diligere Christum"; "Credere in Deum... utique plus est quam credere Deo... Hoc est ergo credere in Deum, credendo ahaerere ad bene cooperandum bona operanti Deo" (p. 300, notes).
 
-(quoted by de Lubac, p. 308).
+To make the point clear by applying to it alien categories that come to us from the philosophical language of the Greeks rather than from the Biblical language from which the Fathers take their cue, we would have to say that what the Fathers mean by *faith involves inseparably cognition, volition, and action. All these aspects are equally intrinsic and essential to faith and they qualify each other. In other words, faith is not a matter of a certain cognition or intellectual conviction accompanied by certain volitions and followed by certain actions. Nor can faith be identified more or principally as a cognition rather than as a volition or an action*. In the case of faith, these words do not mean different realities; they are, rather, aspects or 'moments' of the same human response to God which is faith. What is cognitional in faith is equally and inseparably volitional and behavioral.
 
-(For the Augustinian text on which Calvin is probably 	commenting here, see p. 141).
-
-The tight distinctions among faith, hope, and charity, which are a legacy of Scholasticism and are connected with the Aristotelian view of the soul&apos;s faculties, might tend to obscure rather than illuminate the Fathers&apos; notion of faith.
-
-For the Fathers, there is no primacy of faith--logical or otherwise--over hope and charity, for the simple reason that the three of them are inseparable aspects of what they mean by "faith."
-
- Saint Augustine, probably more than any other of the Fathers, insists on this point: "Ille enim  credit in Christum qui sperat in Christum et diligit Christum"; "Hoc est enim credere in Christum, diligere Christum"; 
-
-"Credere in Deum... utique plus est quam credere Deo... Hoc est ergo credere in Deum, credendo ahaerere ad bene cooperandum bona operanti Deo" (p. 300, notes).
-
-To make the point clear by applying to it alien categories that come to us from the philosophical language of the Greeks rather than from the Biblical language from which the Fathers take their cue,  we would have to say that what the Fathers mean by 
-
-faith involves inseparably cognition, volition, and action. All these aspects are equally intrinsic and essential to faith and they qualify each other. In other words, faith is not a matter of a certain cognition  or intellectual conviction accompanied by certain volitions and followed by certain actions. Nor can faith be identified more or principally as a cognition rather than as a volition or an action
-
-. In the case of faith, these words do not mean different realities; they are, rather, aspects or &apos;moments&apos; of the same human response to God which is faith. What is cognitional in faith is equally and inseparably volitional and behavioral.
-
-Given this notion of faith, we may understand why, for The Fathers of the Church, the faith of a Moslem would not be what they call faith, for it is not a relationship to and with the tri-Personal God. And why trust in some undefined or impersonal ultimate meaningfulness would not be faith, either. And why a mere intellectual assent to God&apos;s existence (what we might call &apos;philosophical faith&apos;) would not be what they call faith, for it does not involve either the loving trust and full commitment or the prayerful confession and adoration that are intrinsic to what the Fahters understand by faith. And why, finally, a merely ritual adoration of the God of Christianity, or a merely ritual recitation of a confession of faith in the Holy Trinity would not be faith, for it does not involve the trusting, loving, cognitional relationship to and with the tri-Personal God without which there is no "faith."
+Given this notion of faith, we may understand why, for The Fathers of the Church, the faith of a Moslem would not be what they call faith, for it is not a relationship to and with the tri-Personal God. And why trust in some undefined or impersonal ultimate meaningfulness would not be faith, either. And why a mere intellectual assent to God's existence (what we might call 'philosophical faith') would not be what they call faith, for it does not involve either the loving trust and full commitment or the prayerful confession and adoration that are intrinsic to what the Fahters understand by faith. And why, finally, a merely ritual adoration of the God of Christianity, or a merely ritual recitation of a confession of faith in the Holy Trinity would not be faith, for it does not involve the trusting, loving, cognitional relationship to and with the tri-Personal God without which there is no "faith."
 
 (ON THIS SECOND CHARACTERISTIC OF FAITH, SEE DE LUBAC, PARTICULARLY CHAPTERS 4 AND 9).
 
-Such is the rich and complex notion of faith that Aquinas received from the Fathers, particularly from Augustine, and in continuity with which he intended to remain in his theological undertaking, not out of blind loyalty to the Christian tradition, or out of uncritical respect for the Fathers, but because he recognized his own faith in that notion. The question now before us is the extent to which he succeded in carrying his intention out. 
+Such is the rich and complex notion of faith that Aquinas received from the Fathers, particularly from Augustine, and in continuity with which he intended to remain in his theological undertaking, not out of blind loyalty to the Christian tradition, or out of uncritical respect for the Fathers, but because he recognized his own faith in that notion. The question now before us is the extent to which he succeded in carrying his intention out.
 
-Does Aquinas&apos;s notion of faith elaborated under the Aristotelian influence remain fundamentally the same as that of the Christian tradition represented by the Fathers, or does it rather, attracted by the pull of the Aristotelian views, escape its original orbit, gravitate toward a different sun and, as a result, undergo a transformation in its very  nature?
+Does Aquinas's notion of faith elaborated under the Aristotelian influence remain fundamentally the same as that of the Christian tradition represented by the Fathers, or does it rather, attracted by the pull of the Aristotelian views, escape its original orbit, gravitate toward a different sun and, as a result, undergo a transformation in its very nature?
 
-Intellect and will in Aquinas&apos;s notion of faith
+## Intellect and Will in Aquinas's Notion of Faith
 
-In his elaboration of the notion of faith Aquinas borrows heavily from Aristotle. 
+In his elaboration of the notion of faith Aquinas borrows heavily from Aristotle. *He obviously is convinced that what the Fathers expressed in non-Aristotelian terms concerning the faith he shares with them can be articulated more precisely and fruitfully, and without any loss of distortion, by reference to the Aristotelian framework and through the use of Aristotelian categories*. From Aristotle's anthropology he takes his view of the soul in general and, more particularly, of the two main faculties of the soul, namely, the intellect and *the will* [?!}. What he borrows from Aristotle's epistemology has to do, primarily, with the object and the function of the intellect.
 
-He obviously is convinced that what the Fathers expressed in non-Aristotelian terms concerning the faith he shares with them can be articulated more precisely and fruitfully, and without any loss of distortion, by reference to the Aristotelian framework and through the use of Aristotelian categories
-
-. From Aristotle&apos;s anthropology he takes his view of the soul in general and, more particularly, of the two main faculties of the soul, namely, the intellect and 
-
-the will
-
- [?!}. What he borrows from Aristotle&apos;s epistemology has to do, primarily, with the object and the function of the intellect.   
-
-The faith-relationship of the Christian to God is, in Aquinas eyes, analogous to the purely human relationship into which we enter when we believe something because we believe in the person who tells us that. Aquinas himself sketches this analogy
-
-:
+The faith-relationship of the Christian to God is, in Aquinas eyes, analogous to the purely human relationship into which we enter when we believe something because we believe in the person who tells us that. Aquinas himself sketches this analogy:
 
 "Quia vero quicumque credit, alicujus dicto assentit, principale videtur esse, et quasi finis in unaquaque credulitate ille cujus dicto assentitur; quasi autem secundaria sunt ea quae quis tenendo vult alicui assentire. Sic ergo qui recte fidem Christianam habet, sua voluntate assentit Christo in his quae vere ad ejus doctrinam pertinent." (IIa IIae, 11, 1).
 
-The text stresses the double aspect of the term of any faith-relationship: 
+The text stresses the double aspect of the term of any faith-relationship: *it is a relationship to a person who SAYS, as well as to what the person SAYS*. [*A MATTER OF COMMUNICATION OF KNOWLEDGE: NO SAYING, NO FAITH*]. Both aspects are involved in faith, inseparably. But not exactly in the same way. The trust in the person who says is primary (*principale*), for it is by virtue of it that what the person says is assented to. Thus, what the person says and is assented to is no less an aspect of faith, but it is secundary (*secundaria sunt*). Furthermore, the assent to what the person says is, in the case of faith, assent of a special kind, for it is prompted or motivated not by the evidence of what one assents to but by the will (*sua voluntate assentit*). Finally, it is worth pointing out that Aquinas, like the Fathers, when he deals with the Christian faith in particular, understands it specifically as a relationship to the God of Christianity, for he explicitly names Christ as the principal term of the relationship (*assentit Christo*).
 
-it is a relationship to a person who SAYS, as well as to what the person SAYS
+The second question of II, IIae, is devoted to a detailed analysis of "the interior act of faith." What, precisely, is the role played by the intellect? To believe, says Aquinas, is "to think with assent," provided that the assent included in the thinking that is characteristic of faith be firm and unrestricted, as it is when one genuinely knows. That sort of assent is, in fact, what distinguishes the thinking that is characteristic of faith from the thinking involved in such other intellectual acts as suspecting, doubting, or opinating, on the one hand, and in the act of knowing, on the other:
 
-. [
+"...this act, *to believe*, cleaves firmly to one side, in which respect belief has something in common with science and understanding; yet its knowledge does not attain the perfection of clear vision, wherein it agrees with doubt, suspicion and opinion. Hence it is proper to the believer to think with assent; so that the act of believing is distinguished from all other acts of the intellect which are about the true or the false" (p. 1075, Pegis).
 
-A MATTER OF COMMUNICATION OF KNOWLEDGE: NO SAYING, NO FAITH
+Faith is, therefore, at least in a certain regard, an act of the intellect, much as suspecting, doubting, opinating, and knowing are. This is why all of them are modes of "thinking." But the person who suspects, or doubts, or opinates does not *know*, and, thus, either cannot assent at all, or at least cannot assent firmly and unrestrictedly. The person who believes, by contrast, does assent firmly. And so does the person who knows. In this respect, believing is like knowing. However, the person who knows does not *believe*, for his assent rests on compelling evidence, on "vision." In this other respect, therefore, believing is unlike knowing.
 
-]. Both aspects are involved in faith, inseparably. But not exactly in the same way. The trust in the person who says is primary (
-
-principale
-
-), for it is by virtue of it that what the person says is assented to. Thus, what the person says and is assented to is no less an aspect of faith, but it is secundary (
-
-secundaria sunt
-
-). Furthermore, the assent to what the person says is, in the case of faith, assent of a special kind, for it is prompted or motivated not by the evidence of what one assents to but by the will (
-
-sua voluntate assentit
-
-). Finally, it is worth pointing out that Aquinas, like the Fathers, when he deals with the Christian faith in particular, understands it specifically as a relationship to the God of Christianity, for he explicitly names Christ as the principal term of the relationship (
-
-assentit Christo
-
-).
-
- The second question of II, IIae, is devoted to a detailed analysis of "the interior act of faith." What, precisely, is the role played by the intellect? To believe, says Aquinas, is "to think with assent," provided that the assent included in the thinking that is characteristic of faith be firm and unrestricted, as it is when one genuinely knows. That sort of assent is, in fact, what distinguishes the thinking that is characteristic of faith from the thinking involved in such other intellectual acts as suspecting, doubting, or opinating, on the one hand, and in the act of knowing, on the other:
-
-"...this act, 
-
-to believe
-
-, cleaves firmly to one side, in which respect belief has something in common with science and understanding; yet its knowledge does not attain the perfection of clear vision, wherein it agrees with doubt, suspicion and opinion. Hence it is proper to the believer to think with assent; so that the act of believing is distinguished from all other acts of the intellect which are about the true or the false" (p. 1075, Pegis).
-
-Faith is, therefore, at least in a certain regard, an act of the intellect, much as suspecting, doubting, opinating, and knowing are. This is why all of them are modes of "thinking." But the person who suspects, or doubts, or opinates does not 
-
-know
-
-, and, thus, either cannot assent at all, or at least cannot assent firmly and unrestrictedly. The person who believes, by contrast, does assent firmly. And so does the person who knows. In this respect, believing is like knowing. However, the person who knows does not 
-
-believe
-
-, for his assent rests on compelling evidence, on "vision." In this other respect, therefore, believing is unlike knowing.
-
-Another text from the 
-
-Summa
-
- renders the similarities and dissimilarities between faith and knowledge still more perspicuous:
+Another text from the *Summa* renders the similarities and dissimilarities between faith and knowledge still more perspicuous:
 
 "Faith signifies the assent of the intellect to that which is believed. Now the intellect assents to a thing in two ways. First, through being moved to assent by its very object, which is known either by itself (as in the case of principles, which are held by the habit of understanding), or through something else already known (as in the case of conclusions which are held by the habit of science). Secondly, the intellect assents to something, not through being sufficiently moved to this assent by its proper object, but through an act of choice, whereby it turns voluntarily to one side rather than to the other. Now if this be accompanied by doubt and fear of the opposite side, there will be opinion; while, if there be certainty and no fear of the other side, there will be faith.
 
-"Now 
+"Now *those things are said to be seen which, of themselves, move the intellect or the senses to knowledge of them*. *Therefore it is evident that neither faith nor opinion can be of things seen either by the senses or the intellect*" (II, IIae, l, 4; p. 1060).
 
-those things are said to be seen which, of themselves, move the intellect or the senses to knowledge of them
+The sense of this text is so transparent concerning the fundamental role played by evidence in the case of "knowledge" that it demands no explanation. If further corroboration and declaration is needed, we find both in the section of the *Summa* in which Aquinas investigates "How God is known by us." This is what he has to say in reply to an objection:
 
-. 
+"*Faith is a kind of knowledge, as much as the intellect is determined by faith to some knowable object*. But this determination to one object does not proceed from the vision of the believer, but from the vision of Him Who is believed. Thus, as far as faith falls short of vision, it falls short of the nature which knowledge has when it is science; for science determines the intellect to one object by the vision and understanding of first principles." (I, 12, 12, p. 111).
 
-Therefore it is evident that neither faith nor opinion can be of things seen either by the senses or the intellect
-
-" (II, IIae, l, 4; p. 1060).
-
-The sense of this text is so transparent concerning the fundamental role played by evidence in the case of "knowledge" that it demands no explanation. If further corroboration and declaration is needed, we find both in the section of the 
-
-Summa
-
- in which Aquinas investigates "How God is known by us." This is what he has to say in reply to an objection: 
-
-"
-
-Faith is a kind of knowledge, as much as the intellect is determined by faith to some knowable object
-
-. But this determination to one object does not proceed from the vision of the believer, but from the vision of Him Who is believed. Thus, as far as faith falls short of vision, it falls short of the nature which knowledge has when it is science; for science determines the intellect to one object by the vision and understanding of first principles." (I, 12, 12, p. 111). 
-
-Faith is, therefore, inferior to scientific knowledge (
-
-what Aristotle called "
-
-epistemé
-
-) in that faith lacks "vision," that is, the rationally compelling evidence that compellingly elicits assent and results in "knowledge." On the other hand, as Aquinas states in the very first question of the 
-
-Summa
-
-, faith is not only comparable but even superior to knowledge because of its superior certitude, which rests on God&apos;s veracity and infallibility:
+Faith is, therefore, inferior to scientific knowledge (*what Aristotle called "epistemé*") in that faith lacks "vision," that is, the rationally compelling evidence that compellingly elicits assent and results in "knowledge." On the other hand, as Aquinas states in the very first question of the *Summa*, faith is not only comparable but even superior to knowledge because of its superior certitude, which rests on God's veracity and infallibility:
 
 "... other sciences derive their certitude from the natural light of human reason, which can err, whereas this derives its certitude from the light of the divine science, which cannot err..." (I, 1, 5; p. 9).
 
 That Aquinas sees faith as an intellectual act is, therefore, clear. But this is only one of the two inseparable aspects of the act of faith. Thus, his notion of faith cannot be correctly and fully understood unless one grasps the role played by the will in the act of faith, to which several of the quoted texts have already alluded.
 
-The will&apos;s role is connected with the fact that the assent involved in faith is not prompted by evidence, by "vision." One reaches "knowledge" when one "sees", and thus one cannot anymore "doubt," and does not anymore need to "suspect" or "opinate." As Aquinas reminded us above, "those things are said to be seen which, of themselves, move the intellect or the senses to knowledge of them." But this is not what happens in the case of faith. What, then, prompts the intellect to assent, in this case?
+The will's role is connected with the fact that the assent involved in faith is not prompted by evidence, by "vision." One reaches "knowledge" when one "sees", and thus one cannot anymore "doubt," and does not anymore need to "suspect" or "opinate." As Aquinas reminded us above, "those things are said to be seen which, of themselves, move the intellect or the senses to knowledge of them." But this is not what happens in the case of faith. What, then, prompts the intellect to assent, in this case?
 
 "The intellect of the believer is determined to one object, not by the reason, but by the will, and so assent is taken here for an act of the intellect as determined to one object by the will" (II, IIae, 2, 1, ad 3; pp. l075-6).
 
 This is a restatement of what we had been told above:
 
-"Faith signifies the assent of the intellect to that which is believed. Now the intellect assents to a thing in two ways. First, through being moved to assent by its very object... Secondly, the intellect assents to something, not through being sufficiently moved to this assent by its proper object, 
+"Faith signifies the assent of the intellect to that which is believed. Now the intellect assents to a thing in two ways. First, through being moved to assent by its very object... Secondly, the intellect assents to something, not through being sufficiently moved to this assent by its proper object, *but through an act of choice, whereby it turns voluntarily* to one side rather than to the other (II, IIae, , 1, 4; p. 1060. My emphasis).
 
-but through an act of choice, whereby it turns voluntarily
+## An Intellectualistic Notion of Faith?
 
- to one side rather than to the other (II, IIae, , 1, 4; p. 1060. My emphasis).
+So far Aquinas's notion of faith might seem to be not only the same as the Fathers' but, thanks to the Aristotelian categories he uses, more precise than theirs. For Aquinas's notion specifies the respective roles played by the intellect and the will, attributes to the will the determinant role in that the will prompts the intellect to assent to the particular truths revealed by God, and at least suggests that the "faith *in*" of which the Fathers spoke and which results in the assent to the truths revealed by God--the latter being an aspect of faith which the Fathers had articulated less clearly--consists in the will's adhesion to God.
 
-An intellectualistic notion of faith?
+If the case were such, Aquinas's Aristotelianism would be fully vindicated. There are, however, serious reasons to be less optimistic in this regard. An in-depth examination of Aquinas's notion of faith will indicate, I think, that, in his eagerness to adopt Aristotelian categories in his interpretation of faith, Aquinas might have ended up, much against his own intentions, with a notion of faith that cannot be reconciled with the one he had received from the Christian tradition.
 
- So far Aquinas&apos;s notion of faith might seem to be not only the same as the Fathers&apos; but, thanks to the Aristotelian categories he uses, more precise than theirs. For Aquinas&apos;s notion specifies the respective roles played by the intellect and the will, attributes to the will the determinant role in that the will prompts the intellect to assent to the particular truths revealed by God, and at least suggests that the "faith 
+*In what ways that are pertinent to the present investigation is Aristotle an intellectualist? In at least three ways*. First, his anthropology attributes an absolute primacy to the intellect. What distinguishes the human being from other animals is its rationality. Now, the rationality of the human being resides primarily in the intellect, in the faculty of understanding. True, the will (or what Aquinas more sharply than Aristotle distinguishes as "the will") is rational too, but only derivatively, for it can tend rationally to the good, which is its object, only because the intellect, whose object is the true, makes present to it the truly good rather than the merely attractive. *By itself, the will is a merely appetitive faculty, incapable of discriminating the truly good from the merely attractive, and thus its rationality is derivative*. [OR, TO PUT IT IN ANOTHER WAY, IN THE HUMAN BKEING AJKS RATIONAL THE APPETITIVE FACULTY IS MKEANT TO BE RATIONAL BY BEING SUBORDINATED TO THE UNDERSTANDING FACULTY].
 
-in
+*The second way in which Aristotle is an intellectualist* is closely connected with his interest in genuine knowledge, what he calls *epistemé*. Because that is his main interest and because he identifies the intellect with the knowing faculty, capable of discriminating the true from the false and of assenting rationally to the true on the basis of compelling evidence, the intellectual functions have in Aristotle's works an absolute primacy to which everything else is subordinated.
 
-" of which the Fathers spoke and which results in the assent to the truths revealed by God--the latter being an aspect of faith which the Fathers had articulated less clearly--consists in the will&apos;s adhesion to God.
+*Finally--and this is the third aspect of Aristotle's intellectualism--, because Aristotle himself was above all an intellectual fascinated by knowledge and truth, he identified the highest good to which people naturally aspire and which brings them the highest possible happiness with the contemplative fruition of the truth, that is, with knowledge.*
 
-If the case were such, Aquinas&apos;s Aristotelianism would be fully vindicated. There are, however, serious reasons to be less optimistic in this regard. An in-depth examination of Aquinas&apos;s notion of faith will indicate, I think, that, in his eagerness to adopt Aristotelian categories in his interpretation of faith, Aquinas might have ended up, much against his own intentions, with a notion of faith that cannot be reconciled with the one he had received from the Christian tradition.
-
-In what ways that are pertinent to the present investigation is Aristotle an intellectualist? In at least three ways
-
-. First, his anthropology attributes an absolute primacy to the intellect. What distinguishes the human being from other animals is its rationality. Now, the rationality of the human being resides primarily in the intellect, in the faculty of understanding. True, the will (or what Aquinas more sharply than Aristotle distinguishes as "the will") is rational too, but only derivatively, for it can tend rationally to the good, which is its object, only because the intellect, whose object is the true, makes present to it the truly good rather than the merely attractive. 
-
-By itself, the will is a merely appetitive faculty, incapable of discriminating the truly good from the merely attractive, and thus its rationality is derivative
-
-. [OR, TO PUT IT IN ANOTHER WAY, IN THE HUMAN BKEING AJKS RATIONAL THE APPETITIVE FACULTY IS MKEANT TO BE RATIONAL BY BEING SUBORDINATED TO THE UNDERSTANDING FACULTY]. 
-
-The second way in which Aristotle is an intellectualist
-
- is closely connected with his interest in genuine knowledge, what he calls 
-
-epistemé
-
-. Because that is his main interest and because he identifies the intellect with the knowing faculty, capable of discriminating the true from the false and of assenting rationally to the true on the basis of compelling evidence, the intellectual functions have in Aristotle&apos;s works an absolute primacy to which everything else is subordinated. 
-
-Finally--and this is the third aspect of Aristotle&apos;s intellectualism--, because Aristotle himself was above all an intellectual fascinated by knowledge and truth, he identified the highest good to which people naturally aspire and which brings them the highest possible happiness with the contemplative fruition of the truth, that is, with knowledge. 
-
-Now, whether or not Aristotle was right in his intellectualism is, for our purposes, a moot point. The fact is that Aquinas thought that he was and followed closely his traces in his interpretation of faith. (FOR AN IN-DEPTH STUDY OF AQUINAS&apos;S ARISTOTELIAN EPISTEMOLOGY, SEE LONERGAN&apos;S 
-
-VERBUM AND IDEA IN AQUINAS
-
-). 
+Now, whether or not Aristotle was right in his intellectualism is, for our purposes, a moot point. The fact is that Aquinas thought that he was and followed closely his traces in his interpretation of faith. (FOR AN IN-DEPTH STUDY OF AQUINAS'S ARISTOTELIAN EPISTEMOLOGY, SEE LONERGAN'S *VERBUM AND IDEA IN AQUINAS*).
 
 But what if this Aristotelian framework happens to be unfit for the Christian faith, with which the Fathers concerned themselves? To the examination of this possibility I now turn.
 
-  
+Is Aquinas's notion of faith overly and improperly intellectualistic to the point of distorting the Christian faith? If so, we should expect it to be such in a rather subtle way, for otherwise Aquinas himself would have realized it and, given his attachment to the Christian tradition, he would undoubtedly have sacrificed the Aristotelian framework rather than the notion of faith he received from the Fathers and in which he recognized his own faith.
 
-Is Aquinas&apos;s notion of faith overly and improperly intellectualistic to the point of distorting the Christian faith? If so, we should expect it to be such in a rather subtle way, for otherwise Aquinas himself would have realized it and, given his attachment to the Christian tradition, he would undoubtedly have sacrificed the Aristotelian framework rather than the notion of faith he received from the Fathers and in which he recognized his own faith. 
+*Let us, therefore, pay careful attention to the subtle signs and reserve our final judgment for the time when their accumulation constrains us to pass judgment for or against.* Indeed, what at the beginning might appear as a hardly visible fissure that separates Aquinas notion of faith from that of the Fathers may, in time, turn out out to be a clearly visible and truly significant divergence.
 
-Let us, therefore, pay careful attention to the subtle signs and reserve our final judgment for the time when their accumulation constrains us to pass judgment for or against.
+I started my presentation of Aquinas's notion of faith by referring to a text in which he distinguishes two aspects: the confidence one has in God, and the assent one gives to what God reveals. The former he considers "the principal" aspect of faith, and the latter "secondary." Faith is, primarily and mainly, a relationship in which one stands to God by believing in, or having confidence in, Him. Because one trusts God, one "wills" (or decides, or chooses) to assent to what God says. Faith, therefore, involves an intellectual act of assent, but this intellectual act is secondary and subordinated to the trustful submission of the will to God.
 
- Indeed, what at the beginning might appear as a hardly visible fissure that separates Aquinas notion of faith from that of the Fathers may, in time, turn out out to be a clearly visible and truly significant divergence.
+Aquinas's own emphasis on faith as a relationship to the personal God of Christianity seems to coincide with the Fathers' notion. True, Aquinas uses the Aristotelian idiom, which allows him to understand more precisely than the Fathers the respective contributions of the intellect and of the will in the act of faith. But the notion itself, one would say, remains the same. After all, the Fathers, too, especially the more philosophically alert among them, realized that the "pístis eis" or the "fides in" involved both an element of trust in the God of Christianity and an element of assent to what He revealed. Did not Augustine, following Ambrose, distinguish between "credere Deo" (to have trust in God), and "credere Deum" (to believe something about God)? Granted, Augustine explicitly denied that the latter was "faith," for the demons believe certain true things about God but do not have "faith." But what Augustine denies is, not that to believe things about God is an aspect of faith, but that this aspect by itself can be equated with faith. In short, the reason why the demons do not have "faith," according to Augustine, is not that they believe certain true things about God, but that this belief, in their case, is not part and parcel of, and inspired by, the loving, total commitment to God that characterizes "faith." Now, not only is Aquinas quite aware that he is in continuity with the Fathers when he includes the assent to what God says as an aspect of faith, but he explicitly refers himself to the Patristic origin of his view. He raises the question "whether the act of faith is suitably distinguished as believing God, believing in a God, and believing in God" (II, IIae, 2, 2). After, as is his custom, presenting the possible objections to the answer he will give, he triumphantly state that Augustine is on his side: "On the contrary is the authority of Augustine who makes this distinction" (Serm. CXLIV, 2--PL 38, 788); Tract. XXIX, super Ioann, VII, 17 (PL 35, 1631). [SEE ALSO IN SENTENTIAS, D. 23, 2, 2, 2; AND 3 D. 23, 2, 2, 2, AD 1; AND VER. 14, 7, AD 7). CF. JOSEPH PIEPER, *BELIEF AND FAITH; A PHILOSOPHICAL TRACT*, PANTHEON BOOKS, NEW YORK 1963, PP. 53-54, NOTES 7, 8, AND 90).
 
-I started my presentation of Aquinas&apos;s notion of faith by referring to a text in which he distinguishes two aspects: the confidence one has in God
+On second thoughts, however, one wonders whether we are not confronted here with a first sign of a real and important divergence between Aquinas notion of faith and that of the Fathers. Let us forget, for the moment, the "secondary" aspect of faith to concentrate on "the principal"--faith *in* God, rather than believing what God says.
 
-, and the assent one gives to what God reveals. The former he considers "the principal" aspect of faith, and the latter "secondary." Faith is, primarily and mainly, a relationship in which one stands to God by believing in, or having confidence in, Him. Because one trusts God, one "wills" (or decides, or chooses) to assent to what God says. Faith, therefore, involves an intellectual act of assent, but this  intellectual act is secondary and subordinated to the trustful submission of the will to God.
+*The very analogy that Aquinas considers paradigmatic of the faith situation is already heavily intellectualistic. Indeed, the trust in the person, given the situation chosen by Aquinas as his model for faith, is trust of a particular kind, trust in the person's veracity, trust that whatever the person SAYS is true*. Both of these terms refer exclusively to the intellect.
 
-Aquinas&apos;s own emphasis on faith as a relationship to the personal God of Christianity seems to coincide with the Fathers&apos; notion. True, Aquinas uses the Aristotelian idiom, which allows him to understand more precisely than the Fathers the respective contributions of the intellect and of the will in the act of faith. But the notion itself, one would say, remains the same. After all, the Fathers, too, especially the more philosophically alert among them, realized that the "pístis eis" or the "fides in" involved both an element of trust in the God of Christianity and an element of assent to what He revealed. Did not Augustine, following Ambrose, distinguish between "credere Deo" (to have trust in God), and "credere Deum" (to believe something about God)? Granted, Augustine explicitly denied that the latter was "faith," for the demons believe certain true things about God but do not have "faith." But what Augustine denies is, not that to believe things about God is an aspect of faith, but that this aspect by itself can be equated with faith. In short, the reason why the demons do not have "faith," according to Augustine, is not that they believe certain true things about God, but that this belief, in their case, is not part and parcel of, and inspired by, the loving, total commitment to God that characterizes "faith." Now, not only is Aquinas quite aware that he is in continuity with the Fathers when he includes the assent to what God says as an aspect of faith, but he explicitly refers himself to the Patristic origin of his view. He raises the question "whether the act of faith is suitably distinguished as believing God, believing in a God, and believing in God" (II, IIae, 2, 2). After, as is his custom, presenting the possible objections to the answer he will give, he triumphantly state that Augustine is on  his side: "On the contrary is the authority of Augustine who makes this distinction" (Serm. CXLIV, 2--PL 38, 788); Tract. XXIX, super Ioann, VII, 17 (PL 35, 1631). [SEE ALSO IN SENTENTIAS, D. 23, 2, 2, 2; 
+*Now, there is another kind of trust, of faith in a person, which does not exclude the trust of which Aquinas is speaking--the trust in the person's reliability concerning truth--but which goes far beyond that. One can trust a physician as a diagnostician--he is reliable and, let us assume, even infallible in his diagnostics--without necessarily trusting him in other no less important matters, such as his care and concern for his patients or his sexual morality.* Certainly, the Fathers' notion of faith included trust in God's veracity, but this was only one among the many aspects of the total commitment of the Christian to God involved in their notion of faith. By contrast, *the very model from which Aquinas draws his notion of faith is a relationship that includes and demands no other form of trust than trust in the veracity and knowledge of the person trusted*.
 
- AND 3 D. 23, 2, 2, 2, AD 1; AND VER. 14, 7, AD 7). CF. JOSEPH PIEPER, 
+If we are to take seriously this model, "to believe in God" is, for Aquinas, to adhere to a God who is totally reliable in what He reveals. Consequently, what he means by the "principal" aspect of *faith is an adhesion to God that consists in the willingness to assent* to Him, nothing else or more; in accordance with this, the "secondary" aspect of faith consists in actual *assent* to the truths revealed by God. For the Fathers, however, faith is not primarily--much less exclusively--an intellectual relationship to God; it is an adhesion to God which involves much more, and cannot possibly be reduced without loss and distortion, to a mere willingness to assent, even if that willingness is manifested in actual assent to each of the truths revealed by God.
 
-BELIEF AND FAITH; A PHILOSOPHICAL TRACT
+My distinction between two kinds of trust or forms of "faith in" may sound like mere hair-splitting--too thin a basis to ground the less than trivial claim that Aquinas's notion of faith is different from that of the Christian tradition. Though I personally think that the model of faith on which Aquinas works is defective and is the source of his different notion of faith, I willingly admit that, at this point, my thesis needs much more support to become persuasive. After all, I may be illegitimately projecting Aquinas into an intellectuallistic corner where he does not belong at all, given his insistence on the role played by the will in faith. However, at this point the hypotheisis is not excluded, on the other hand, that Aquinas's own Aristotelian categories are the gravitational pull that projects him into that corner, much against his intentions and certainly without his realizing it. To decide which is actually the case we have to investigate further.
 
-, PANTHEON BOOKS, NEW YORK 1963, PP. 53-54, NOTES 7, 8, AND 90). 
+For the purpose of this investigation, it will be useful to keep in mind the conception of the intellect and of the will that Aquinas shares with Aristotle. According to a fundamental Aristotelian principle of which Aquinas himself reminds us in his treatise on faith, "habits are known by their acts, and acts by their objects" (II, IIae, 4, 1; p. 1095). Thus, if the intellect and the will differ both in their respective objects and in their respective acts, they have to be different faculties, as in fact they are for Aquinas, and less explicitly for Aristotle. For the object of the intellect is the true, whereas the object of the will is the good; and the acts of the intellect are such as knowing, doubting, suspecting, opinating, etc., whereas desiring, loving, choosing, rejecting, abhorring, etc., are the very different acts of the will. Hence, the faculties themselves are different, the intellect being a cognitive faculty, and the will an appetitive one.
 
-On second thoughts, however, one wonders whether we are not confronted here with a first sign of a real and important divergence between Aquinas notion of faith and that of the Fathers. Let us forget, for the moment, the "secondary" aspect of faith to concentrate on "the principal"--faith 
+As to the way in which those faculties are coordinated in the act of faith, we already know that the will plays the more important role, for it is the will that trusts in God--and this is "the principal" in the case of faith--and it is the will that, on the basis of that trust, prompts the intellect to assent to what God reveals, which is "secondary." Now, according to this hierarchy of primacy or importance, one would expect Aquinas, when he considers faith as an act, to define faith as being primarily an act of the will and to concentrate his attention on faith as trust *in* God. Oddly enogh, he does exactly the opposite. Indeed, from the previously quoted texts we know in great detail how the assent of the intellect obtains, how faith is a mode of "thinking," and how it differs from such other intellectual acts as doubting, opinating, suspecting, and knowing--all of which has primarily to do with the intellect. But what has he told us about the will's trust in God? Hardly anything, except that it is an aspect of the act of faith and that it is fundamental. If it is so fundamental, however, why does Aquinas show so little interest in exploring it in at least the same depth in which he explores the intellectual aspect? Might this not be another subtle indicator of the gravitational pull under which Aquinas has fallen?
 
-in
-
- God, rather than believing what God says. 
-
-The very analogy that Aquinas considers paradigmatic of the  faith situation is already heavily intellectualistic. Indeed, the trust in the person, given the situation chosen by Aquinas as his model for faith, is trust of a particular kind, trust in the person&apos;s veracity, trust that whatever the person SAYS is true
-
-. Both of these terms refer exclusively to the intellect. 
-
-Now, there is another kind of trust, of faith in a person, which does not exclude the trust of which Aquinas is speaking--the trust in the person&apos;s reliability concerning truth--but which goes far beyond that. One can trust a physician as a diagnostician--he is reliable and, let us assume, even infallible in his diagnostics--without necessarily trusting him in other no less important matters, such as his care and concern for his patients or his sexual morality.
-
- Certainly, the Fathers&apos; notion of faith included trust in God&apos;s veracity, but this was only one among the many aspects of the total commitment of the Christian to God involved in their notion of faith. By contrast, 
-
-the very model from which Aquinas draws his notion of faith is a relationship that includes and demands no other form of trust than trust in the veracity and knowledge of the person trusted
-
-.
-
-If we are to take seriously this model, "to believe in God" is, for Aquinas, to adhere to a God who is totally reliable in what He reveals. Consequently, what he means by the "principal" aspect of 
-
-faith is an adhesion to God that consists in the
-
-willingness to assent
-
- to Him, nothing else or more; in accordance with this, the "secondary" aspect of faith consists in actual 
-
-assent
-
- to the truths revealed by God. For the Fathers, however, faith is not primarily--much less exclusively--an intellectual relationship to God; it is an adhesion to God which involves much more, and cannot possibly be reduced without loss and distortion, to a mere willingness to assent, even if that willingness is manifested in actual assent to each of the truths revealed by God. 
-
-My distinction between two kinds of trust or forms of "faith in" may sound like mere hair-splitting--too thin a basis to ground the less than trivial claim that Aquinas&apos;s notion of faith is different from that of the Christian tradition. Though I personally think that the model of faith on which Aquinas works is defective and is the source of his different notion of faith, I willingly admit that, at this point, my thesis needs much more support to become persuasive. After all, I may be illegitimately projecting Aquinas into an intellectuallistic corner where he does not belong at all, given his insistence on the role played by the will in faith. However, at this point the hypotheisis is not excluded, on the other hand, that Aquinas&apos;s own Aristotelian categories are the gravitational pull that projects him into that corner, much against his intentions and certainly without his realizing it. To decide which is actually the case we have to investigate further.
-
-For the purpose of this investigation, it will be useful to keep in mind the conception of the intellect and of the will that Aquinas shares with Aristotle. According to a fundamental Aristotelian principle of which Aquinas himself reminds us in his treatise on faith, "habits are known by their acts, and acts by their objects" (II, IIae, 4, 1; p. 1095). Thus, if the intellect and the will differ both in their respective objects and in their respective acts, they have to be different faculties, as in fact they are for Aquinas, and less explicitly for Aristotle. For the object of the intellect is the true, whereas the object of the will is the good; and the acts of the intellect are such as knowing, doubting, suspecting, opinating, etc., whereas  desiring, loving, choosing, rejecting, abhorring, etc., are the very different acts of the will. Hence, the faculties themselves are different, the intellect being a cognitive faculty, and the will an appetitive one.
-
-As to the way in which those faculties are coordinated in the act of faith, we already know that the will plays the more important role, for it is the will that trusts in God--and this is "the principal" in the case of faith--and it is the will that, on the basis of that trust, prompts the intellect to assent to what God reveals, which is "secondary." Now, according to this hierarchy of primacy or importance, one would expect Aquinas, when he considers faith as an act, to define faith as being primarily an act of the will and to concentrate his attention on faith as trust 
-
-in
-
- God. Oddly enogh, he does exactly the opposite. Indeed, from the previously quoted texts we know in great detail how the assent of the intellect obtains, how faith is a mode of "thinking," and how it differs from such other intellectual acts as doubting, opinating, suspecting, and knowing--all of which has primarily to do with the intellect. But what has he told us about the will&apos;s trust in God? Hardly anything, except that it is an aspect of the act of faith and that it is fundamental. If it is so fundamental, however, why does Aquinas show so little interest in exploring it in at least the same depth in which he explores the intellectual aspect? Might this not be another subtle indicator of the gravitational pull under which Aquinas has fallen?
-
-At any rate, if in fact Aquinas attributes the primacy to the will in the act of faith, his definition of the act of faith will have to take approximately the following shape: Believing in God is the act by which the will, in the absence of evidence that would compel the intellect to assent, but on the basis of its trust in God, prompts the intellect to assent to what God reveals. Is this the shape that Aquinas&apos;s definition takes? Does Aquinas characterize the act of faith as being primarily an act of the will? Let us listen to him. 
+At any rate, if in fact Aquinas attributes the primacy to the will in the act of faith, his definition of the act of faith will have to take approximately the following shape: Believing in God is the act by which the will, in the absence of evidence that would compel the intellect to assent, but on the basis of its trust in God, prompts the intellect to assent to what God reveals. Is this the shape that Aquinas's definition takes? Does Aquinas characterize the act of faith as being primarily an act of the will? Let us listen to him.
 
 Aquinas raises the question "whether faith resides in the intellect [or in the will]." His answer is that
 
-"to believe is immediately an act of the intellect, because the object of that act is 
+"to believe is immediately an act of the intellect, because the object of that act is *the true*, which pertains properly to the intellect. Consequently faith, which is the proper principle of that act, must needs reside in the intellect" (II, IIae, 4, 3).
 
-the true
+One cannot fail to observe the important shift that has taken place. We had been led by Aquinas himself to think, on the basis of his model of faith, that to believe is primarily and principally an adhesion of the will to God. Now it turns out that, for Aquinas, it is really a matter of the intellect, because what one believes is the true, and the true is the object of the intellect, not of the will. This, of course, corresponds perfectly to the secondary aspect of faith, which consists in assenting to what God reveals, because assenting is an act of the intellect, but, unless I am badly mistaken, does not correspond to the primary act of faith, which is a deed of the will. Faith, therefore, properly speaking, has become an act of the intellect, not a volitional act, and that is why it 'resides in the intellect,'immediately.
 
-, which pertains properly to the intellect. Consequently faith, which is the proper principle of that act, must needs reside in the intellect" (II, IIae, 4, 3).
+Of course, the implication is that, though not *immediately*, faith is *also* an act of the will, for otherwise Aquinas would be denying what he had so forcefully affirmed, to wit: that the intellect assents not because of the evidence of what God reveals but because it is prompted to do so by the will. Moreover, although the text I quoted comes in a section that deals with faith as a virtue rather than as an act, Aquinas makes clear in it that he considers the habit of the will as much an integral part of the virtue of faith as the habit of *the intellect, and explicitly states that "this act [of faith] proceeds from the will and the intellect, both of which have a natural aptitude to be perfected by a habit..." (ibid.). However, it is difficult, at least for me, to escape the feeling that Aquinas is progressively reducing the notion of faith to its secondary aspect and, by the same token, relegating the will to a secondary role.
 
-One cannot fail to observe the important shift that has taken place. We had been led by Aquinas himself to think, on the basis of his model of faith, that to believe is primarily and principally an adhesion of the will to God. Now it turns out that, for Aquinas, it is really a matter of the intellect, because what one believes is the true, and the true is the object of the intellect, not of the will. This, of course, corresponds perfectly to the secondary aspect of faith, which consists in assenting to what God reveals, because assenting is an act of the intellect, but, unless I am badly mistaken, does not correspond to the primary act of faith, which is a deed of the will. Faith, therefore, properly speaking, has become an act of the intellect, not a volitional act, and that is why it &apos;resides in the intellect,&apos;immediately. 
+Vague feelings, of course, will not carry us very far in these matters. We need to find out where Aquinas actually stands. We gain a more precise idea in his treatment of "formless faith," that is, mere faith not informed by charity. Does such formless *faith really qualify as "faith"? Yes, answers Aquinas unequivocally. But what interests us in particular is the reason for his answer:
 
-Of course, the implication is that, though not 
+"... since faith is a perfection of the intellect, that pertains *essentially* to faith which pertains to the intellect. Now *what pertains to the will does not pertain directly to faith*..." (II, IIae, 4, 4; my emphasis).
 
-immediately
+Aquinas is not known for his imprecision. When he writes "essentially" he means what he writes. Thus, what pertains to the will is not part and parcel of the essence of faith. The will's prompting of the intellect is, of course, required for the intellect's assent to obtain, but it is not itself a constitutive of faith. [THIS IS WHY DE LUBAC CONCLUDES THAT IN AQUINAS'S NOTION OF FAITH THE WILL PLAYS AN EXTRINSIC ROLE AND, THEREFORE,OCCUPIES A SORT OF SECONDARY PLACE, WHICH PLACES HIM OUT OF THE PATRISTIC TRADITION]. Now, if Aquinas really means that charity, that is, the love of God, is not part and parcel of what he understands by faith, then clearly his notion of faith is different from that of the Fathers. But what else is he saying here?
 
-, faith is 
+Lest we think that this constitutes a mere slip of the penn on his part, in the previous article Aquinas explicitly clarifies that the participation of the will in faith is purely extrinsic. Responding to the objection that charity cannot be the form of faith, as he holds it to be, because "faith is in the intellect and charity is in the will," he replies that "This objection is true of an *intrinsic* form. *But it is not thus that charity is the form of faith*, but in the sense that it quickens the act of faith, as explained above" (II, IIae, 4, 3, ad 2; my emphasis). This, of course, is consistent with such other points already made by Aquinas as that "faith resides in the intellect," not in the will, and that believing is a form of "thinking," not a volitional act. Indeed, this is why the will can participate only extrinsically in the act of faith by prompting or "quickening" the intellect to assent to what God says, *without being itself the faculty that believes*. But, though consistent with other points made by Aquinas, it is not consistent with the Fathers' notion of faith. It reveals, in fact, a different notion of faith from theirs, for the total response to God in which faith consists according to the Fahters has become merely an assent of the intellect to what God reveals.
 
-also
+Is this difference simply due to the fact that the Fathers did not think their faith in terms of the intellect and the will? Or is it, rather, that thinking in those Aristotelian terms constrains Aquinas to change the notion of faith he inherited from the Fathers and breaks his continuity with them? We will be in a better position to settle the question when we have taken all the data into account. What for the moment seems unmistakable is that, in Aquinas's analysis of the act of faith, what he declared principal becomes secundary; that Aquinas's attention is focussed on the assent to what is revealed, and that, consequently, the participation of the will becomes avowedly extrinsic. Faith resides in the intellect. The will does not believe; it makes the intellect believe.
 
- an act of the will, for otherwise Aquinas would be denying what he had so forcefully affirmed, to wit: that the intellect assents not because of the evidence of what God reveals but because it is prompted to do so by the will. Moreover, although the text I quoted comes in a section that deals with faith as a virtue rather than as an act, Aquinas makes clear in it that he considers the habit of the will as much an integral part of the virtue of faith as the habit of 
+Is it true, however, that Aquinas ends up forgetting the primacy he originally accorded to the adhesion of the will to God to grant it finally to the assent to what God reveals? That is, at any rate, what I gather from his answer to the question "whether faith is the first of the virtues":
 
-the intellect, and explicitly states that "this act [of faith] proceeds from the will and the intellect, both of which have a natural aptitude to be perfected by a habit..." (ibid.). However, it is difficult, at least for me, to escape the feeling that Aquinas is progressively reducing the notion of faith to its secondary aspect and, by the same token, relegating the will to a secondary role.
+"*.. the last end must of necessity be present in the intellect before it is present in the will, since the will has no inclination for anything except in so far as it is apprehended by the intellect.*
 
-Vague feelings, of course, will not carry us very far in these matters. We need to find out where Aquinas actually stands. We gain a more precise idea in his treatment of "formless faith," that is, mere faith not informed by charity. Does such formless 
+*Hence, since the last end is present in the will by hope and charity, and in the intellect, by faith, the first of all the virtues must, of necessity, be faith, because natural knowledge cannot reach God as the object of heavenly beatitude, which is the aspect under which hope and charity tend towards Him*" (II, IIae, 4, 7).
 
-faith really qualify as "faith"? Yes, answers Aquinas unequivocally. But what interests us in particular is the reason for his answer: 
+This, it seems to me, amounts to saying that the intellect has *first* to assent to, that is, know, God as being the last end capable of fulfilling our aspirations, so that, *then*, the will may adhere to God through hope and charity, "since the will has no inclination for anything except in so far as it is apprehended by the intellect." This, indeed, is why Aquinas concludes that "the *first* of all the virtues must, *of necessity*, be faith." But is this not tantamount to granting to the intellect the priority that he had previously accorded to the will in the act of faith, so that whatever does not "reside in the intellect" becomes more and more extrinsic to faith? And does this not constitute a very different notion of faith from that of the Fathers, for whom what they called "faith" was inconceivable and inseparable from hope and charity, without any possible primacy of one of its aspects over the others precisely because they saw them as *aspects* of *the same* relationship of the Christian to God?
 
-"... since faith is a perfection of the intellect, that pertains 
-
-essentially
-
- to faith which pertains to the intellect. Now 
-
-what pertains to the will does not pertain directly to faith
-
-..." (II, IIae, 4, 4; my emphasis).
-
-Aquinas is not known for his imprecision. When he writes "essentially" he means what he writes. Thus, what pertains to the will is not part and parcel of the essence of faith. The will&apos;s prompting of the intellect is, of course, required for the intellect&apos;s assent to obtain, but it is not itself a constitutive of faith. [THIS IS WHY DE LUBAC CONCLUDES THAT IN AQUINAS&apos;S NOTION OF FAITH THE WILL PLAYS AN EXTRINSIC ROLE AND, THEREFORE,OCCUPIES A SORT OF SECONDARY PLACE, WHICH PLACES HIM OUT OF THE PATRISTIC TRADITION]. Now, if Aquinas really means that charity, that is, the love of God, is not part and parcel of what he understands by faith
-
-, then clearly his notion of faith is different from that of the Fathers. But what else is he saying here? 
-
-Lest we think that this constitutes a mere slip of the penn on his part, in the previous article Aquinas explicitly clarifies that the participation of the will in faith is purely extrinsic. Responding to the objection that charity cannot be the form of faith, as he holds it to be, because "faith is in the intellect and charity is in the will," he replies that "This objection is true of an 
-
-intrinsic
-
- form. 
-
-But it is not thus that charity is the form of faith
-
-, but in the sense that it quickens the act of faith, as explained above" (II, IIae, 4, 3, ad 2; my emphasis). This, of course, is consistent with such other points already made by Aquinas as that "faith resides in the intellect," not in the will, and that believing is a form of "thinking," not a volitional act. Indeed, this is why the will can participate only extrinsically in the act of faith by prompting or "quickening" the intellect to assent to what God says, 
-
-without being itself the faculty that believes
-
-. But, though consistent with other points made by Aquinas, it is not consistent with the Fathers&apos; notion of faith. It reveals, in fact, a different notion of faith from theirs, for the total response to God in which faith consists according to the Fahters has become merely an assent of the intellect to what God reveals.
-
-Is this difference simply due to the fact that the Fathers did not think their faith in terms of the intellect and the will? Or is it, rather, that thinking in those Aristotelian terms constrains Aquinas to change the notion of faith he inherited from the Fathers and breaks his continuity with them? We will be in a better position to settle the question when we have taken all the data into account. What for the moment seems unmistakable is that, in Aquinas&apos;s analysis of the act of faith, what he declared principal becomes secundary; that Aquinas&apos;s attention is focussed on the assent to what is revealed, and that, consequently, the participation of the will becomes avowedly extrinsic. Faith resides in the intellect. The will does not believe; it makes the intellect believe. 
-
- Is it true, however, that Aquinas ends up forgetting the primacy he originally accorded to the adhesion of the will to God to grant it finally to the assent to what God reveals? That is, at any rate, what I gather from his answer to the question "whether faith is the first of the virtues":
-
-"
-
-.. the last end must of necessity be present in the intellect before it is present in the will, since the will has no inclination for anything except in so far as it is apprehended by the intellect.
-
-Hence, since the last end is present in the will by hope and charity, and in the intellect, by faith, the first of all the virtues must, of necessity, be faith, because natural knowledge cannot reach God as the object of heavenly beatitude, which is the aspect under which hope and charity tend towards Him"
-
- (II, IIae, 4, 7). 
-
-This, it seems to me, amounts to saying  that the intellect has 
-
-first
-
- to assent to, that is, know, God as being the last end capable of fulfilling our aspirations, so that, 
-
-then
-
-, the will may adhere to God through hope and charity, "since the will has no inclination for anything except in so far as it is apprehended by the intellect."  This, indeed, is why Aquinas concludes that "the 
-
-first
-
- of all the virtues must, 
-
-of necessity
-
-, be faith." But is this not tantamount to granting to the intellect the priority that he had previously accorded to the will in the act of faith, so that whatever does not "reside in the intellect" becomes more and more extrinsic to faith? And does this not constitute a very different notion of faith from that of the Fathers, for whom what they called "faith" was inconceivable and inseparable from hope and charity,  without any possible primacy of one of its aspects over the others precisely because they saw them as 
-
-aspects
-
- of 
-
-the same
-
- relationship of the Christian to God?
-
-What is worse, it seems that in his increasing intellectuallization of faith under the pressure of the Aristotelian view of the faculties of the soul he has made his, Aquinas reaches a point at which he cannot remain fully coherent with the role he had initially attributed to the will. For how can the will, which apprehends nothing but what is presented to it by the intellect, fulfill the function of quickening the intellect&apos;s assent in the case of faith? If the will needs the assent of the intellect to God being man&apos;s end to start aspiring to God as its end, which is what Aquinas just said, it becomes unintelligible how the will can prompt that assent. How, indeed, can Aquinas, at the same time, maintain that the intellect has first to assent to God as being our ultimate end in order for the will to aspire to that end, 
-
-and
-
- that the will is the one that prompts the intellect to assent? Aquinas senses the problem in which he finds himself and presents it under the form of an objection:
+What is worse, it seems that in his increasing intellectuallization of faith under the pressure of the Aristotelian view of the faculties of the soul he has made his, Aquinas reaches a point at which he cannot remain fully coherent with the role he had initially attributed to the will. For how can the will, which apprehends nothing but what is presented to it by the intellect, fulfill the function of quickening the intellect's assent in the case of faith? If the will needs the assent of the intellect to God being man's end to start aspiring to God as its end, which is what Aquinas just said, it becomes unintelligible how the will can prompt that assent. How, indeed, can Aquinas, at the same time, maintain that the intellect has first to assent to God as being our ultimate end in order for the will to aspire to that end, *and* that the will is the one that prompts the intellect to assent? Aquinas senses the problem in which he finds himself and presents it under the form of an objection:
 
 "The order of habits is taken from the order of acts. Now in the act of faith, the act of the will, which is perfected by charity, precedes the act of the intellect, which is perfected by faith, as the cause which precedes its effect. Therefore charity precedes faith. Therefore faith is not the first of the virtues." (II, IIae, 4, 3. obj. 5)
 
 This is the way in which Aquinas answers:
 
-"Some act of the will is required before faith, but not an act of the will quickened by charity. This latter act presupposes faith, because the will cannot tend to God with perfect love unless the intellect possesses a right faith about Him" (
+"Some act of the will is required before faith, but not an act of the will quickened by charity. This latter act presupposes faith, because the will cannot tend to God with perfect love unless the intellect possesses a right faith about Him" (*ibid*., ad 5).
 
-ibid
+May I honestly say that I find this solution totally unsatisfactory? What, indeed, is this "some act" of the will required before faith? If it is required before faith, then it is not itself part and parcel of the act of faith. Now, this squares with Aquinas's idea that the role of the will is extrinsic to faith. But it does not square at all with the role Aquinas had previously assigned to the will. For this "some act" cannot be but the trust *in* God by which the will is motivated to quicken the intellect to assent to what God reveals. It turns out now, however, that the will cannot trust God unless and until the intellect assents to God as being the good to which the will is destined to tend. How, then, can the will prompt the assent of the intellect, lacking all motivation to do so before the intellect enlightens it as to God being the good to which it is supposed to tend? In other words, the problem is not whether the will is or is not "quickened by charity"--which is what Aquinas's answer attempts to deal with--but the impossibility of the will prompting the intellect to assent and, at the same time, not being able to do anything before the intellect assents.
 
- ., ad 5).
+Thus, until I am enlightened by someone who proposes an understanding of this passage that completely escapes me, I am constrained to state that Aquinas's attempt to interpret the act of faith by means of Aristotelian categories not only leads him to an intellectuallistic notion of faith that I have much trouble identifying with the Fathers' notion, but to a notion of faith in which neither the function he assigns to the will nor the function he assigns to the intellect are really intelligibile. In fact, I strongly suspect that, given his views on *knowledge* (*epistemé*), which is what concerned him, Aristotle would have unhesitatingly rejected Aquinas's notion of faith as a bad mixture of Aristotelian and other extraneous (Christian) elements; and, given their views, the Fathers would have found Aquinas's notion of faith significantly and strangely at odds with theirs and with the Christian tradition on faith.
 
-May I honestly say that I find this solution totally unsatisfactory? What, indeed, is this "some act" of the will required before faith? If it is required before faith, then it is not itself part and parcel of the act of faith. Now, this squares with Aquinas&apos;s idea that the role of the will is extrinsic to faith. But it does not square at all with the role Aquinas had previously assigned to the will. For this "some act" cannot be but the trust 
-
-in
-
- God by which the will is motivated to quicken the intellect to assent to what God reveals. It turns out now, however, that the will cannot trust God unless and until the intellect assents to God as being the good to which the will is destined to tend. How, then, can the will prompt the assent of the intellect, lacking all motivation to do so before the intellect enlightens it as to God being the good to which it is supposed to tend? In other words, the problem is not whether the will is or is not "quickened by charity"--which is what Aquinas&apos;s answer attempts to deal with--but the impossibility of the will prompting the intellect to assent and, at the same time, not being able to do anything before the intellect assents.
-
-Thus, until I am enlightened by someone who proposes an understanding of this passage that completely escapes me, I am constrained to state that Aquinas&apos;s attempt to interpret the act of faith by means of Aristotelian categories not only leads him to an intellectuallistic notion of faith that I have much trouble identifying with the Fathers&apos; notion, but to a notion of faith in which neither the function he assigns to the will nor the function he assigns to the intellect are really intelligibile.  In fact, I strongly suspect that, given his views on 
-
-knowledge
-
- (
-
-epistemé
-
-), which is what concerned him, Aristotle would have unhesitatingly rejected Aquinas&apos;s notion of faith as a bad mixture of Aristotelian and other extraneous (Christian) elements; and, given their views, the Fathers would have found Aquinas&apos;s notion of faith significantly and strangely at odds with theirs and with the Christian tradition on faith.
-
-It may be too early, however, even to 
-
-suspect
-
- such things. After all, so far we have been focusing on the act of faith, that is, on faith on the side of the subject who believes. Perhaps the exploration of the term of the relationship, that is, of the God believed in, will bring new elements that will allay all possible suspicions.
+It may be too early, however, even to *suspect* such things. After all, so far we have been focusing on the act of faith, that is, on faith on the side of the subject who believes. Perhaps the exploration of the term of the relationship, that is, of the God believed in, will bring new elements that will allay all possible suspicions.

@@ -1,10 +1,5 @@
 # Curator's Note
 
-**Jorge Monasterio**
-January 2026
-
----
-
 My father, Xavier O. Monasterio, passed away in 2011, leaving behind decades of philosophical writing stored on aging computers and in formats that were becoming increasingly difficult to access. WordPerfect files from the 1990s, Microsoft Word documents scattered across backup folders, duplicate copies everywhere—the digital equivalent of boxes in an attic.
 
 Over the years, colleagues who knew my father's work asked if his unpublished writings might be made available. He had continued thinking and writing long after his formal publications, and there was interest in what those later reflections contained. But the task of organizing 1,700+ files across obsolete formats felt overwhelming, and so it waited.
@@ -30,6 +25,12 @@ The organized archive spans roughly 1989 to 2009 and includes:
 - **Bibliography and vita** documenting his scholarly career
 
 The documents have been converted to Markdown format for long-term accessibility and organized both chronologically and by topic.
+
+## A Note on Personal Letters
+
+I struggled with the personal letters. Among the philosophical writings were prayers, diary entries, reflections on family, and other documents never intended for public view. Most of these I set aside. But I kept a few—just enough to showcase my father's humanity, to give readers a glimpse of the person behind the philosophy.
+
+If you encounter something that you feel should be removed, please contact me.
 
 ## What Might My Father Have Thought?
 

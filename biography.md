@@ -1,9 +1,3 @@
-# Xavier O. Monasterio
-## Philosophy Scholar and Professor
-### 1926–2011
-
----
-
 ## Biographical Overview
 
 Xavier O. Monasterio (also Xavier Ortiz Monasterio, Javier Ortiz Monasterio) was a philosopher and long-serving professor in the Department of Philosophy at the University of Dayton, Ohio, United States.

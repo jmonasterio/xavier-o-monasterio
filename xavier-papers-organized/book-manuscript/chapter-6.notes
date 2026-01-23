@@ -1,22 +1,18 @@
-# Metadata for chapter-6.md
+# Metadata for Chapter6.xom.md
 
 ## Provenance
-- **Original file:** CHAPSIX
-- **Original path:** /src/xavier/Files/More My Documents/wp/MONAS/CHAPSIX
-- **Original format:** WordPerfect
-- **File date:** 1997-01-07
-- **File size:** 49135 bytes
+- **Original file:** Chapter6.xom.wpd
+- **Original path:** /src/xavier/Files/More My Documents/Chapter6.xom.wpd
+- **File date:** 2000-05-01
+- **File size:** 63087 bytes
 
 ## Classification
-- **Type:** Book manuscript chapter
-- **Chapter:** 6
-- **Part of:** Unpublished book on philosophy of religion
+- **Location:** course-materials
+- **Type:** Course material / Academic document
 
 ## Conversion
-- **Converted:** 2026-01-20
-- **Tool:** wpd2html
-- **Status:** Recovered from original source
+- **Converted:** 2026-01-18
+- **Status:** Recovered metadata from filedata.txt
 
 ## Notes
-This chapter is part of Xavier's unpublished book manuscript on philosophy of religion,
-exploring the shift from narrative to propositional semantics in medieval theology.
+Metadata reconstructed from original source files and filedata.txt.

@@ -1,8 +1,3 @@
-# Xavier O. Monasterio - Papers and Writings (1989-2008)
-## An Overview for Colleagues
-
----
-
 ## Introduction
 
 This collection contains the philosophical papers, book manuscripts, and scholarly writings of **Xavier O. Monasterio** (University of Dayton, Philosophy Department), spanning two decades of work from 1989 to 2008. These documents represent Xavier's sustained engagement with existentialism, epistemology, and philosophy of language beyond his published scholarship.

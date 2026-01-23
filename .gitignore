@@ -3,3 +3,4 @@ plans/*
 __pycache__/*
 claude.md
 claude-code.sh
+speculative/*

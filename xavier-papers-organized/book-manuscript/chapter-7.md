@@ -7,34 +7,6 @@ converted_with: wpd2html
 file_date: 2000-04-25
 ---
 
-.para2 {
- text-align:justify; margin: 0.0000in 0.0000in 0.0000in 0.0000in; text-indent:0.0000in; line-height:200.0000%;
-}
-.para3 {
- text-align:justify; margin: 0.0000in 0.0000in 0.0000in 0.0000in; text-indent:0.5000in; line-height:200.0000%;
-}
-.para1 {
- text-align:justify; margin: 0.0000in 0.0000in 0.0000in 0.0000in; text-indent:1.5000in; line-height:200.0000%;
-}
-.para0 {
- text-align:justify; margin: 0.0000in 0.0000in 0.0000in 0.0000in; text-indent:2.5000in; line-height:200.0000%;
-}
-.para4 {
- text-align:justify; margin: 0.0000in 0.5000in 0.0000in 0.5000in; text-indent:0.0000in; line-height:200.0000%;
-}
-.span1 {
- color: #000000; font-size: 12.0000pt; font-family: 'Courier 10';
-}
-.span2 {
- color: #000000; font-size: 12.0000pt; font-family: 'Courier 10'; text-decoration: underline;
-}
-.span0 {
- color: #000000; font-size: 12.0000pt; font-weight: bold; font-family: 'Courier 10';
-}
-.span3 {
- color: #000000; font-size: 12.0000pt; font-weight: bold; font-family: 'Courier 10'; text-decoration: underline;
-}
-
 Chapter Seven
 
 Revelation, Theology, and the Bible

@@ -7,31 +7,6 @@ converted_with: wpd2html
 file_date: 1997-01-07
 ---
 
-.para2 {
- text-align:left; margin: 0.0000in 0.0000in 0.0000in 0.0000in; text-indent:0.0000in; line-height:200.0000%;
-}
-.para3 {
- text-align:left; margin: 0.0000in 0.0000in 0.0000in 0.0000in; text-indent:0.5000in; line-height:200.0000%;
-}
-.para1 {
- text-align:left; margin: 0.0000in 0.0000in 0.0000in 0.0000in; text-indent:2.5000in; line-height:200.0000%;
-}
-.para0 {
- text-align:left; margin: 0.0000in 0.0000in 0.0000in 0.0000in; text-indent:3.0000in; line-height:200.0000%;
-}
-.para4 {
- text-align:left; margin: 0.0000in 0.5000in 0.0000in 0.5000in; text-indent:0.0000in; line-height:200.0000%;
-}
-.span1 {
- color: #000000; font-size: 12.0000pt; font-family: 'Courier 10';
-}
-.span2 {
- color: #000000; font-size: 12.0000pt; font-family: 'Courier 10'; text-decoration: underline;
-}
-.span0 {
- color: #000000; font-size: 12.0000pt; font-weight: bold; font-family: 'Courier 10';
-}
-
 Chapter Five
 
   The Notion of Faith 

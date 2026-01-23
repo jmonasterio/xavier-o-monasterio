@@ -937,13 +937,16 @@
                     });
                 });
 
-                // Open first folder and load first file
+                // Open first folder, only auto-load if no hash route
                 const firstFolder = treeEl.querySelector('.tree-folder');
                 if (firstFolder) {
                     firstFolder.open = true;
-                    const firstFile = firstFolder.querySelector('.tree-file');
-                    if (firstFile) {
-                        loadPaper(firstFile.dataset.path, firstFile.textContent);
+                    // Only load first file if no specific path in URL
+                    if (!window.location.hash.startsWith('#/writings/')) {
+                        const firstFile = firstFolder.querySelector('.tree-file');
+                        if (firstFile) {
+                            loadPaper(firstFile.dataset.path, firstFile.textContent);
+                        }
                     }
                 }
             } catch (e) {

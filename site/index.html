@@ -692,7 +692,7 @@
 
             // Update header
             document.getElementById('paper-title').textContent = title || path.split('/').pop().replace('.md', '');
-            document.getElementById('paper-path').textContent = path;
+            document.getElementById('paper-path').innerHTML = `<a href="papers/${path}" target="_blank">${path}</a>`;
 
             // Update tree selection
             document.querySelectorAll('.tree-file').forEach(f => f.classList.remove('active'));

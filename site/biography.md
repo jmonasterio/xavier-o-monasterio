@@ -10,7 +10,7 @@ Xavier O. Monasterio (also Xavier Ortiz Monasterio, Javier Ortiz Monasterio) was
 
 ## Academic Formation
 
-Xavier Monasterio held a **Ph.D. in philosophy from the University of Paris**, confirming advanced graduate study in Europe and a strong French academic connection. His doctoral work in Paris shaped his later scholarship on existentialism and continental philosophy.
+Dr. Monasterio held a **Ph.D. in philosophy from the University of Paris**, confirming advanced graduate study in Europe and a strong French academic connection. His doctoral work in Paris shaped his later scholarship on existentialism and continental philosophy.
 
 ## Family and Personal Life
 

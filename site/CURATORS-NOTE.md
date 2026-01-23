@@ -55,3 +55,7 @@ Thanks also to the colleagues who knew my father and kept his memory alive in th
 ---
 
 *This collection was organized with assistance from Claude (Anthropic), January 2026. The AI helped with format conversion, deduplication, and organization. All curatorial decisions and content review were performed by Jorge Monasterio.*
+
+---
+
+**Contact:** xom@dejasurf.com

@@ -2,7 +2,7 @@
 
 This collection contains the philosophical papers, book manuscripts, and scholarly writings of **Xavier O. Monasterio** (University of Dayton, Philosophy Department), spanning two decades of work from 1989 to 2008. These documents represent Dr. Monasterio's sustained engagement with existentialism, epistemology, and philosophy of language beyond his published scholarship.
 
-The collection has been organized chronologically and topically, with all documents converted to accessible Markdown format. This overview will help you navigate the collection and identify areas of interest.
+The collection has been organized chronologically, with all documents converted to accessible Markdown format. This overview will help you navigate the collection and identify areas of interest.
 
 ---
 
@@ -11,7 +11,7 @@ The collection has been organized chronologically and topically, with all docume
 - **Time span:** 1989-2008 (20 years of content)
 - **Total documents:** 535 unique academic files
 - **Format:** All documents in Markdown (.md) format for accessibility
-- **Organization:** Dual-layer system (chronological + topical indices)
+- **Organization:** Chronological by year
 - **Major works:** 4 substantial philosophical essays/papers
 - **Book manuscript:** 8 chapters of an unpublished book (1991-2000)
 - **Course materials:** 29 lecture notes and syllabi, 52 exam documents
@@ -180,17 +180,6 @@ Each file has a `.notes` metadata file (when needed) documenting:
 - Any questions or issues
 - Context and significance
 
-### Secondary Access: Topical Indices
-
-Four cross-reference documents allow topical navigation:
-
-1. **TOPICS-INDEX.md** - 8 main topics with document lists
-2. **THINKERS-INDEX.md** - 9 philosophers/thinkers (Camus, Sartre, Wittgenstein, Kuhn, etc.)
-3. **CHRONOLOGY.md** - Timeline view with annotations
-4. **WORKS-INDEX.md** - Major works catalog
-
-These indices allow you to find all documents on a specific topic or thinker regardless of date.
-
 ---
 
 ## Notable Periods of Productivity
@@ -238,37 +227,31 @@ From existentialism to epistemology to language philosophy, the collection shows
 ## Suggested Starting Points
 
 ### For Existentialism Scholars
-1. **Major works:** VIOLENCE, BADFAITH, CHANTILL
-2. **THINKERS-INDEX.md** → Camus, Sartre sections
-3. **1996-1999 folders** (peak Camus/Sartre work)
+- **Major works:** VIOLENCE, BADFAITH, CHANTILL
+- **1996-1999 folders** (peak Camus/Sartre work)
 
-### For Epistemology/Phil. of Science
-1. **THINKERS-INDEX.md** → Kuhn, Polanyi sections
-2. **1997-1998 folders** (Kuhn papers)
-3. **TOPICS-INDEX.md** → Epistemology, Philosophy of Science
+### For Epistemology/Philosophy of Science
+- **1997-1998 folders** (Kuhn papers)
+- **2005 folder** (Polanyi papers)
 
 ### For Language Philosophy
-1. **THINKERS-INDEX.md** → Wittgenstein section
-2. **TOPICS-INDEX.md** → Language Philosophy
-3. Papers across multiple years (sustained interest)
+- Papers across multiple years (sustained interest)
 
 ### For Dr. Monasterio's Pedagogical Work
-1. **appendix/exams/** - Exam questions and finals
-2. **appendix/course-materials/** - Lecture notes and reading lists
-3. **Book manuscript** - Likely intended as teaching text
-4. **1993-1998 folders** - Camus course materials
+- **appendix/exams/** - Exam questions and finals
+- **appendix/course-materials/** - Lecture notes and reading lists
+- **Book manuscript** - Likely intended as teaching text
 
 ### For Complete Overview
-1. Start with **CHRONOLOGY.md** - timeline view
-2. Read **book-manuscript/README.md** - manuscript overview
-3. Browse year folders to see evolution of interests
+- Browse year folders to see evolution of interests
+- Start with the book manuscript abstract
 
 ---
 
 ## Technical Notes
 
 ### File Formats
-- **All documents in Markdown ()** for accessibility and searchability
+- **All documents in Markdown (.md)** for accessibility and searchability
 - **Original formats removed** after successful conversion to preserve only academic content
 - **Final collection:** 535 academic documents in clean Markdown format
 
@@ -315,13 +298,10 @@ Some documents lack firm dates. Each file's `.notes` document (when present) ind
 ### 2. **Work-in-Progress**
 Many documents are drafts, notes, or works-in-progress. Not all represent finished, publication-ready scholarship.
 
-### 3. **Topical Indexing**
-Initial topic categorization was based on filename analysis. Some documents may be miscategorized or span multiple topics.
-
-### 4. **Conversion Artifacts**
+### 3. **Conversion Artifacts**
 Some formatting may be lost or altered during conversion. Original files preserved for comparison if needed.
 
-### 5. **Correspondence Privacy**
+### 4. **Correspondence Privacy**
 Correspondence has been preserved but may contain private or sensitive information. Review is recommended before any publication or sharing.
 
 ---

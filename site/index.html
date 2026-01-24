@@ -92,16 +92,6 @@
             flex-direction: column;
         }
 
-        .sidebar-header {
-            font-size: 11px;
-            text-transform: uppercase;
-            letter-spacing: 0.1em;
-            color: var(--text-muted);
-            margin-bottom: 1rem;
-            padding-bottom: 0.5rem;
-            border-bottom: 1px solid var(--border);
-        }
-
         .search-box {
             width: 100%;
             padding: 0.5rem;
@@ -109,7 +99,6 @@
             font-size: 12px;
             border: 1px solid var(--border);
             background: var(--bg-primary);
-            margin-bottom: 1rem;
         }
 
         .search-box:focus { outline: none; border-color: var(--accent); }
@@ -307,6 +296,12 @@
         .hidden { display: none !important; }
 
         /* Full-text search */
+        .search-row {
+            display: flex;
+            flex-direction: column;
+            margin-bottom: 0.5rem;
+        }
+
         .search-tabs {
             display: flex;
             margin-bottom: 0.5rem;
@@ -498,20 +493,86 @@
 
         /* Responsive */
         @media (max-width: 900px) {
-            .container { grid-template-columns: 1fr; }
+            .container {
+                grid-template-columns: 1fr;
+                min-height: auto;
+            }
             .sidebar {
                 position: relative;
+                top: 0;
                 height: auto;
+                min-height: 200px;
+                max-height: 40vh;
                 border-right: none;
                 border-bottom: 1px solid var(--border);
             }
-            .main { padding: 2rem; }
+            .main {
+                padding: 2rem;
+                min-height: 50vh;
+            }
+        }
+
+        @media (max-width: 1200px) {
+            .top-nav {
+                flex-direction: column;
+                align-items: flex-start;
+                height: auto;
+                padding: 0.5rem 1rem;
+                gap: 0.25rem;
+            }
+            .nav-links {
+                width: 100%;
+                justify-content: flex-start;
+            }
+        }
+
+        @media (max-width: 900px) {
+            .sidebar { padding-top: 0; }
+            .search-row {
+                flex-direction: row;
+                align-items: center;
+                gap: 0.5rem;
+                margin-bottom: 0;
+            }
+            .search-tabs {
+                border-bottom: none;
+                margin-bottom: 0;
+                flex-shrink: 0;
+            }
+            .search-tab {
+                border: 1px solid var(--border);
+                padding: 0.35rem 0.5rem;
+            }
+            .search-box {
+                flex: 1;
+                margin-bottom: 0;
+            }
+        }
+
+        @media (max-width: 600px) {
+            .site-title {
+                font-size: 11px;
+            }
+            .nav-links {
+                gap: 0;
+                flex-wrap: nowrap;
+            }
+            .nav-link {
+                padding: 0.3rem 0.4rem;
+                font-size: 10px;
+                white-space: nowrap;
+            }
+            .sidebar {
+                max-height: 35vh;
+            }
+            .main { padding: 1rem; }
+            .doc-header { margin-bottom: 1rem; padding-bottom: 1rem; }
         }
     </style>
 </head>
 <body>
     <nav class="top-nav">
-        <div class="site-title">Dr. Xavier Ortiz Monasterio Writings | University of Dayton (1989–2008)</div>
+        <div class="site-title">Dr. Xavier Ortiz Monasterio Writings</div>
         <div class="nav-links">
             <a class="nav-link active" data-page="writings">Writings</a>
             <a class="nav-link" data-page="overview">Overview</a>
@@ -524,12 +585,13 @@
     <!-- Papers Browser -->
     <div id="page-writings" class="container">
         <aside class="sidebar">
-            <div class="sidebar-header">Browse Writings</div>
-            <div class="search-tabs">
-                <button class="search-tab active" data-search="files">Files</button>
-                <button class="search-tab" data-search="fulltext">Full Text</button>
+            <div class="search-row">
+                <div class="search-tabs">
+                    <button class="search-tab active" data-search="files">Files</button>
+                    <button class="search-tab" data-search="fulltext">Full Text</button>
+                </div>
+                <input type="text" class="search-box" placeholder="Search..." id="search">
             </div>
-            <input type="text" class="search-box" placeholder="Search filenames..." id="search">
             <div id="fulltext-results" class="search-results hidden"><div class="search-status">Loading search index...</div></div>
             <nav class="tree" id="tree">
                 <p class="loading">Loading...</p>
@@ -702,6 +764,10 @@
             // Load content
             document.getElementById('paper-content').innerHTML = '<p class="loading">Loading...</p>';
             await loadMarkdown('papers/' + path, 'paper-content');
+
+            // Scroll main content to top
+            document.querySelector('.main').scrollTop = 0;
+            window.scrollTo(0, 0);
 
             // Load notes
             const notesBox = document.getElementById('notes-box');

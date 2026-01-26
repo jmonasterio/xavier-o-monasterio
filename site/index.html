@@ -1017,9 +1017,7 @@
                     file.addEventListener('click', () => {
                         loadPaper(file.dataset.path, file.textContent);
                     });
-                });
-
-                // Open first folder, only auto-load if no hash route
+                }                // Open first folder, only auto-load if no hash route
                 const firstFolder = treeEl.querySelector('.tree-folder');
                 if (firstFolder) {
                     firstFolder.open = true;

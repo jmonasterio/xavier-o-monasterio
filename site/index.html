@@ -614,7 +614,7 @@
             <footer class="doc-footer">
                 Dr. Xavier Ortiz Monasterio Writings<br>
                 University of Dayton, Philosophy Department<br>
-                <span class="copyright">Documents © 1989–2008 Xavier Ortiz Monasterio | Website © 2026 Jorge Monasterio</span>
+                <span class="copyright">Documents © 1989–2008 Xavier Ortiz Monasterio | Website © 2026 Jorge Monasterio | <a href="#/license">License</a></span>
             </footer>
         </main>
     </div>
@@ -633,7 +633,7 @@
             <footer class="doc-footer">
                 Dr. Xavier Ortiz Monasterio Writings<br>
                 University of Dayton, Philosophy Department<br>
-                <span class="copyright">Documents © 1989–2008 Xavier Ortiz Monasterio | Website © 2026 Jorge Monasterio</span>
+                <span class="copyright">Documents © 1989–2008 Xavier Ortiz Monasterio | Website © 2026 Jorge Monasterio | <a href="#/license">License</a></span>
             </footer>
         </main>
     </div>
@@ -660,7 +660,7 @@
             <footer class="doc-footer">
                 Dr. Xavier Ortiz Monasterio Writings<br>
                 University of Dayton, Philosophy Department<br>
-                <span class="copyright">Documents © 1989–2008 Xavier Ortiz Monasterio | Website © 2026 Jorge Monasterio</span>
+                <span class="copyright">Documents © 1989–2008 Xavier Ortiz Monasterio | Website © 2026 Jorge Monasterio | <a href="#/license">License</a></span>
             </footer>
         </main>
     </div>
@@ -677,7 +677,7 @@
             <footer class="doc-footer">
                 Dr. Xavier Ortiz Monasterio Writings<br>
                 University of Dayton, Philosophy Department<br>
-                <span class="copyright">Documents © 1989–2008 Xavier Ortiz Monasterio | Website © 2026 Jorge Monasterio</span>
+                <span class="copyright">Documents © 1989–2008 Xavier Ortiz Monasterio | Website © 2026 Jorge Monasterio | <a href="#/license">License</a></span>
             </footer>
         </main>
     </div>
@@ -694,7 +694,23 @@
             <footer class="doc-footer">
                 Dr. Xavier Ortiz Monasterio Writings<br>
                 University of Dayton, Philosophy Department<br>
-                <span class="copyright">Documents © 1989–2008 Xavier Ortiz Monasterio | Website © 2026 Jorge Monasterio</span>
+                <span class="copyright">Documents © 1989–2008 Xavier Ortiz Monasterio | Website © 2026 Jorge Monasterio | <a href="#/license">License</a></span>
+            </footer>
+        </main>
+    </div>
+
+    <!-- License Page -->
+    <div id="page-license" class="container no-sidebar hidden">
+        <main class="main centered">
+            <header class="doc-header">
+                <h1 class="doc-title">License</h1>
+                <div class="doc-subtitle">Terms of Use</div>
+            </header>
+            <article class="doc-content" id="license-content"><p class="loading">Loading...</p></article>
+            <footer class="doc-footer">
+                Dr. Xavier Ortiz Monasterio Writings<br>
+                University of Dayton, Philosophy Department<br>
+                <span class="copyright">Documents © 1989–2008 Xavier Ortiz Monasterio | Website © 2026 Jorge Monasterio | <a href="#/license">License</a></span>
             </footer>
         </main>
     </div>
@@ -1139,6 +1155,7 @@
             await loadMarkdown('OVERVIEW-FOR-COLLEAGUES.md', 'overview-content');
             await loadMarkdown('biography.md', 'biography-content');
             await loadMarkdown('CURATORS-NOTE.md', 'curators-note-content');
+            await loadMarkdown('LICENSE.md', 'license-content');
         }
 
         // URL routing
@@ -1186,5 +1203,7 @@
         initSearch();
         initGallery();
     </script>
+    <script data-goatcounter="https://xavier.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
 </body>
 </html>

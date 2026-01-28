@@ -3557,6 +3557,15 @@
         "has_notes": true
       }
     ],
+    "historical": [
+      {
+        "name": "faith-and-philosophy.md",
+        "path": "appendix/historical/faith-and-philosophy.md",
+        "title": "FAITH AND PHILOSOPHY IN THE UNIVERSITY",
+        "date": null,
+        "has_notes": true
+      }
+    ],
     "personal": [
       {
         "name": "25.md",

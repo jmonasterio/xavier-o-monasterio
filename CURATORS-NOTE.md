@@ -52,6 +52,10 @@ I want to thank those who encouraged this project (particlulary John Inglis and 
 
 Thanks also to the colleagues who knew my father and kept his memory alive in the philosophical community.
 
+## Archive and Preservation
+
+The complete collection, including all documents and the website files, is permanently archived online at [github.com/jmonasterio/xavier-o-monasterio](https://github.com/jmonasterio/xavier-o-monasterio). This ensures the materials will remain accessible even if this website changes or moves. For those unfamiliar with GitHub, it is a widely-used platform for preserving and sharing digital materials, commonly used by researchers and institutions for long-term archival purposes.
+
 ---
 
 *This collection was organized with assistance from Claude (Anthropic), January 2026. The AI helped with format conversion, deduplication, and organization. All curatorial decisions and content review were performed by Jorge Monasterio.*

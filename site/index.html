@@ -751,6 +751,13 @@
             try {
                 const response = await fetch(url);
                 if (!response.ok) throw new Error('Not found');
+                // Some hosts return a 200 fallback page (e.g. an SPA/parked
+                // catch-all) for a missing file instead of a real 404. Treat
+                // an HTML response as "not found" so it never gets parsed
+                // as markdown and injected (which would leak that page's
+                // own <style>/<script> into this document).
+                const contentType = response.headers.get('content-type') || '';
+                if (contentType.includes('text/html')) throw new Error('Not found (got HTML fallback)');
                 let content = await response.text();
                 content = stripFrontmatter(content);
                 document.getElementById(targetId).innerHTML = marked.parse(content);

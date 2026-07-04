@@ -16,7 +16,7 @@ SITE_DIR = Path("site")
 PAPERS_DIR = SITE_DIR / "papers"
 
 # Files to include from root
-ROOT_FILES = ["biography.md", "CURATORS-NOTE.md", "OVERVIEW-FOR-COLLEAGUES.md"]
+ROOT_FILES = ["biography.md", "CURATORS-NOTE.md", "OVERVIEW-FOR-COLLEAGUES.md", "LICENSE.md"]
 
 def get_notes_content(md_path):
     """Read the .notes file for a markdown file if it exists."""

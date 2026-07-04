@@ -3,6 +3,17 @@
 
 ---
 
+## [2026-07-04] - Deployment Pipeline Changed
+
+**Performed by:** AI assistance (Claude), curated by Jorge Monasterio
+
+Retired the GitHub Actions SCP deploy (`.github/workflows/deploy.yml`,
+push-to-`main` trigger). Site is now published from `site/` by a Cloudflare
+Worker (static assets), serving the identical content at both
+`https://xavier.argw.com/` and `https://argw.com/xavier/`. Build and deploy
+tooling lives outside this repo, in a separate local infrastructure
+workspace; this repository remains the sole source of truth for content.
+
 ## [Unreleased] - 2026-01-17
 
 ### Initial Assessment and Cataloging

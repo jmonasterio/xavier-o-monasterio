@@ -258,13 +258,6 @@
     ],
     "1992": [
       {
-        "name": "1992.md",
-        "path": "1992/1992.md",
-        "title": "1992",
-        "date": "** 1992",
-        "has_notes": true
-      },
-      {
         "name": "92-AUG-2.md",
         "path": "1992/92-AUG-2.md",
         "title": "92-AUG-2",
@@ -297,6 +290,13 @@
         "path": "1992/92JUL-2.md",
         "title": "92JUL-2",
         "date": "** Undetermined",
+        "has_notes": true
+      },
+      {
+        "name": "1992.md",
+        "path": "1992/1992.md",
+        "title": "1992",
+        "date": "** 1992",
         "has_notes": true
       },
       {
@@ -684,6 +684,13 @@
         "has_notes": true
       },
       {
+        "name": "bible-5.md",
+        "path": "1995/bible-5.md",
+        "title": "bible-5",
+        "date": null,
+        "has_notes": true
+      },
+      {
         "name": "BLAISE.md",
         "path": "1995/BLAISE.md",
         "title": "BLAISE",
@@ -751,13 +758,6 @@
         "path": "1995/SEARLE-1.md",
         "title": "SEARLE-1",
         "date": "** 2005",
-        "has_notes": true
-      },
-      {
-        "name": "bible-5.md",
-        "path": "1995/bible-5.md",
-        "title": "bible-5",
-        "date": null,
         "has_notes": true
       }
     ],
@@ -1173,6 +1173,20 @@
         "has_notes": true
       },
       {
+        "name": "98-dec-1-1.md",
+        "path": "1998/98-dec-1-1.md",
+        "title": "98-dec-1-1",
+        "date": "** 1998",
+        "has_notes": true
+      },
+      {
+        "name": "98-dec-1.md",
+        "path": "1998/98-dec-1.md",
+        "title": "98-dec-1",
+        "date": "** 1998",
+        "has_notes": true
+      },
+      {
         "name": "98-FEB-1-1.md",
         "path": "1998/98-FEB-1-1.md",
         "title": "98-FEB-1-1",
@@ -1239,20 +1253,6 @@
         "name": "98-Nov-2.md",
         "path": "1998/98-Nov-2.md",
         "title": "98-Nov-2",
-        "date": "** 1998",
-        "has_notes": true
-      },
-      {
-        "name": "98-dec-1-1.md",
-        "path": "1998/98-dec-1-1.md",
-        "title": "98-dec-1-1",
-        "date": "** 1998",
-        "has_notes": true
-      },
-      {
-        "name": "98-dec-1.md",
-        "path": "1998/98-dec-1.md",
-        "title": "98-dec-1",
         "date": "** 1998",
         "has_notes": true
       },
@@ -1327,6 +1327,13 @@
         "has_notes": true
       },
       {
+        "name": "heft-2.md",
+        "path": "1998/heft-2.md",
+        "title": "heft-2",
+        "date": "** Undetermined",
+        "has_notes": true
+      },
+      {
         "name": "MCCORMIC.md",
         "path": "1998/MCCORMIC.md",
         "title": "MCCORMIC",
@@ -1341,10 +1348,10 @@
         "has_notes": true
       },
       {
-        "name": "SARTRE-1.md",
-        "path": "1998/SARTRE-1.md",
-        "title": "SARTRE-1",
-        "date": "** Undetermined",
+        "name": "perform-98.md",
+        "path": "1998/perform-98.md",
+        "title": "perform-98",
+        "date": "** 1998",
         "has_notes": true
       },
       {
@@ -1355,24 +1362,10 @@
         "has_notes": true
       },
       {
-        "name": "Wittgenstein notes that.md",
-        "path": "1998/Wittgenstein notes that.md",
-        "title": "Wittgenstein notes that",
-        "date": null,
-        "has_notes": true
-      },
-      {
-        "name": "heft-2.md",
-        "path": "1998/heft-2.md",
-        "title": "heft-2",
+        "name": "SARTRE-1.md",
+        "path": "1998/SARTRE-1.md",
+        "title": "SARTRE-1",
         "date": "** Undetermined",
-        "has_notes": true
-      },
-      {
-        "name": "perform-98.md",
-        "path": "1998/perform-98.md",
-        "title": "perform-98",
-        "date": "** 1998",
         "has_notes": true
       },
       {
@@ -1381,16 +1374,16 @@
         "title": "truth-3",
         "date": "** Undetermined",
         "has_notes": true
+      },
+      {
+        "name": "Wittgenstein notes that.md",
+        "path": "1998/Wittgenstein notes that.md",
+        "title": "Wittgenstein notes that",
+        "date": null,
+        "has_notes": true
       }
     ],
     "1999": [
-      {
-        "name": "99-Jan-1aquinas-3.md",
-        "path": "1999/99-Jan-1aquinas-3.md",
-        "title": "99-Jan-1aquinas-3",
-        "date": "** 1999",
-        "has_notes": true
-      },
       {
         "name": "99-apr-2-3.md",
         "path": "1999/99-apr-2-3.md",
@@ -1423,6 +1416,13 @@
         "name": "99-feb-1.md",
         "path": "1999/99-feb-1.md",
         "title": "99-feb-1",
+        "date": "** 1999",
+        "has_notes": true
+      },
+      {
+        "name": "99-Jan-1aquinas-3.md",
+        "path": "1999/99-Jan-1aquinas-3.md",
+        "title": "99-Jan-1aquinas-3",
         "date": "** 1999",
         "has_notes": true
       },
@@ -1462,10 +1462,24 @@
         "has_notes": true
       },
       {
+        "name": "citmine-2.md",
+        "path": "1999/citmine-2.md",
+        "title": "citmine-2",
+        "date": "** Undetermined",
+        "has_notes": true
+      },
+      {
         "name": "CITMINE.md",
         "path": "1999/CITMINE.md",
         "title": "CITMINE",
         "date": "** 2005",
+        "has_notes": true
+      },
+      {
+        "name": "marian.md",
+        "path": "1999/marian.md",
+        "title": "marian",
+        "date": "** Undetermined",
         "has_notes": true
       },
       {
@@ -1488,48 +1502,20 @@
         "title": "PAPRCIT",
         "date": "** 2005",
         "has_notes": true
-      },
-      {
-        "name": "citmine-2.md",
-        "path": "1999/citmine-2.md",
-        "title": "citmine-2",
-        "date": "** Undetermined",
-        "has_notes": true
-      },
-      {
-        "name": "marian.md",
-        "path": "1999/marian.md",
-        "title": "marian",
-        "date": "** Undetermined",
-        "has_notes": true
       }
     ],
     "2000": [
       {
-        "name": "2000-April-2.md",
-        "path": "2000/2000-April-2.md",
-        "title": "2000-April-2",
-        "date": "** 2000",
-        "has_notes": true
-      },
-      {
-        "name": "2000-Existent.md",
-        "path": "2000/2000-Existent.md",
-        "title": "2000-Existent",
-        "date": "** 2000",
-        "has_notes": true
-      },
-      {
-        "name": "2000-March-1.md",
-        "path": "2000/2000-March-1.md",
-        "title": "2000-March-1",
-        "date": "** March 21, 2000",
-        "has_notes": true
-      },
-      {
         "name": "2000-apr-Taylor-a.md",
         "path": "2000/2000-apr-Taylor-a.md",
         "title": "2000-apr-Taylor-a",
+        "date": "** 2000",
+        "has_notes": true
+      },
+      {
+        "name": "2000-April-2.md",
+        "path": "2000/2000-April-2.md",
+        "title": "2000-April-2",
         "date": "** 2000",
         "has_notes": true
       },
@@ -1569,6 +1555,13 @@
         "has_notes": true
       },
       {
+        "name": "2000-Existent.md",
+        "path": "2000/2000-Existent.md",
+        "title": "2000-Existent",
+        "date": "** 2000",
+        "has_notes": true
+      },
+      {
         "name": "2000-feb-2-skepticism.md",
         "path": "2000/2000-feb-2-skepticism.md",
         "title": "2000-feb-2-skepticism",
@@ -1580,6 +1573,13 @@
         "path": "2000/2000-februruary-1.md",
         "title": "2000-februruary-1",
         "date": "** 2000",
+        "has_notes": true
+      },
+      {
+        "name": "2000-March-1.md",
+        "path": "2000/2000-March-1.md",
+        "title": "2000-March-1",
+        "date": "** March 21, 2000",
         "has_notes": true
       },
       {
@@ -1624,27 +1624,6 @@
         "path": "2001/200-aug-1-b-1.md",
         "title": "200-aug-1-b-1",
         "date": "** 2001",
-        "has_notes": true
-      },
-      {
-        "name": "2001-Marianistas.md",
-        "path": "2001/2001-Marianistas.md",
-        "title": "2001-Marianistas",
-        "date": "** 2001",
-        "has_notes": true
-      },
-      {
-        "name": "2001-NOV-1-1.md",
-        "path": "2001/2001-NOV-1-1.md",
-        "title": "2001-NOV-1-1",
-        "date": "** November 2, 2001",
-        "has_notes": true
-      },
-      {
-        "name": "2001-NOV-1.md",
-        "path": "2001/2001-NOV-1.md",
-        "title": "2001-NOV-1",
-        "date": "** November 2, 2001",
         "has_notes": true
       },
       {
@@ -1725,16 +1704,37 @@
         "has_notes": true
       },
       {
-        "name": "2001-sept-1-Tilley-1.md",
-        "path": "2001/2001-sept-1-Tilley-1.md",
-        "title": "2001-sept-1-Tilley-1",
+        "name": "2001-Marianistas.md",
+        "path": "2001/2001-Marianistas.md",
+        "title": "2001-Marianistas",
         "date": "** 2001",
+        "has_notes": true
+      },
+      {
+        "name": "2001-NOV-1-1.md",
+        "path": "2001/2001-NOV-1-1.md",
+        "title": "2001-NOV-1-1",
+        "date": "** November 2, 2001",
+        "has_notes": true
+      },
+      {
+        "name": "2001-NOV-1.md",
+        "path": "2001/2001-NOV-1.md",
+        "title": "2001-NOV-1",
+        "date": "** November 2, 2001",
         "has_notes": true
       },
       {
         "name": "2001-sept-1-illey.md",
         "path": "2001/2001-sept-1-illey.md",
         "title": "2001-sept-1-illey",
+        "date": "** 2001",
+        "has_notes": true
+      },
+      {
+        "name": "2001-sept-1-Tilley-1.md",
+        "path": "2001/2001-sept-1-Tilley-1.md",
+        "title": "2001-sept-1-Tilley-1",
         "date": "** 2001",
         "has_notes": true
       },
@@ -1783,27 +1783,6 @@
         "has_notes": true
       },
       {
-        "name": "2002-Jan-1-Indexical-3.md",
-        "path": "2002/2002-Jan-1-Indexical-3.md",
-        "title": "2002-Jan-1-Indexical-3",
-        "date": "** 2002",
-        "has_notes": true
-      },
-      {
-        "name": "2002-Oct-Chapitre III.md",
-        "path": "2002/2002-Oct-Chapitre III.md",
-        "title": "2002-Oct-Chapitre III",
-        "date": "** October 9, 2003",
-        "has_notes": true
-      },
-      {
-        "name": "2002-Sayers.md",
-        "path": "2002/2002-Sayers.md",
-        "title": "2002-Sayers",
-        "date": "** 2002",
-        "has_notes": true
-      },
-      {
         "name": "2002-april-1-Sceientific knowledge.md",
         "path": "2002/2002-april-1-Sceientific knowledge.md",
         "title": "2002-april-1-Sceientific knowledge",
@@ -1818,13 +1797,6 @@
         "has_notes": true
       },
       {
-        "name": "2002-april-3-Aris-Devereux-1.md",
-        "path": "2002/2002-april-3-Aris-Devereux-1.md",
-        "title": "2002-april-3-Aris-Devereux-1",
-        "date": "** April 11, 2002",
-        "has_notes": true
-      },
-      {
         "name": "2002-april-3-aaris-devereux.md",
         "path": "2002/2002-april-3-aaris-devereux.md",
         "title": "2002-april-3-aaris-devereux",
@@ -1832,16 +1804,16 @@
         "has_notes": true
       },
       {
-        "name": "2002-aug-1-Kuhn's contribution.md",
-        "path": "2002/2002-aug-1-Kuhn's contribution.md",
-        "title": "2002-aug-1-Kuhn's contribution",
-        "date": "** 2002",
+        "name": "2002-april-3-Aris-Devereux-1.md",
+        "path": "2002/2002-april-3-Aris-Devereux-1.md",
+        "title": "2002-april-3-Aris-Devereux-1",
+        "date": "** April 11, 2002",
         "has_notes": true
       },
       {
-        "name": "2002-aug-2-Kuhn's contribution-1.md",
-        "path": "2002/2002-aug-2-Kuhn's contribution-1.md",
-        "title": "2002-aug-2-Kuhn's contribution-1",
+        "name": "2002-aug-1-Kuhn's contribution.md",
+        "path": "2002/2002-aug-1-Kuhn's contribution.md",
+        "title": "2002-aug-1-Kuhn's contribution",
         "date": "** 2002",
         "has_notes": true
       },
@@ -1853,10 +1825,24 @@
         "has_notes": true
       },
       {
+        "name": "2002-aug-2-Kuhn's contribution-1.md",
+        "path": "2002/2002-aug-2-Kuhn's contribution-1.md",
+        "title": "2002-aug-2-Kuhn's contribution-1",
+        "date": "** 2002",
+        "has_notes": true
+      },
+      {
         "name": "2002-feb-1-rel. truth.md",
         "path": "2002/2002-feb-1-rel. truth.md",
         "title": "2002-feb-1-rel. truth",
         "date": "** February 12, 2002",
+        "has_notes": true
+      },
+      {
+        "name": "2002-Jan-1-Indexical-3.md",
+        "path": "2002/2002-Jan-1-Indexical-3.md",
+        "title": "2002-Jan-1-Indexical-3",
+        "date": "** 2002",
         "has_notes": true
       },
       {
@@ -1867,9 +1853,23 @@
         "has_notes": true
       },
       {
+        "name": "2002-Oct-Chapitre III.md",
+        "path": "2002/2002-Oct-Chapitre III.md",
+        "title": "2002-Oct-Chapitre III",
+        "date": "** October 9, 2003",
+        "has_notes": true
+      },
+      {
         "name": "2002-oct-Kuhn and fairth-1.md",
         "path": "2002/2002-oct-Kuhn and fairth-1.md",
         "title": "2002-oct-Kuhn and fairth-1",
+        "date": "** 2002",
+        "has_notes": true
+      },
+      {
+        "name": "2002-Sayers.md",
+        "path": "2002/2002-Sayers.md",
+        "title": "2002-Sayers",
         "date": "** 2002",
         "has_notes": true
       },
@@ -1925,16 +1925,23 @@
         "has_notes": true
       },
       {
-        "name": "2003-Aug-Chapitre I.md",
-        "path": "2003/2003-Aug-Chapitre I.md",
-        "title": "2003-Aug-Chapitre I",
-        "date": "** 2003",
+        "name": "2003-aPRIL-2--La rupture epistemologique0.md",
+        "path": "2003/2003-aPRIL-2--La rupture epistemologique0.md",
+        "title": "2003-aPRIL-2--La rupture epistemologique0",
+        "date": "** April 18, 2003",
         "has_notes": true
       },
       {
-        "name": "2003-Aug-Chapitre II.md",
-        "path": "2003/2003-Aug-Chapitre II.md",
-        "title": "2003-Aug-Chapitre II",
+        "name": "2003-aPRIL-2--La rupture epistemologique-2.md",
+        "path": "2003/2003-aPRIL-2--La rupture epistemologique-2.md",
+        "title": "2003-aPRIL-2--La rupture epistemologique-2",
+        "date": "** April 18, 2003",
+        "has_notes": true
+      },
+      {
+        "name": "2003-Aug-Chapitre I.md",
+        "path": "2003/2003-Aug-Chapitre I.md",
+        "title": "2003-Aug-Chapitre I",
         "date": "** 2003",
         "has_notes": true
       },
@@ -1946,31 +1953,17 @@
         "has_notes": true
       },
       {
-        "name": "2003-Aug-Kuhn's contribution-1.md",
-        "path": "2003/2003-Aug-Kuhn's contribution-1.md",
-        "title": "2003-Aug-Kuhn's contribution-1",
+        "name": "2003-Aug-Chapitre II.md",
+        "path": "2003/2003-Aug-Chapitre II.md",
+        "title": "2003-Aug-Chapitre II",
         "date": "** 2003",
         "has_notes": true
       },
       {
-        "name": "2003-Oct-1-Chapter III.md",
-        "path": "2003/2003-Oct-1-Chapter III.md",
-        "title": "2003-Oct-1-Chapter III",
-        "date": "** October 9, 2003",
-        "has_notes": true
-      },
-      {
-        "name": "2003-aPRIL-2--La rupture epistemologique-2.md",
-        "path": "2003/2003-aPRIL-2--La rupture epistemologique-2.md",
-        "title": "2003-aPRIL-2--La rupture epistemologique-2",
-        "date": "** April 18, 2003",
-        "has_notes": true
-      },
-      {
-        "name": "2003-aPRIL-2--La rupture epistemologique0.md",
-        "path": "2003/2003-aPRIL-2--La rupture epistemologique0.md",
-        "title": "2003-aPRIL-2--La rupture epistemologique0",
-        "date": "** April 18, 2003",
+        "name": "2003-Aug-Kuhn's contribution-1.md",
+        "path": "2003/2003-Aug-Kuhn's contribution-1.md",
+        "title": "2003-Aug-Kuhn's contribution-1",
+        "date": "** 2003",
         "has_notes": true
       },
       {
@@ -1988,13 +1981,6 @@
         "has_notes": true
       },
       {
-        "name": "2003-feb-1-Direct adn reflective knowledge-1.md",
-        "path": "2003/2003-feb-1-Direct adn reflective knowledge-1.md",
-        "title": "2003-feb-1-Direct adn reflective knowledge-1",
-        "date": "** February 5,",
-        "has_notes": true
-      },
-      {
         "name": "2003-feb-1-Direct adn reflective knowledge1.md",
         "path": "2003/2003-feb-1-Direct adn reflective knowledge1.md",
         "title": "2003-feb-1-Direct adn reflective knowledge1",
@@ -2002,10 +1988,10 @@
         "has_notes": true
       },
       {
-        "name": "2003-jan-1-epistemic and communicativ eintentions-1.md",
-        "path": "2003/2003-jan-1-epistemic and communicativ eintentions-1.md",
-        "title": "2003-jan-1-epistemic and communicativ eintentions-1",
-        "date": "** Jan 22, 2003",
+        "name": "2003-feb-1-Direct adn reflective knowledge-1.md",
+        "path": "2003/2003-feb-1-Direct adn reflective knowledge-1.md",
+        "title": "2003-feb-1-Direct adn reflective knowledge-1",
+        "date": "** February 5,",
         "has_notes": true
       },
       {
@@ -2016,17 +2002,17 @@
         "has_notes": true
       },
       {
+        "name": "2003-jan-1-epistemic and communicativ eintentions-1.md",
+        "path": "2003/2003-jan-1-epistemic and communicativ eintentions-1.md",
+        "title": "2003-jan-1-epistemic and communicativ eintentions-1",
+        "date": "** Jan 22, 2003",
+        "has_notes": true
+      },
+      {
         "name": "2003-june-3-espace dramatique-2.md",
         "path": "2003/2003-june-3-espace dramatique-2.md",
         "title": "2003-june-3-espace dramatique-2",
         "date": "** 2003",
-        "has_notes": true
-      },
-      {
-        "name": "2003-mai-1-Barth-1.md",
-        "path": "2003/2003-mai-1-Barth-1.md",
-        "title": "2003-mai-1-Barth-1",
-        "date": "** Mai 1, 2003",
         "has_notes": true
       },
       {
@@ -2044,6 +2030,13 @@
         "has_notes": true
       },
       {
+        "name": "2003-mai-1-Barth-1.md",
+        "path": "2003/2003-mai-1-Barth-1.md",
+        "title": "2003-mai-1-Barth-1",
+        "date": "** Mai 1, 2003",
+        "has_notes": true
+      },
+      {
         "name": "2003-mai-1-Indexicalite.md",
         "path": "2003/2003-mai-1-Indexicalite.md",
         "title": "2003-mai-1-Indexicalite",
@@ -2051,16 +2044,16 @@
         "has_notes": true
       },
       {
-        "name": "2003-mai-2-indexicalite-1.md",
-        "path": "2003/2003-mai-2-indexicalite-1.md",
-        "title": "2003-mai-2-indexicalite-1",
+        "name": "2003-mai-2-indexicalite0.md",
+        "path": "2003/2003-mai-2-indexicalite0.md",
+        "title": "2003-mai-2-indexicalite0",
         "date": "** Mai 2, 2003",
         "has_notes": true
       },
       {
-        "name": "2003-mai-2-indexicalite0.md",
-        "path": "2003/2003-mai-2-indexicalite0.md",
-        "title": "2003-mai-2-indexicalite0",
+        "name": "2003-mai-2-indexicalite-1.md",
+        "path": "2003/2003-mai-2-indexicalite-1.md",
+        "title": "2003-mai-2-indexicalite-1",
         "date": "** Mai 2, 2003",
         "has_notes": true
       },
@@ -2076,6 +2069,13 @@
         "path": "2003/2003-nov-1-Kuhn-application-1.md",
         "title": "2003-nov-1-Kuhn-application-1",
         "date": "** undated",
+        "has_notes": true
+      },
+      {
+        "name": "2003-Oct-1-Chapter III.md",
+        "path": "2003/2003-Oct-1-Chapter III.md",
+        "title": "2003-Oct-1-Chapter III",
+        "date": "** October 9, 2003",
         "has_notes": true
       },
       {
@@ -2116,9 +2116,23 @@
         "has_notes": true
       },
       {
-        "name": "2004-Aug-2-Polanyi.md",
-        "path": "2004/2004-Aug-2-Polanyi.md",
-        "title": "2004-Aug-2-Polanyi",
+        "name": "2004-april-2-Lingujstic philosophy.md",
+        "path": "2004/2004-april-2-Lingujstic philosophy.md",
+        "title": "2004-april-2-Lingujstic philosophy",
+        "date": "** April 28, 2004",
+        "has_notes": true
+      },
+      {
+        "name": "2004-april-Nussbaum.md",
+        "path": "2004/2004-april-Nussbaum.md",
+        "title": "2004-april-Nussbaum",
+        "date": "** April 16, 2004",
+        "has_notes": true
+      },
+      {
+        "name": "2004-Aug2-iSIGNS.md",
+        "path": "2004/2004-Aug2-iSIGNS.md",
+        "title": "2004-Aug2-iSIGNS",
         "date": "** October 21, 2004",
         "has_notes": true
       },
@@ -2137,9 +2151,9 @@
         "has_notes": true
       },
       {
-        "name": "2004-Aug2-iSIGNS.md",
-        "path": "2004/2004-Aug2-iSIGNS.md",
-        "title": "2004-Aug2-iSIGNS",
+        "name": "2004-Aug-2-Polanyi.md",
+        "path": "2004/2004-Aug-2-Polanyi.md",
+        "title": "2004-Aug-2-Polanyi",
         "date": "** October 21, 2004",
         "has_notes": true
       },
@@ -2151,6 +2165,13 @@
         "has_notes": true
       },
       {
+        "name": "2004-feb-animal knowledge-1.md",
+        "path": "2004/2004-feb-animal knowledge-1.md",
+        "title": "2004-feb-animal knowledge-1",
+        "date": "** 2004",
+        "has_notes": true
+      },
+      {
         "name": "2004-II-August 2-Polanyi.md",
         "path": "2004/2004-II-August 2-Polanyi.md",
         "title": "2004-II-August 2-Polanyi",
@@ -2158,44 +2179,9 @@
         "has_notes": true
       },
       {
-        "name": "2004-June 1-Linguistic usage-2.md",
-        "path": "2004/2004-June 1-Linguistic usage-2.md",
-        "title": "2004-June 1-Linguistic usage-2",
-        "date": "** April 28, 2004",
-        "has_notes": true
-      },
-      {
-        "name": "2004-June2-Project Nussbaum.md",
-        "path": "2004/2004-June2-Project Nussbaum.md",
-        "title": "2004-June2-Project Nussbaum",
-        "date": "** June 5, 2004",
-        "has_notes": true
-      },
-      {
-        "name": "2004-September-1-Ad Devereux.md",
-        "path": "2004/2004-September-1-Ad Devereux.md",
-        "title": "2004-September-1-Ad Devereux",
-        "date": "** September 25, 2004",
-        "has_notes": true
-      },
-      {
-        "name": "2004-april-2-Lingujstic philosophy.md",
-        "path": "2004/2004-april-2-Lingujstic philosophy.md",
-        "title": "2004-april-2-Lingujstic philosophy",
-        "date": "** April 28, 2004",
-        "has_notes": true
-      },
-      {
-        "name": "2004-april-Nussbaum.md",
-        "path": "2004/2004-april-Nussbaum.md",
-        "title": "2004-april-Nussbaum",
-        "date": "** April 16, 2004",
-        "has_notes": true
-      },
-      {
-        "name": "2004-feb-animal knowledge-1.md",
-        "path": "2004/2004-feb-animal knowledge-1.md",
-        "title": "2004-feb-animal knowledge-1",
+        "name": "2004-jan-kuhn-application.md",
+        "path": "2004/2004-jan-kuhn-application.md",
+        "title": "2004-jan-kuhn-application",
         "date": "** 2004",
         "has_notes": true
       },
@@ -2207,17 +2193,24 @@
         "has_notes": true
       },
       {
-        "name": "2004-jan-kuhn-application.md",
-        "path": "2004/2004-jan-kuhn-application.md",
-        "title": "2004-jan-kuhn-application",
-        "date": "** 2004",
-        "has_notes": true
-      },
-      {
         "name": "2004-july-1-Michel-1.md",
         "path": "2004/2004-july-1-Michel-1.md",
         "title": "2004-july-1-Michel-1",
         "date": "** July 8, 2004",
+        "has_notes": true
+      },
+      {
+        "name": "2004-June2-Project Nussbaum.md",
+        "path": "2004/2004-June2-Project Nussbaum.md",
+        "title": "2004-June2-Project Nussbaum",
+        "date": "** June 5, 2004",
+        "has_notes": true
+      },
+      {
+        "name": "2004-June 1-Linguistic usage-2.md",
+        "path": "2004/2004-June 1-Linguistic usage-2.md",
+        "title": "2004-June 1-Linguistic usage-2",
+        "date": "** April 28, 2004",
         "has_notes": true
       },
       {
@@ -2232,6 +2225,13 @@
         "path": "2004/2004-october-2-AdDevereux.md",
         "title": "2004-october-2-AdDevereux",
         "date": "** October 4, 2004",
+        "has_notes": true
+      },
+      {
+        "name": "2004-September-1-Ad Devereux.md",
+        "path": "2004/2004-September-1-Ad Devereux.md",
+        "title": "2004-September-1-Ad Devereux",
+        "date": "** September 25, 2004",
         "has_notes": true
       },
       {
@@ -2307,90 +2307,6 @@
     ],
     "2005": [
       {
-        "name": "2005 September 12 Polanyi and practical knowledge.md",
-        "path": "2005/2005 September 12 Polanyi and practical knowledge.md",
-        "title": "2005 September 12 Polanyi and practical knowledge",
-        "date": "** 2005",
-        "has_notes": true
-      },
-      {
-        "name": "2005- Jan 1- Polanyi.md",
-        "path": "2005/2005- Jan 1- Polanyi.md",
-        "title": "2005- Jan 1- Polanyi",
-        "date": "** January 26, \u00a02005",
-        "has_notes": true
-      },
-      {
-        "name": "2005-April 25-Polanyi-1.md",
-        "path": "2005/2005-April 25-Polanyi-1.md",
-        "title": "2005-April 25-Polanyi-1",
-        "date": "** April 25, \u00a02005",
-        "has_notes": true
-      },
-      {
-        "name": "2005-April 6 - Polanyi-1.md",
-        "path": "2005/2005-April 6 - Polanyi-1.md",
-        "title": "2005-April 6 - Polanyi-1",
-        "date": "** 2005",
-        "has_notes": true
-      },
-      {
-        "name": "2005-April 6-Polanyi-1.md",
-        "path": "2005/2005-April 6-Polanyi-1.md",
-        "title": "2005-April 6-Polanyi-1",
-        "date": "** April 6, \u00a02005",
-        "has_notes": true
-      },
-      {
-        "name": "2005-November 11-Saying.md",
-        "path": "2005/2005-November 11-Saying.md",
-        "title": "2005-November 11-Saying",
-        "date": "** 2005",
-        "has_notes": true
-      },
-      {
-        "name": "2005-October 30-Moral theory.md",
-        "path": "2005/2005-October 30-Moral theory.md",
-        "title": "2005-October 30-Moral theory",
-        "date": "** 2005",
-        "has_notes": true
-      },
-      {
-        "name": "2005-may 1-Polanyi-1.md",
-        "path": "2005/2005-may 1-Polanyi-1.md",
-        "title": "2005-may 1-Polanyi-1",
-        "date": "** May 1, \u00a02005",
-        "has_notes": true
-      },
-      {
-        "name": "2005April 25Polanyi-Kuhn.md",
-        "path": "2005/2005April 25Polanyi-Kuhn.md",
-        "title": "2005April 25Polanyi-Kuhn",
-        "date": "** April 25, \u00a02005",
-        "has_notes": true
-      },
-      {
-        "name": "2005April 25Polanyi.md",
-        "path": "2005/2005April 25Polanyi.md",
-        "title": "2005April 25Polanyi",
-        "date": "** April 25,  2005",
-        "has_notes": true
-      },
-      {
-        "name": "2005July1PolanyiJuly 21.md",
-        "path": "2005/2005July1PolanyiJuly 21.md",
-        "title": "2005July1PolanyiJuly 21",
-        "date": "** July 21, 2005",
-        "has_notes": true
-      },
-      {
-        "name": "2005September 12 Polanyi and practical knowledge.md",
-        "path": "2005/2005September 12 Polanyi and practical knowledge.md",
-        "title": "2005September 12 Polanyi and practical knowledge",
-        "date": "** 2005",
-        "has_notes": true
-      },
-      {
         "name": "92-AUG-2.md",
         "path": "2005/92-AUG-2.md",
         "title": "92-AUG-2",
@@ -2451,6 +2367,90 @@
         "path": "2005/94-1.md",
         "title": "94-1",
         "date": "** Undetermined",
+        "has_notes": true
+      },
+      {
+        "name": "2005 September 12 Polanyi and practical knowledge.md",
+        "path": "2005/2005 September 12 Polanyi and practical knowledge.md",
+        "title": "2005 September 12 Polanyi and practical knowledge",
+        "date": "** 2005",
+        "has_notes": true
+      },
+      {
+        "name": "2005- Jan 1- Polanyi.md",
+        "path": "2005/2005- Jan 1- Polanyi.md",
+        "title": "2005- Jan 1- Polanyi",
+        "date": "** January 26, \u00a02005",
+        "has_notes": true
+      },
+      {
+        "name": "2005-April 6 - Polanyi-1.md",
+        "path": "2005/2005-April 6 - Polanyi-1.md",
+        "title": "2005-April 6 - Polanyi-1",
+        "date": "** 2005",
+        "has_notes": true
+      },
+      {
+        "name": "2005-April 6-Polanyi-1.md",
+        "path": "2005/2005-April 6-Polanyi-1.md",
+        "title": "2005-April 6-Polanyi-1",
+        "date": "** April 6, \u00a02005",
+        "has_notes": true
+      },
+      {
+        "name": "2005-April 25-Polanyi-1.md",
+        "path": "2005/2005-April 25-Polanyi-1.md",
+        "title": "2005-April 25-Polanyi-1",
+        "date": "** April 25, \u00a02005",
+        "has_notes": true
+      },
+      {
+        "name": "2005-may 1-Polanyi-1.md",
+        "path": "2005/2005-may 1-Polanyi-1.md",
+        "title": "2005-may 1-Polanyi-1",
+        "date": "** May 1, \u00a02005",
+        "has_notes": true
+      },
+      {
+        "name": "2005-November 11-Saying.md",
+        "path": "2005/2005-November 11-Saying.md",
+        "title": "2005-November 11-Saying",
+        "date": "** 2005",
+        "has_notes": true
+      },
+      {
+        "name": "2005-October 30-Moral theory.md",
+        "path": "2005/2005-October 30-Moral theory.md",
+        "title": "2005-October 30-Moral theory",
+        "date": "** 2005",
+        "has_notes": true
+      },
+      {
+        "name": "2005April 25Polanyi-Kuhn.md",
+        "path": "2005/2005April 25Polanyi-Kuhn.md",
+        "title": "2005April 25Polanyi-Kuhn",
+        "date": "** April 25, \u00a02005",
+        "has_notes": true
+      },
+      {
+        "name": "2005April 25Polanyi.md",
+        "path": "2005/2005April 25Polanyi.md",
+        "title": "2005April 25Polanyi",
+        "date": "** April 25,  2005",
+        "has_notes": true
+      },
+      {
+        "name": "2005July1PolanyiJuly 21.md",
+        "path": "2005/2005July1PolanyiJuly 21.md",
+        "title": "2005July1PolanyiJuly 21",
+        "date": "** July 21, 2005",
+        "has_notes": true
+      },
+      {
+        "name": "2005September 12 Polanyi and practical knowledge.md",
+        "path": "2005/2005September 12 Polanyi and practical knowledge.md",
+        "title": "2005September 12 Polanyi and practical knowledge",
+        "date": "** 2005",
         "has_notes": true
       },
       {
@@ -2905,17 +2905,17 @@
         "has_notes": true
       },
       {
-        "name": "VITAE-1.md",
-        "path": "bibliography/VITAE-1.md",
-        "title": "VITAE-1",
-        "date": "** 1992",
-        "has_notes": true
-      },
-      {
         "name": "citations-1.md",
         "path": "bibliography/citations-1.md",
         "title": "citations-1",
         "date": null,
+        "has_notes": true
+      },
+      {
+        "name": "VITAE-1.md",
+        "path": "bibliography/VITAE-1.md",
+        "title": "VITAE-1",
+        "date": "** 1992",
         "has_notes": true
       }
     ],
@@ -2931,20 +2931,6 @@
         "name": "chapter-1.md",
         "path": "book-manuscript/chapter-1.md",
         "title": "Chapter 1",
-        "date": null,
-        "has_notes": true
-      },
-      {
-        "name": "chapter-10.md",
-        "path": "book-manuscript/chapter-10.md",
-        "title": "Chapter 10",
-        "date": null,
-        "has_notes": true
-      },
-      {
-        "name": "chapter-11.md",
-        "path": "book-manuscript/chapter-11.md",
-        "title": "Chapter 11",
         "date": null,
         "has_notes": true
       },
@@ -3001,6 +2987,20 @@
         "name": "chapter-9.md",
         "path": "book-manuscript/chapter-9.md",
         "title": "Chapter 9",
+        "date": null,
+        "has_notes": true
+      },
+      {
+        "name": "chapter-10.md",
+        "path": "book-manuscript/chapter-10.md",
+        "title": "Chapter 10",
+        "date": null,
+        "has_notes": true
+      },
+      {
+        "name": "chapter-11.md",
+        "path": "book-manuscript/chapter-11.md",
+        "title": "Chapter 11",
         "date": null,
         "has_notes": true
       }
@@ -3097,6 +3097,13 @@
         "path": "appendix/course-materials/DIRECT.md",
         "title": "DIRECT",
         "date": "** 1998",
+        "has_notes": true
+      },
+      {
+        "name": "directed-1.md",
+        "path": "appendix/course-materials/directed-1.md",
+        "title": "directed-1",
+        "date": null,
         "has_notes": true
       },
       {
@@ -3203,13 +3210,6 @@
         "title": "THEAETET",
         "date": "** Undetermined",
         "has_notes": true
-      },
-      {
-        "name": "directed-1.md",
-        "path": "appendix/course-materials/directed-1.md",
-        "title": "directed-1",
-        "date": null,
-        "has_notes": true
       }
     ],
     "exams": [
@@ -3302,6 +3302,13 @@
         "path": "appendix/exams/CALITWO.md",
         "title": "CALITWO",
         "date": "** Undetermined",
+        "has_notes": true
+      },
+      {
+        "name": "cam99-1st per.md",
+        "path": "appendix/exams/cam99-1st per.md",
+        "title": "cam99-1st per",
+        "date": null,
         "has_notes": true
       },
       {
@@ -3445,13 +3452,6 @@
         "has_notes": true
       },
       {
-        "name": "MYTHCAL.md",
-        "path": "appendix/exams/MYTHCAL.md",
-        "title": "MYTHCAL",
-        "date": null,
-        "has_notes": true
-      },
-      {
         "name": "Marma-fin-98-a.md",
         "path": "appendix/exams/Marma-fin-98-a.md",
         "title": "Marma-fin-98-a",
@@ -3459,9 +3459,16 @@
         "has_notes": true
       },
       {
-        "name": "PLA-3.md",
-        "path": "appendix/exams/PLA-3.md",
-        "title": "PLA-3",
+        "name": "meursault.md",
+        "path": "appendix/exams/meursault.md",
+        "title": "meursault",
+        "date": null,
+        "has_notes": true
+      },
+      {
+        "name": "MYTHCAL.md",
+        "path": "appendix/exams/MYTHCAL.md",
+        "title": "MYTHCAL",
         "date": null,
         "has_notes": true
       },
@@ -3470,6 +3477,13 @@
         "path": "appendix/exams/PLA2ND.md",
         "title": "PLA2ND",
         "date": "** Undetermined",
+        "has_notes": true
+      },
+      {
+        "name": "PLA-3.md",
+        "path": "appendix/exams/PLA-3.md",
+        "title": "PLA-3",
+        "date": null,
         "has_notes": true
       },
       {
@@ -3483,6 +3497,13 @@
         "name": "PLAJURE.md",
         "path": "appendix/exams/PLAJURE.md",
         "title": "PLAJURE",
+        "date": "** Undetermined",
+        "has_notes": true
+      },
+      {
+        "name": "skin-sa-99-1.md",
+        "path": "appendix/exams/skin-sa-99-1.md",
+        "title": "skin-sa-99-1",
         "date": "** Undetermined",
         "has_notes": true
       },
@@ -3555,27 +3576,6 @@
         "title": "Y",
         "date": null,
         "has_notes": true
-      },
-      {
-        "name": "cam99-1st per.md",
-        "path": "appendix/exams/cam99-1st per.md",
-        "title": "cam99-1st per",
-        "date": null,
-        "has_notes": true
-      },
-      {
-        "name": "meursault.md",
-        "path": "appendix/exams/meursault.md",
-        "title": "meursault",
-        "date": null,
-        "has_notes": true
-      },
-      {
-        "name": "skin-sa-99-1.md",
-        "path": "appendix/exams/skin-sa-99-1.md",
-        "title": "skin-sa-99-1",
-        "date": "** Undetermined",
-        "has_notes": true
       }
     ],
     "historical": [
@@ -3593,6 +3593,13 @@
         "path": "appendix/personal/25.md",
         "title": "25",
         "date": "** Undetermined (likely mid-1990s based on 25th anniversary mention)",
+        "has_notes": true
+      },
+      {
+        "name": "arianists.md",
+        "path": "appendix/personal/arianists.md",
+        "title": "arianists",
+        "date": "** undated",
         "has_notes": true
       },
       {
@@ -3650,13 +3657,6 @@
         "title": "SALMO",
         "date": "** Undetermined",
         "has_notes": true
-      },
-      {
-        "name": "arianists.md",
-        "path": "appendix/personal/arianists.md",
-        "title": "arianists",
-        "date": "** undated",
-        "has_notes": true
       }
     ],
     "uncategorized": [
@@ -3682,6 +3682,13 @@
         "has_notes": true
       },
       {
+        "name": "harris.md",
+        "path": "appendix/uncategorized/harris.md",
+        "title": "harris",
+        "date": "** Undetermined",
+        "has_notes": true
+      },
+      {
         "name": "L'HEUREU.md",
         "path": "appendix/uncategorized/L'HEUREU.md",
         "title": "L'HEUREU",
@@ -3699,13 +3706,6 @@
         "name": "SOCJUST98.md",
         "path": "appendix/uncategorized/SOCJUST98.md",
         "title": "SOCJUST98",
-        "date": "** Undetermined",
-        "has_notes": true
-      },
-      {
-        "name": "harris.md",
-        "path": "appendix/uncategorized/harris.md",
-        "title": "harris",
         "date": "** Undetermined",
         "has_notes": true
       },

@@ -7,8 +7,15 @@ Scans xavier-papers-organized/, generates tree index, copies files to /site.
 
 import os
 import json
+import re
 import shutil
 from pathlib import Path
+
+def natural_sort_key(path):
+    """Sort key ordering embedded numbers numerically, e.g. chapter-2 before
+    chapter-10, instead of plain lexicographic ('chapter-10' < 'chapter-2')."""
+    parts = re.split(r'(\d+)', path.name)
+    return [int(p) if p.isdigit() else p.lower() for p in parts]
 
 # Configuration
 SOURCE_DIR = Path("xavier-papers-organized")
@@ -84,7 +91,7 @@ def build_tree():
                 if not subfolder.is_dir():
                     continue
                 files = []
-                for md_file in sorted(subfolder.glob("*.md")):
+                for md_file in sorted(subfolder.glob("*.md"), key=natural_sort_key):
                     if md_file.name.endswith('.notes') or md_file.name == 'README.md':
                         continue
                     notes_content = get_notes_content(md_file)
@@ -104,7 +111,7 @@ def build_tree():
         files = []
 
         # Get all .md files (excluding .notes and README)
-        for md_file in sorted(item.glob("*.md")):
+        for md_file in sorted(item.glob("*.md"), key=natural_sort_key):
             if md_file.name.endswith('.notes') or md_file.name == 'README.md':
                 continue
 

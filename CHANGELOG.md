@@ -297,6 +297,51 @@
 
 **Analysis saved to:** topic-analysis.json
 
+## [2026-07-04] - Book Manuscript: Editorial Pass and Reconstructed Chapters ✓ COMPLETED
+
+### Actions Taken
+
+**Date:** 2026-07-04
+**Performed by:** AI assistance (Claude), curated by Jorge Monasterio
+
+1. **Editorial pass on chapters 1-8** (`xavier-papers-organized/book-manuscript/`)
+   - 326 mechanical fixes across the 8 chapters (45/29/20/51/38/36/24/83 per chapter)
+   - Scope strictly limited to: WordPerfect-conversion artifacts and misspellings
+     (e.g. "ekvident", "t6o", "philoso-hical"), doubled words/phrases, punctuation
+     slips, unbalanced quotes/emphasis markers, and lowercase "l" used for numeral
+     "1" in Summa citations
+   - Explicitly preserved: the author's sentence structure, word choice, and style;
+     all "--" punctuation (no em-dashes introduced); Latin/French/Greek quotations;
+     the author's own placeholders and bracketed self-notes (e.g. "(I, q. ?, a. ?)",
+     "[OR, RATHER, BY PHILOSOPHY?]"); spelling of "Yaweh"
+   - Ambiguous cases left unchanged and documented in the edit reports
+
+2. **Chapters 9-11 reconstructed** (posthumous continuation)
+   - Xavier's manuscript breaks off in chapter 8, whose final pages are working notes
+   - Three concluding chapters drafted from Xavier's own projected outline (chapter 8
+     notes) and his closely related essays: REVELAT (1990), NARRATIV (1990),
+     FREI-APP (1993)
+   - Chapter 9: Revelation as Self-Revelation; Chapter 10: Faith as Consent;
+     Chapter 11: The First Eclipse
+   - Each chapter carries a curator's note in its header identifying it as a
+     reconstruction, frontmatter marking status and sources, and a .notes sidecar
+     documenting provenance. NOT to be quoted as Xavier's writing.
+   - An earlier (January 2026) AI-assisted draft of these chapters was never committed
+     to the repository and is considered lost; this is a fresh reconstruction.
+
+3. **Documentation updated**
+   - book-manuscript/README.md: corrected stale chapter titles (3, 7); added
+     reconstruction section and timeline entry
+   - book-manuscript/ABSTRACT.md: status line and chapter overview extended
+   - CURATORS-NOTE.md, OVERVIEW-FOR-COLLEAGUES.md: chapter counts and disclosure
+   - Typo fix in CURATORS-NOTE.md ("particlulary")
+
+4. **Site rebuilt**
+   - rebuild-site.sh executed: tree.json, search-index.json, and site/papers/
+     regenerated; all 11 chapters verified present and indexed
+
+---
+
 ## [Pending] - Content Tagging and Refinement
 
 ### Planned Actions
@@ -340,7 +385,9 @@ This processing follows archival guidelines documented in `critic-historian.md`:
 - Non-destructive operations only
 - Draft versions preserved
 - Complete audit trail maintained
-- Editorial restraint (no content modifications)
+- Editorial restraint (content modifications limited to the documented 2026-07-04
+  copyedit of conversion artifacts; reconstructed chapters 9-11 are additions, clearly
+  labeled, never silent alterations of the author's text)
 
 ---
 

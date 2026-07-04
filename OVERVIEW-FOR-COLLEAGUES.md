@@ -13,7 +13,7 @@ The collection has been organized chronologically, with all documents converted 
 - **Format:** All documents in Markdown (.md) format for accessibility
 - **Organization:** Chronological by year
 - **Major works:** 4 substantial philosophical essays/papers
-- **Book manuscript:** 8 chapters of an unpublished book (1991-2000)
+- **Book manuscript:** 8 chapters of an unpublished book (1991-2000), plus 3 clearly-labeled posthumous reconstructions (2026)
 - **Course materials:** 29 lecture notes and syllabi, 52 exam documents
 - **Bibliography:** 11 bibliography and citation documents
 
@@ -164,7 +164,7 @@ xavier-papers-organized/
 ├── 2006/              # 9 files
 ├── 2007/              # 3 files
 ├── 2008/              # 3 files (latest content)
-├── book-manuscript/   # 8 chapters + supporting files
+├── book-manuscript/   # 8 chapters + 3 reconstructed chapters + supporting files
 ├── bibliography/      # 11 files including versions
 │   └── versions/      # Historical bibliography versions
 └── appendix/

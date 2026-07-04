@@ -18,7 +18,7 @@ The answer, it turns out, is yes—with supervision. The AI handled the technica
 
 The organized archive spans roughly 1989 to 2009 and includes:
 
-- **An unpublished book manuscript** (8 chapters) arguing that Aquinas's Aristotelian synthesis fundamentally altered Christianity's understanding of faith
+- **An unpublished book manuscript** (8 chapters) arguing that Aquinas's Aristotelian synthesis fundamentally altered Christianity's understanding of faith. The manuscript breaks off in chapter 8; three concluding chapters (9-11) were reconstructed in 2026 with AI assistance from my father's own notes and essays, and are clearly labeled as such -- they should not be quoted as his writing.
 - **Major essays** on violence, bad faith, and related themes
 - **Course materials** from decades of teaching philosophy at the University of Dayton
 - **Working notes and drafts** showing a mind still actively engaged with the questions that drove his published work
@@ -48,7 +48,7 @@ I suspect he might have approved of this project, not despite the AI's involveme
 
 ## Acknowledgments
 
-I want to thank those who encouraged this project (particlulary John Inglis and Margaret Knapke) and those who expressed interest in my father's work over the years. Your requests are what finally made this happen.
+I want to thank those who encouraged this project (particularly John Inglis and Margaret Knapke) and those who expressed interest in my father's work over the years. Your requests are what finally made this happen.
 
 Thanks also to the colleagues who knew my father and kept his memory alive in the philosophical community.
 

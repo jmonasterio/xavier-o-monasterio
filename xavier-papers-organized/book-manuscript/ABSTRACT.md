@@ -10,7 +10,7 @@
 |---|---|
 | **Author** | Xavier Ortiz Monasterio |
 | **Period of Composition** | 1991-2000 (primary work 1997) |
-| **Status** | Unpublished manuscript, 8 chapters |
+| **Status** | Unpublished manuscript, 8 chapters (plus 3 posthumously reconstructed chapters, 2026) |
 | **Field** | Medieval Philosophy, Philosophy of Religion, Theology |
 
 ---
@@ -48,6 +48,15 @@ Compares Bonaventure's and Aquinas's approaches to the relationship between Scri
 
 ### [Chapter 8: Biblical Categories and Aristotelian Categories](/#/writings/book-manuscript/chapter-8.md)
 The culminating philosophical chapter. Develops an alternative theory of faith grounded in narrative rather than proposition. Drawing on speech-act theory, argues that Biblical narratives possess an irreducible "narrative sense" that cannot be captured by Aristotelian propositional logic.
+
+### [Chapter 9: Revelation as Self-Revelation](/#/writings/book-manuscript/chapter-9.md) *(posthumous reconstruction)*
+Argues that revelation is God's self-revealing interaction with particular persons, not a transmission of knowledge; distinguishes revelation from inspiration; shows how the narrative makes readers witnesses of the foundational encounters, and how the Bible's living Character turns witnesses into participants. *Reconstructed (2026, AI-assisted) from the chapter 8 working notes and the essays REVELAT and NARRATIV (1990); not Xavier's writing.*
+
+### [Chapter 10: Faith as Consent](/#/writings/book-manuscript/chapter-10.md) *(posthumous reconstruction)*
+Develops the correlative account of faith: consent, not assent -- the whole person's self-committing response to the God narratively met (Abraham vs. Camus's Clamence). Recovers the Fathers' "credere in Deum," and relocates creeds and doctrine as confessions and guardians of the consent rather than catalogs of statements. *Reconstructed (2026, AI-assisted); not Xavier's writing.*
+
+### [Chapter 11: The First Eclipse](/#/writings/book-manuscript/chapter-11.md) *(posthumous reconstruction)*
+The conclusion. Antedates Frei's "eclipse of biblical narrative" to the 13th century: the Enlightenment's critical reading and modern fundamentalism as twin heirs of the Scholastic propositional reduction. Explains why the Scholastics' faith survived their theory (the liturgy as institutionalized narrative reading), vindicates the medieval resisters, and proposes what theology legitimately is once it renounces the Aristotelian title. *Reconstructed (2026, AI-assisted); not Xavier's writing.*
 
 ---
 

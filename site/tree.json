@@ -2935,6 +2935,20 @@
         "has_notes": true
       },
       {
+        "name": "chapter-10.md",
+        "path": "book-manuscript/chapter-10.md",
+        "title": "Chapter 10",
+        "date": null,
+        "has_notes": true
+      },
+      {
+        "name": "chapter-11.md",
+        "path": "book-manuscript/chapter-11.md",
+        "title": "Chapter 11",
+        "date": null,
+        "has_notes": true
+      },
+      {
         "name": "chapter-2.md",
         "path": "book-manuscript/chapter-2.md",
         "title": "Chapter 2",
@@ -2980,6 +2994,13 @@
         "name": "chapter-8.md",
         "path": "book-manuscript/chapter-8.md",
         "title": "Chapter 8",
+        "date": null,
+        "has_notes": true
+      },
+      {
+        "name": "chapter-9.md",
+        "path": "book-manuscript/chapter-9.md",
+        "title": "Chapter 9",
         "date": null,
         "has_notes": true
       }

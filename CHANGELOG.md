@@ -3,6 +3,25 @@
 
 ---
 
+## [2026-07-06] - Print Edition Tooling (Believing into God)
+
+**Performed by:** AI assistance (Claude), curated by Jorge Monasterio
+
+Added build tooling for publishing the book manuscript as *Believing into
+God: Aquinas, Aristotle, and the Denaturation of Christian Faith*
+(Monasterio Books, ISBN 979-8-234-13869-9, 6x9 jacketed hardcover via
+IngramSpark):
+
+- `build-epub.py` -> `epub/believing-into-god.epub` (ebook edition)
+- `build-pdf.py` -> `epub/believing-into-god-interior.pdf` (print interior,
+  253 pp, Typst-typeset)
+- `build-jacket.py` -> `epub/believing-into-god-jacket.pdf` (dust jacket
+  spread with generated EAN-13 barcode; spine width draft until the
+  IngramSpark template confirms it)
+- `build-book-page.py` -> `site/book.html` (single-page web edition)
+- `epub/front-matter.md` — shared copyright page and Note on the Text
+  (corrected author birth year to 1926 per verified UD records)
+
 ## [2026-07-04] - Deployment Pipeline Changed
 
 **Performed by:** AI assistance (Claude), curated by Jorge Monasterio

@@ -13,3 +13,6 @@ claude-code.sh
 
 # Speculative/draft content not ready for publication
 speculative/*
+
+# Local tooling installers (not content)
+gs-installer.exe

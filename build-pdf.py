@@ -76,9 +76,19 @@ PREAMBLE = f"""\
   ]
 ]
 
+// ---------------- dedication ----------------
+#pagebreak(to: "odd", weak: true)
+#page(numbering: none)[
+  #v(3in)
+  #align(center, text(size: 12pt, style: "italic")[__DEDICATION__])
+]
+
 // ---------------- front matter (unpaginated, not in contents) ----------------
 #set heading(outlined: false)
 """
+
+DEDICATION_RE = re.compile(
+    r"# Dedication[^\n]*\n+\*?(.+?)\*?\n+(?=# )", re.DOTALL)
 
 CONTENTS_AND_BODY_SWITCH = """
 // ---------------- contents ----------------
@@ -129,10 +139,15 @@ def load_chapter(path: Path) -> str:
 
 
 def main() -> int:
-    front = md_to_typst(FRONT_MATTER.read_text(encoding="utf-8"))
+    fm_md = FRONT_MATTER.read_text(encoding="utf-8")
+    m = DEDICATION_RE.search(fm_md)
+    dedication = m.group(1).strip() if m else ""
+    fm_md = DEDICATION_RE.sub("", fm_md, count=1)
+    front = md_to_typst(fm_md)
     body = md_to_typst("\n\n".join(load_chapter(p) for p in CHAPTERS))
 
-    doc = PREAMBLE + front + CONTENTS_AND_BODY_SWITCH + body
+    doc = (PREAMBLE.replace("__DEDICATION__", dedication)
+           + front + CONTENTS_AND_BODY_SWITCH + body)
     with tempfile.TemporaryDirectory() as tmp:
         src = Path(tmp) / "interior.typ"
         src.write_text(doc, encoding="utf-8")

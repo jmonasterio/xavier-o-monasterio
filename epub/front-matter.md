@@ -1,3 +1,7 @@
+# Dedication {.unnumbered}
+
+*For Genevieve, who shared the years in which this book was written.*
+
 # Copyright {.unnumbered epub:type=copyright-page}
 
 Text of chapters 1–8 © 1991–2000 the Estate of Xavier Ortiz Monasterio. All rights reserved.

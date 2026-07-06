@@ -105,6 +105,24 @@ def md_to_typst(markdown: str) -> str:
         return out.read_text(encoding="utf-8")
 
 
+GSWIN = "C:/Users/jorge.000/scoop/shims/gswin64c.exe"
+
+
+def to_device_gray(pdf: Path) -> None:
+    """Strip ICC profiles; convert all color to DeviceGray (IngramSpark B&W)."""
+    tmp = pdf.with_suffix(".gs.pdf")
+    subprocess.run(
+        [GSWIN, "-o", str(tmp), "-sDEVICE=pdfwrite",
+         "-dPDFSETTINGS=/prepress", "-dCompatibilityLevel=1.4",
+         "-sColorConversionStrategy=Gray", "-dProcessColorModel=/DeviceGray",
+         "-dDownsampleColorImages=false", "-dDownsampleGrayImages=false",
+         "-dDownsampleMonoImages=false", "-dAutoRotatePages=/None",
+         str(pdf)],
+        check=True,
+    )
+    tmp.replace(pdf)
+
+
 def load_chapter(path: Path) -> str:
     text = FRONTMATTER_RE.sub("", path.read_text(encoding="utf-8"), count=1)
     return EMDASH_RE.sub("\u2014", text.strip())
@@ -121,6 +139,7 @@ def main() -> int:
         result = subprocess.run([TYPST, "compile", str(src), str(OUTPUT)])
         if result.returncode != 0:
             return result.returncode
+    to_device_gray(OUTPUT)
 
     raw = OUTPUT.read_bytes()
     counts = re.findall(rb"/Type\s*/Pages[^>]*?/Count\s+(\d+)", raw)

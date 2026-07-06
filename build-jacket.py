@@ -62,8 +62,10 @@ BACK_FLAP = """Xavier Ortiz Monasterio (1926–2011) took his Ph.D. in philosoph
 
 Edited by Jorge Monasterio.
 
-The complete archive of the author's papers is preserved at
-github.com/jmonasterio/xavier-o-monasterio"""
+The complete archive of the author's papers — essays, course materials, and this manuscript in its original form — is free to read at
+argw.com/xavier
+
+Permanently preserved at #text(hyphenate: false)[github.com/jmonasterio/xavier-o-monasterio]"""
 
 BACK_COVER_QUOTE = """“The Bible and the Summa are books of totally different literary genres. Nonetheless, supposedly, the subject matter of both is divine revelation. The question is whether in the shift from one genre to the other divine revelation remains the same — or whether, on the contrary, it undergoes a substantive change, a change affecting its very nature.”"""
 
@@ -120,6 +122,24 @@ def para_blocks(text: str) -> str:
     return "\n#v(0.6em)\n".join(out)
 
 
+GSWIN = "C:/Users/jorge.000/scoop/shims/gswin64c.exe"
+
+
+def to_device_cmyk(pdf: Path) -> None:
+    """Strip ICC profiles; convert all color to DeviceCMYK (IngramSpark color)."""
+    tmp = pdf.with_suffix(".gs.pdf")
+    subprocess.run(
+        [GSWIN, "-o", str(tmp), "-sDEVICE=pdfwrite",
+         "-dPDFSETTINGS=/prepress", "-dCompatibilityLevel=1.4",
+         "-sColorConversionStrategy=CMYK", "-dProcessColorModel=/DeviceCMYK",
+         "-dDownsampleColorImages=false", "-dDownsampleGrayImages=false",
+         "-dDownsampleMonoImages=false", "-dAutoRotatePages=/None",
+         str(pdf)],
+        check=True,
+    )
+    tmp.replace(pdf)
+
+
 def main() -> int:
     BARCODE_SVG.write_text(ean13_svg(ISBN), encoding="utf-8")
 
@@ -140,6 +160,7 @@ def main() -> int:
 // ---------------- back flap ----------------
 #place(dx: {x_back_flap}in + 0.25in, dy: {y_top}in + 0.55in,
   block(width: {FLAP_W}in - 0.5in, text(size: 9pt)[
+    #set par(justify: false)
     {para_blocks(BACK_FLAP)}
   ]))
 
@@ -187,6 +208,7 @@ def main() -> int:
 // ---------------- front flap ----------------
 #place(dx: {x_front_flap}in + 0.25in, dy: {y_top}in + 0.55in,
   block(width: {FLAP_W}in - 0.5in, text(size: 9pt)[
+    #set par(justify: false)
     {para_blocks(FRONT_FLAP)}
     #v(1em)
     #align(right, text(size: 8pt)[Jacket design: Monasterio Books])
@@ -197,6 +219,7 @@ def main() -> int:
     result = subprocess.run([TYPST, "compile", str(src), str(OUTPUT)])
     if result.returncode != 0:
         return result.returncode
+    to_device_cmyk(OUTPUT)
 
     print(f"Wrote {OUTPUT} ({OUTPUT.stat().st_size // 1024} KB)")
     print(f"Page: {PAGE_W:.3f}in x {PAGE_H:.3f}in (spine {SPINE_WIDTH}in DRAFT)")
